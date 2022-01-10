@@ -4,14 +4,14 @@
     "$type": "f04f17ea4eae4fb89afa5b4021444740, BlueprintArchetype",
     "PrototypeLink": null,
     "m_Overrides": [
-      "$PrerequisiteNoFeature$4e10fe21-7559-4fa5-b46c-2de7aecb536f",
+      "$PrerequisiteNoFeature$48581f08-9b4a-4ee6-a054-3fb39bd70249",
       "$DeityDependencyClass$467f587e-ecff-4451-8ff1-7f08d896cf7b"
     ],
     "Components": [
       {
         "$type": "335732aafd9506041bd15e96b782fd61, PrerequisiteNoFeature",
         "m_Flags": 0,
-        "name": "$PrerequisiteNoFeature$4e10fe21-7559-4fa5-b46c-2de7aecb536f",
+        "name": "$PrerequisiteNoFeature$48581f08-9b4a-4ee6-a054-3fb39bd70249",
         "PrototypeLink": {
           "guid": "",
           "name": ""

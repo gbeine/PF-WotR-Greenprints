@@ -59,6 +59,7 @@ afbe88d27a0eb544583e00fa78ffb2c7 // StuddedStandard (Studded Leather Armor)
 a33b99f95322d6741af83e9381b2391c // AdvanceTalents
 f894e003d31461f48a02f5caec4e3359 // AnimalCompanionFeatureDog
 95973c6705753eb43a50d00c0e501bbc // AnimalInsight
+92c0d2da0a836ce418a267093c09ca54 // AtheismFeature
 65cff8410a336654486c98fd3bacd8c5 // BardicKnowledge
 fa3d3b2211a51994785d85e753f612d3 // BardProficiencies
 6be8b4031d8b9fc4f879b72b5428f1e0 // CunningInitiative
