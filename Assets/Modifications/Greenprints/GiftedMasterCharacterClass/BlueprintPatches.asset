@@ -15,6 +15,8 @@ MonoBehaviour:
   Entries:
   - Guid: 2d77316c72b9ed44f888ceefc2a131f6
     Filename: BlueprintRoot.patch
+  - Guid: 3a4214e3c2eab3c40bc491d7abea7045
+    Filename: Archetypes/GrandWitcher/WitchPatrons/PatronDeception/WitchDeceptionPatronProgression.patch
   - Guid: 750bfcd133cd52f42acbd4f7bc9cc365
     Filename: Archetypes/DivineMaster/Domains/Air/AirDomainProgression.patch
   - Guid: 23d2f87aa54c89f418e68e790dba11e0

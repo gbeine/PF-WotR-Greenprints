@@ -1,0 +1,233 @@
+{
+  "AssetId": "2f81dcfd95f64216899e2c701d155af0",
+  "Data": {
+    "$type": "f04f17ea4eae4fb89afa5b4021444740, BlueprintArchetype",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "bbe1931feea2c5b49aa158c5c5f9b260, PrerequisiteAlignment",
+        "name": "$PrerequisiteAlignment$733008e2-7d89-440d-bf6f-786d0bed62b1",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "Alignment": "Good"
+      }
+    ],
+    "Comment": "",
+    "LocalizedName": {
+      "m_Key": "GiftedMaster_Charlatan_Name",
+      "m_OwnerString": "2f81dcfd95f64216899e2c701d155af0",
+      "m_OwnerPropertyPath": "LocalizedName",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "LocalizedDescription": {
+      "m_Key": "GiftedMaster_Charlatan_Description",
+      "m_OwnerString": "2f81dcfd95f64216899e2c701d155af0",
+      "m_OwnerPropertyPath": "LocalizedDescription",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "LocalizedDescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": null,
+    "m_ReplaceSpellbook": "!bp_b3db3766a4b605040b366265e2af0e50",
+    "RemoveSpellbook": false,
+    "BuildChanging": true,
+    "AddFeatures": [
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_d3e6275cfa6e7a04b9213b7b292a011c",
+          "!bp_62ef1cdb90f1d654d996556669caf7fa",
+          "!bp_5ad7c9fb13ecb52489a89824f0e3db08",
+          "!bp_ee0b69e90bac14446a4cf9a050f87f2e",
+          "!bp_9d1e2212594cf47438fff2fa3477b954",
+          "!bp_8c189560d7f94dd688f0dc29f6963610",
+          "!bp_b8bf3d5023f2d8c428fdf6438cecaea7"
+        ]
+      },
+      {
+        "Level": 2,
+        "m_Features": [
+          "!bp_855a1e132cfa444eb8eed4c784ee8ec9",
+          "!bp_b8bf3d5023f2d8c428fdf6438cecaea7"
+        ]
+      },
+      {
+        "Level": 4,
+        "m_Features": [
+          "!bp_b8bf3d5023f2d8c428fdf6438cecaea7"
+        ]
+      },
+      {
+        "Level": 6,
+        "m_Features": [
+          "!bp_b8bf3d5023f2d8c428fdf6438cecaea7"
+        ]
+      },
+      {
+        "Level": 8,
+        "m_Features": [
+          "!bp_855a1e132cfa444eb8eed4c784ee8ec9",
+          "!bp_b8bf3d5023f2d8c428fdf6438cecaea7"
+        ]
+      },
+      {
+        "Level": 10,
+        "m_Features": [
+          "!bp_c7536b93f17c70d4fa3a8cf9aa76bfb7",
+          "!bp_b8bf3d5023f2d8c428fdf6438cecaea7"
+        ]
+      },
+      {
+        "Level": 12,
+        "m_Features": [
+          "!bp_b8bf3d5023f2d8c428fdf6438cecaea7"
+        ]
+      },
+      {
+        "Level": 14,
+        "m_Features": [
+          "!bp_b8bf3d5023f2d8c428fdf6438cecaea7"
+        ]
+      },
+      {
+        "Level": 16,
+        "m_Features": [
+          "!bp_855a1e132cfa444eb8eed4c784ee8ec9",
+          "!bp_3ff892a2eaa1462796ddc776bb49648d",
+          "!bp_b8bf3d5023f2d8c428fdf6438cecaea7"
+        ]
+      },
+      {
+        "Level": 18,
+        "m_Features": [
+          "!bp_b8bf3d5023f2d8c428fdf6438cecaea7"
+        ]
+      },
+      {
+        "Level": 20,
+        "m_Features": [
+          "!bp_b8bf3d5023f2d8c428fdf6438cecaea7",
+          "!bp_261270d064148224fb982590b7a65414"
+        ]
+      }
+    ],
+    "RemoveFeatures": [
+      {
+        "Level": 2,
+        "m_Features": [
+          "!bp_c074a5d615200494b8f2a9c845799d93"
+        ]
+      },
+      {
+        "Level": 3,
+        "m_Features": [
+          "!bp_f2d2c1702d8a4cc6adfcbd4ebff8eee4"
+        ]
+      },
+      {
+        "Level": 4,
+        "m_Features": [
+          "!bp_c074a5d615200494b8f2a9c845799d93"
+        ]
+      },
+      {
+        "Level": 6,
+        "m_Features": [
+          "!bp_c074a5d615200494b8f2a9c845799d93"
+        ]
+      },
+      {
+        "Level": 7,
+        "m_Features": [
+          "!bp_f2d2c1702d8a4cc6adfcbd4ebff8eee4"
+        ]
+      },
+      {
+        "Level": 8,
+        "m_Features": [
+          "!bp_c074a5d615200494b8f2a9c845799d93"
+        ]
+      },
+      {
+        "Level": 10,
+        "m_Features": [
+          "!bp_c074a5d615200494b8f2a9c845799d93"
+        ]
+      },
+      {
+        "Level": 11,
+        "m_Features": [
+          "!bp_f2d2c1702d8a4cc6adfcbd4ebff8eee4"
+        ]
+      },
+      {
+        "Level": 12,
+        "m_Features": [
+          "!bp_c074a5d615200494b8f2a9c845799d93"
+        ]
+      },
+      {
+        "Level": 14,
+        "m_Features": [
+          "!bp_c074a5d615200494b8f2a9c845799d93"
+        ]
+      },
+      {
+        "Level": 15,
+        "m_Features": [
+          "!bp_f2d2c1702d8a4cc6adfcbd4ebff8eee4"
+        ]
+      },
+      {
+        "Level": 16,
+        "m_Features": [
+          "!bp_c074a5d615200494b8f2a9c845799d93"
+        ]
+      },
+      {
+        "Level": 18,
+        "m_Features": [
+          "!bp_c074a5d615200494b8f2a9c845799d93"
+        ]
+      },
+      {
+        "Level": 20,
+        "m_Features": [
+          "!bp_c074a5d615200494b8f2a9c845799d93"
+        ]
+      }
+    ],
+    "ReplaceStartingEquipment": false,
+    "StartingGold": 0,
+    "m_StartingItems": [],
+    "ReplaceClassSkills": false,
+    "ClassSkills": [],
+    "ChangeCasterType": false,
+    "IsDivineCaster": false,
+    "IsArcaneCaster": true,
+    "AddSkillPoints": 0,
+    "OverrideAttributeRecommendations": false,
+    "RecommendedAttributes": [],
+    "NotRecommendedAttributes": [],
+    "m_SignatureAbilities": [],
+    "m_BaseAttackBonus": null,
+    "m_FortitudeSave": null,
+    "m_ReflexSave": null,
+    "m_WillSave": null,
+    "m_Difficulty": 1
+  }
+}

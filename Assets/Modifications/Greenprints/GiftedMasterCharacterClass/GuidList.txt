@@ -1,9 +1,12 @@
 9e1943315e9f4c649cd2fa86e202972c GiftedMasterClass
 2416efa0a92c4d329de3d08ff34ad88b GiftedMasterProgession
 3929ef95af69497eaf11615b16bd1882 DivineMasterArchetype
+2f81dcfd95f64216899e2c701d155af0 CharlatanArchetype
+ba1a9ad7691f423e81fa7f3defe677f6 GrandWitcherArchetype
 
 6fc4158e-8a35-43f5-bf0f-1082f968b192 GiftedMasterClass > Component > PrerequisiteNoClassLevel
 ce7a7ef9-71ad-4575-af36-744293904735 GiftedMasterClass > Component > PrerequisiteIsPet
+733008e2-7d89-440d-bf6f-786d0bed62b1 Charlatan > Component > PrerequisiteAlignment
 4e10fe21-7559-4fa5-b46c-2de7aecb536f DivineMaster > Component > PrerequisiteNoFeature
 467f587e-ecff-4451-8ff1-7f08d896cf7b DivineMaster > Component > DeityDependencyClass
 83df8c6a-cc3c-4cd6-b634-2927814788db DivineMaster > Component > PrerequisiteAlignment
@@ -56,9 +59,14 @@ afbe88d27a0eb544583e00fa78ffb2c7 // StuddedStandard (Studded Leather Armor)
 1e4797f3425461946a0ae2986d16c85d // Arcanist & Wizard (Female) (Equipment)
 64abd9c4d6565de419f394f71a2d496f // Arcanist & Wizard (Female) (Equipment)
 
+b897fe0947e4b804082b1a687c21e6e2 // AccursedWitchSpellbook (GrandWitcher)
 a33b99f95322d6741af83e9381b2391c // AdvanceTalents
 f894e003d31461f48a02f5caec4e3359 // AnimalCompanionFeatureDog
 95973c6705753eb43a50d00c0e501bbc // AnimalInsight
+9d1e2212594cf47438fff2fa3477b954 // ArcaneEnforcerArcaneReservoirFeature (Charlatan)
+5ad7c9fb13ecb52489a89824f0e3db08 // ArcanistCantripsFeature (Charlatan)
+c7536b93f17c70d4fa3a8cf9aa76bfb7 // ArcanistGreaterExploitsFeature (Charlatan)
+261270d064148224fb982590b7a65414 // ArcanistMagicalSupremacy (Charlatan)
 92c0d2da0a836ce418a267093c09ca54 // AtheismFeature
 65cff8410a336654486c98fd3bacd8c5 // BardicKnowledge
 fa3d3b2211a51994785d85e753f612d3 // BardProficiencies
@@ -76,6 +84,7 @@ e59db96fa83cefd4a9a8f211500d9522 // InquisitorProficiencies (DivineMasterArchety
 f2d2c1702d8a4cc6adfcbd4ebff8eee4 // MasterOfAllSkillFocus
 a26c0279a423fc94cabeea898f4d9f8a // MasterSlayerFeature (DivineMaster)
 72dcf1fb106d5054a81fd804fdc168d3 // MasterStrike (DivineMaster)
+d3e6275cfa6e7a04b9213b7b292a011c // RayCalculateFeature (Charlatan, GrandWitcher)
 c074a5d615200494b8f2a9c845799d93 // RogueTalentSelection
 e1f437048db80164792155102375b62c // SacredHuntsmasterTactics
 6d9d3fbc30564e64d966dba27cd6357a // SanctifiedSlayerStudyTargetFeature (DivineMaster)
@@ -83,14 +92,26 @@ e1f437048db80164792155102375b62c // SacredHuntsmasterTactics
 09bdd9445ac38044389476689ae8d5a1 // SlayerStudyTargetFeature (DivineMaster)
 40d4f55a5ac0e4f469d67d36c0dfc40b // SlayerSwiftStudyTargetFeature (DivineMaster)
 5602845cd22683840a6f28ec46331051 // SoloTactics
+b3db3766a4b605040b366265e2af0e50 // SorcererSpellbook (Charlatan)
 ec9dbc9a5fa26e446a54fe5df6779088 // Stalwart
 a6d917fd5c9bee0449bd01c92e3b0308 // SternGaze
 c38720e9140d5b34f8f22b25c23168a9 // StygianSlayerInvisibilityFeature (DivineMaster)
 bed2f82519a10214ca023c5961e0c436 // StygianSlayerShadowyMistForm (DivineMaster)
 d87e2f6a9278ac04caeb0f93eff95fcb // TeamworkFeat
+62ef1cdb90f1d654d996556669caf7fa // TouchCalculateFeature (Charlatan)
 dbb6b3bffe6db3547b31c3711653838e // Trapfinding
 3c08d842e802c3e4eb19d15496145709 // UncannyDodge
 90e54424d682d104ab36436bd527af09 // WeaponFinesse
+c213af60aba83ed4993948dce6b947b8 // WitchCantripsFeature (GrandWitcher)
+29a333b7ccad3214ea3a51943fa0d8e9 // WitchFamiliarSelection (GrandWitcher)
+d24c2467804ce0e4497d9978bafec1f9 // WitchGrandHex (GrandWitcher)
+9846043cf51251a4897728ed6e24e76f // WitchHexSelection (GrandWitcher)
+8ac781b33e380c84aa578f1b006dd6c5 // WitchMajorHex (GrandWitcher)
+8c189560d7f94dd688f0dc29f6963610 // WitchOfTheVeilSecrecyFeature (Charlatan, GrandWitcher)
+855a1e132cfa444eb8eed4c784ee8ec9 // WitchOfTheVeilShroudedStepFeature (Charlatan, GrandWitcher)
+3ff892a2eaa1462796ddc776bb49648d // WitchOfTheVeilShroudedStep16 (Charlatan, GrandWitcher)
+
+3a4214e3c2eab3c40bc491d7abea7045 // WitchDeceptionPatronProgression (GrandWitcher)
 
 9678d121f669f864d9da5dabf1ca1ce0 // AirDomainSpellList
 d0ccda70fddc0e346a227068502771c1 // AnimalDomainSpellList

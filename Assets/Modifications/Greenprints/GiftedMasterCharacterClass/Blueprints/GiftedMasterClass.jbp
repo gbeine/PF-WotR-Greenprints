@@ -86,6 +86,8 @@
     "IsDivineCaster": false,
     "IsArcaneCaster": false,
     "m_Archetypes": [
+      "!bp_ba1a9ad7691f423e81fa7f3defe677f6",
+      "!bp_2f81dcfd95f64216899e2c701d155af0",
       "!bp_3929ef95af69497eaf11615b16bd1882"
     ],
     "StartingGold": 411,

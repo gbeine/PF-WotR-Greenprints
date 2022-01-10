@@ -21,9 +21,20 @@
             "Value": "Gefallene Meister sind Inquisitoren oder Attentäter, deren Glaube enttäuscht wurde. Sie suchen nach Orientierung in der Welt und gelangen dabei nicht selten auf Abwege."
         },
         {
-            "Key": "GiftedMaster_DivineMaster_DescriptionShort",
-            "Value": "Gefallene Meister sind Inquisitoren oder Attentäter, deren Glaube enttäuscht wurde."
+            "Key": "GiftedMaster_Charlatan_Name",
+            "Value": "Scharlatan"
+        },
+        {
+            "Key": "GiftedMaster_Charlatan_Description",
+            "Value": "Der Scharlatan ist ein lustiger Geselle, der sich mit ein paar Tricks und ein bisschen Magie durchs Leben schlägt. Nur sehr selten muss ein Scharlatan zu den Waffen greifen, in den meisten Fällen schafft er es, sich durch Illusion oder Überredung aus Schwierigkeiten herauszuwinden."
+        },
+        {
+            "Key": "GiftedMaster_GrandWitcher_Name",
+            "Value": "Großmeisterin der Hexerei"
+        },
+        {
+            "Key": "GiftedMaster_GrandWitcher_Description",
+            "Value": "Eine über alle Maßen begabte Hexe, die sich Täuschung, List und Illusionen verschrieben hat, um durch's Leben zu kommen."
         }
     ]
 }
-

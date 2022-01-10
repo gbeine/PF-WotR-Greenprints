@@ -233,6 +233,26 @@
       },
       {
         "m_Features": [
+          "!bp_9d1e2212594cf47438fff2fa3477b954",
+          "!bp_c7536b93f17c70d4fa3a8cf9aa76bfb7",
+          "!bp_261270d064148224fb982590b7a65414"
+        ]
+      },
+      {
+        "m_Features": [
+          "!bp_8c189560d7f94dd688f0dc29f6963610",
+          "!bp_855a1e132cfa444eb8eed4c784ee8ec9"
+        ]
+      },
+      {
+        "m_Features": [
+          "!bp_3a4214e3c2eab3c40bc491d7abea7045",
+          "!bp_8ac781b33e380c84aa578f1b006dd6c5",
+          "!bp_d24c2467804ce0e4497d9978bafec1f9"
+        ]
+      },
+      {
+        "m_Features": [
           "!bp_6d9d3fbc30564e64d966dba27cd6357a",
           "!bp_09bdd9445ac38044389476689ae8d5a1",
           "!bp_40d4f55a5ac0e4f469d67d36c0dfc40b",
@@ -245,7 +265,10 @@
       "!bp_65cff8410a336654486c98fd3bacd8c5",
       "!bp_dbb6b3bffe6db3547b31c3711653838e",
       "!bp_e59db96fa83cefd4a9a8f211500d9522",
-      "!bp_4f898e6a004b2a84686c1fbd0ffe950e"
+      "!bp_4f898e6a004b2a84686c1fbd0ffe950e",
+      "!bp_c213af60aba83ed4993948dce6b947b8",
+      "!bp_29a333b7ccad3214ea3a51943fa0d8e9",
+      "!bp_5ad7c9fb13ecb52489a89824f0e3db08"
     ],
     "m_ExclusiveProgression": null,
     "GiveFeaturesForPreviousLevels": false,

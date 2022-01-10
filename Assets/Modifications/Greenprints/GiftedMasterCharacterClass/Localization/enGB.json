@@ -21,9 +21,20 @@
             "Value": "Divine masters are inquisitors or assassins whose faith has been disappointed. They search for orientation in the world and not infrequently go astray."
         },
         {
-            "Key": "GiftedMaster_DivineMaster_DescriptionShort",
-            "Value": "Divine masters are inquisitors or assassins whose faith has been disappointed."
+            "Key": "GiftedMaster_Charlatan_Name",
+            "Value": "Charlatan"
+        },
+        {
+            "Key": "GiftedMaster_Charlatan_Description",
+            "Value": "The charlatan is a funny fellow who gets through life with a few tricks and a bit of magic. Only very rarely does a charlatan have to take up arms, in most cases he manages to wriggle out of trouble through illusion or persuasion."
+        },
+        {
+            "Key": "GiftedMaster_GrandWitcher_Name",
+            "Value": "Grand Mistress of Witchery"
+        },
+        {
+            "Key": "GiftedMaster_GrandWitcher_Description",
+            "Value": "A witch gifted beyond measure, who has devoted herself to deception, cunning and illusions to get through life."
         }
     ]
 }
-
