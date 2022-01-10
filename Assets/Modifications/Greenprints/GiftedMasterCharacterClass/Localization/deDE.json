@@ -1,0 +1,17 @@
+{
+    "strings": [
+        {
+            "Key": "GiftedMasterClass_Name",
+            "Value": "Begabter Meister"
+        },
+        {
+            "Key": "GiftedMasterClass_Description",
+            "Value": "Begabte Meister sind Hans Dampf in allen Gassen. Im wahrsten Sinne des Wortes. Sie sind vielseitig und können nahezu alles."
+        },
+        {
+            "Key": "GiftedMasterClass_DescriptionShort",
+            "Value": "Begabte Meister sind Hans Dampf in allen Gassen."
+        }
+    ]
+}
+

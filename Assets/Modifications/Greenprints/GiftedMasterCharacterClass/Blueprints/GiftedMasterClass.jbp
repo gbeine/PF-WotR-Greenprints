@@ -1,0 +1,107 @@
+{
+  "AssetId": "9e1943315e9f4c649cd2fa86e202972c",
+  "Data": {
+    "$type": "5f2bdd25f161a0d4c97bee89cf923d77, BlueprintCharacterClass",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$PrerequisiteIsPet$ce7a7ef9-71ad-4575-af36-744293904735"
+    ],
+    "Components": [
+      {
+        "$type": "b1808a1edca51c944b47599c893e7528, PrerequisiteNoClassLevel",
+        "m_Flags": 0,
+        "name": "$PrerequisiteNoClassLevel$6fc4158e-8a35-43f5-bf0f-1082f968b192",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": false,
+        "m_CharacterClass": "!bp_4cd1757a0eea7694ba5c933729a53920"
+      },
+      {
+        "$type": "532e804185719b942b52ed141aa10a21, PrerequisiteIsPet",
+        "name": "$PrerequisiteIsPet$ce7a7ef9-71ad-4575-af36-744293904735",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "All",
+        "CheckInProgression": false,
+        "HideInUI": true,
+        "Not": true
+      }
+    ],
+    "Comment": null,
+    "LocalizedName": { "m_Key": "GiftedMasterClass_Name" },
+    "LocalizedDescription": { "m_Key": "GiftedMasterClass_Description" },
+    "LocalizedDescriptionShort": { "m_Key": "GiftedMasterClass_DescriptionShort" },
+    "m_Icon": null,
+    "SkillPoints": 5,
+    "HitDie": "D8",
+    "HideIfRestricted": false,
+    "PrestigeClass": false,
+    "IsMythic": false,
+    "m_IsHigherMythic": false,
+    "m_BaseAttackBonus": "!bp_4c936de4249b61e419a3fb775b9f2581", // Average
+    "m_FortitudeSave": "!bp_dc0c7c1aba755c54f96c089cdf7d14a3", // Low
+    "m_ReflexSave": "!bp_dc0c7c1aba755c54f96c089cdf7d14a3", // Low
+    "m_WillSave": "!bp_ff4662bde9e75f145853417313842751", // High
+    "m_Progression": "!bp_974911193b8a8b947a8275f96bb265d6", // Arcanist Progression
+    "m_Spellbook": null,
+    "ClassSkills": [
+      "SkillAthletics",
+      "SkillMobility",
+      "SkillThievery",
+      "SkillStealth",
+      "SkillKnowledgeArcana",
+      "SkillKnowledgeWorld",
+      "SkillLoreNature",
+      "SkillLoreReligion",
+      "SkillPersuasion",
+      "SkillPerception",
+      "SkillUseMagicDevice"
+    ],
+    "IsDivineCaster": false,
+    "IsArcaneCaster": false,
+    "m_Archetypes": [],
+    "StartingGold": 411,
+    "m_StartingItems": [
+      "!bp_afbe88d27a0eb544583e00fa78ffb2c7" // Studded Leather Armor (StuddedStandard)
+    ],
+    "PrimaryColor": 68,
+    "SecondaryColor": 61,
+    "m_EquipmentEntities": [
+      "!bp_8a229ebb7b294cbb9bd984e0d1342423" // Inquisitor's Hat
+    ],
+    "MaleEquipmentEntities": [
+      {
+        "AssetId": "5470be096a195b0408115392fc742b41" // Arcanist & Wizard
+      },
+      {
+        "AssetId": "04244d527b8a1f14db79374bc802aaaa" // Arcanist & Wizard
+      }
+    ],
+    "FemaleEquipmentEntities": [
+      {
+        "AssetId": "1e4797f3425461946a0ae2986d16c85d" // Arcanist & Wizard
+      },
+      {
+        "AssetId": "64abd9c4d6565de419f394f71a2d496f" // Arcanist & Wizard
+      }
+    ],
+    "m_Difficulty": 3,
+    "RecommendedAttributes": [
+      "Intelligence",
+      "Charisma"
+    ],
+    "NotRecommendedAttributes": [],
+    "m_SignatureAbilities": [],
+    "m_DefaultBuild": null,
+    "m_AdditionalVisualSettings": null,
+    "VisualSettingsPriority": 0
+  }
+}

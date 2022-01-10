@@ -1,0 +1,17 @@
+{
+    "strings": [
+        {
+            "Key": "GiftedMasterClass_Name",
+            "Value": "Gifted Master"
+        },
+        {
+            "Key": "GiftedMasterClass_Description",
+            "Value": "Gifted masters are a jack of all trades. In the truest sense of the word. They are versatile and can do almost anything."
+        },
+        {
+            "Key": "GiftedMasterClass_DescriptionShort",
+            "Value": "Gifted masters are a jack of all trades."
+        }
+    ]
+}
+
