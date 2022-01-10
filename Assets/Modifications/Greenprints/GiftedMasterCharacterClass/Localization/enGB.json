@@ -11,6 +11,18 @@
         {
             "Key": "GiftedMasterClass_DescriptionShort",
             "Value": "Gifted masters are a jack of all trades."
+        },
+        {
+            "Key": "GiftedMaster_DivineMaster_Name",
+            "Value": "Divine Meister"
+        },
+        {
+            "Key": "GiftedMaster_DivineMaster_Description",
+            "Value": "Divine masters are inquisitors or assassins whose faith has been disappointed. They search for orientation in the world and not infrequently go astray."
+        },
+        {
+            "Key": "GiftedMaster_DivineMaster_DescriptionShort",
+            "Value": "Divine masters are inquisitors or assassins whose faith has been disappointed."
         }
     ]
 }

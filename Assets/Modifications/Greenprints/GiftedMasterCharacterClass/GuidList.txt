@@ -1,5 +1,60 @@
 9e1943315e9f4c649cd2fa86e202972c GiftedMasterClass
-
+2416efa0a92c4d329de3d08ff34ad88b GiftedMasterProgession
+3929ef95af69497eaf11615b16bd1882 DivineMasterArchetype
 
 6fc4158e-8a35-43f5-bf0f-1082f968b192 GiftedMasterClass > Component > PrerequisiteNoClassLevel
 ce7a7ef9-71ad-4575-af36-744293904735 GiftedMasterClass > Component > PrerequisiteIsPet
+4e10fe21-7559-4fa5-b46c-2de7aecb536f DivineMaster > Component > PrerequisiteNoFeature
+467f587e-ecff-4451-8ff1-7f08d896cf7b DivineMaster > Component > DeityDependencyClass
+83df8c6a-cc3c-4cd6-b634-2927814788db DivineMaster > Component > PrerequisiteAlignment
+1d681ce1-454e-43cd-83c7-d068d9f8c830 TrickeryDomainProgession.patch > Component > LearnSpellList
+
+
+4c936de4249b61e419a3fb775b9f2581 // Average BaseAttackBonus
+dc0c7c1aba755c54f96c089cdf7d14a3 // Low Save
+ff4662bde9e75f145853417313842751 // High Save
+
+d7963e1fcf260c148877afd3252dbc91 // ScalemailStandard (Schuppenpanzer)
+afbe88d27a0eb544583e00fa78ffb2c7 // StuddedStandard (Studded Leather Armor)
+
+8a229ebb7b294cbb9bd984e0d1342423 // Inquisitor's Hat (Equipment)
+
+5470be096a195b0408115392fc742b41 // Arcanist & Wizard (Male) (Equipment)
+04244d527b8a1f14db79374bc802aaaa // Arcanist & Wizard (Male) (Equipment)
+1e4797f3425461946a0ae2986d16c85d // Arcanist & Wizard (Female) (Equipment)
+64abd9c4d6565de419f394f71a2d496f // Arcanist & Wizard (Female) (Equipment)
+
+a33b99f95322d6741af83e9381b2391c // AdvanceTalents
+f894e003d31461f48a02f5caec4e3359 // AnimalCompanionFeatureDog
+95973c6705753eb43a50d00c0e501bbc // AnimalInsight
+65cff8410a336654486c98fd3bacd8c5 // BardicKnowledge
+fa3d3b2211a51994785d85e753f612d3 // BardProficiencies
+6be8b4031d8b9fc4f879b72b5428f1e0 // CunningInitiative
+ee0b69e90bac14446a4cf9a050f87f2e // DetectMagic
+48525e5da45c9c243a343fc6545dbdb9 // DomainsSelection
+576933720c440aa4d8d42b0c54b77e80 // Evasion
+b78d146cea711a84598f0acef69462ea // FinesseTrainingSelection
+485a18c05792521459c7d06c63128c79 // ImprovedUncannyDodge
+6e694114b2f9e0e40a6da5d13736ff33 // InquisitorBaneGreaterFeature (DivineMaster)
+7ddf7fbeecbe78342b83171d888028cf // InquisitorBaneNormalFeatureAdd (DivineMaster)
+4f898e6a004b2a84686c1fbd0ffe950e // InquisitorOrisonsFeature (DivineMasterArchetype)
+e59db96fa83cefd4a9a8f211500d9522 // InquisitorProficiencies (DivineMasterArchetype)
+57fab75111f377248810ece84193a5a5 // InquisitorSpellbook (DivineMasterArchetype)
+f2d2c1702d8a4cc6adfcbd4ebff8eee4 // MasterOfAllSkillFocus
+a26c0279a423fc94cabeea898f4d9f8a // MasterSlayerFeature (DivineMaster)
+72dcf1fb106d5054a81fd804fdc168d3 // MasterStrike (DivineMaster)
+c074a5d615200494b8f2a9c845799d93 // RogueTalentSelection
+e1f437048db80164792155102375b62c // SacredHuntsmasterTactics
+6d9d3fbc30564e64d966dba27cd6357a // SanctifiedSlayerStudyTargetFeature (DivineMaster)
+9b9eac6709e1c084cb18c3a366e0ec87 // SneakAttack (DivineMaster)
+09bdd9445ac38044389476689ae8d5a1 // SlayerStudyTargetFeature (DivineMaster)
+40d4f55a5ac0e4f469d67d36c0dfc40b // SlayerSwiftStudyTargetFeature (DivineMaster)
+5602845cd22683840a6f28ec46331051 // SoloTactics
+ec9dbc9a5fa26e446a54fe5df6779088 // Stalwart
+a6d917fd5c9bee0449bd01c92e3b0308 // SternGaze
+c38720e9140d5b34f8f22b25c23168a9 // StygianSlayerInvisibilityFeature (DivineMaster)
+bed2f82519a10214ca023c5961e0c436 // StygianSlayerShadowyMistForm (DivineMaster)
+d87e2f6a9278ac04caeb0f93eff95fcb // TeamworkFeat
+dbb6b3bffe6db3547b31c3711653838e // Trapfinding
+3c08d842e802c3e4eb19d15496145709 // UncannyDodge
+90e54424d682d104ab36436bd527af09 // WeaponFinesse

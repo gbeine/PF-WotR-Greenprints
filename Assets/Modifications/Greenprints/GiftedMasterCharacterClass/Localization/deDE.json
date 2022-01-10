@@ -11,6 +11,18 @@
         {
             "Key": "GiftedMasterClass_DescriptionShort",
             "Value": "Begabte Meister sind Hans Dampf in allen Gassen."
+        },
+        {
+            "Key": "GiftedMaster_DivineMaster_Name",
+            "Value": "Gefallener Meister"
+        },
+        {
+            "Key": "GiftedMaster_DivineMaster_Description",
+            "Value": "Gefallene Meister sind Inquisitoren oder Attentäter, deren Glaube enttäuscht wurde. Sie suchen nach Orientierung in der Welt und gelangen dabei nicht selten auf Abwege."
+        },
+        {
+            "Key": "GiftedMaster_DivineMaster_DescriptionShort",
+            "Value": "Gefallene Meister sind Inquisitoren oder Attentäter, deren Glaube enttäuscht wurde."
         }
     ]
 }

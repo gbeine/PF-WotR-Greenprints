@@ -15,3 +15,5 @@ MonoBehaviour:
   Entries:
   - Guid: 2d77316c72b9ed44f888ceefc2a131f6
     Filename: BlueprintRoot.patch
+  - Guid: cc2d330bb0200e840aeb79140e770198
+    Filename: Archetypes/DivineMaster/TrickeryDomainProgression.patch
