@@ -10,3 +10,4 @@ Assets/PathfinderAssemblies*
 Assets/RenderPipeline/*
 !Assets/RenderPipeline/OwlcatShaders*
 !Assets/RenderPipeline/UnityShaders*
+*.DotSettings.user
