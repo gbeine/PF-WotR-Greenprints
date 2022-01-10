@@ -7,7 +7,39 @@ ce7a7ef9-71ad-4575-af36-744293904735 GiftedMasterClass > Component > Prerequisit
 4e10fe21-7559-4fa5-b46c-2de7aecb536f DivineMaster > Component > PrerequisiteNoFeature
 467f587e-ecff-4451-8ff1-7f08d896cf7b DivineMaster > Component > DeityDependencyClass
 83df8c6a-cc3c-4cd6-b634-2927814788db DivineMaster > Component > PrerequisiteAlignment
+8aadb4ff-d6c8-4d1d-8c2c-601e56cc5727 AirDomainProgression.patch > Component > LearnSpellList
+d44d90e1-c26b-43c4-a60f-7f4ac64e8904 AnimalDomainProgression.patch > Component > LearnSpellList
+f25bdb44-4155-4431-96d4-4f3af5dd65f4 ArtificeDomainProgression.patch > Component > LearnSpellList
+22f789b8-c77c-469e-a1a0-7826207aa285 ChaosDomainProgression.patch > Component > LearnSpellList
+7070e327-a7a5-4ecc-b959-7adf89f39432 CharmDomainProgression.patch > Component > LearnSpellList
+a92da72b-3149-4954-8275-f4f61eb031c6 CommunityDomainProgression.patch > Component > LearnSpellList
+53b71c35-67d9-4eff-a835-895308054d9e DarknessDomainProgression.patch > Component > LearnSpellList
+717c89c8-f31b-4163-9de4-b6dd966570e3 DeathDomainProgression.patch > Component > LearnSpellList
+4bd74013-3399-48d5-9641-b4dbfa647deb DestructionDomainProgression.patch > Component > LearnSpellList
+5d4bdb5e-8d53-4950-8d3c-5b95f45e8869 EarthDomainProgression.patch > Component > LearnSpellList
+12f68f79-590d-476c-a524-b8ff8ae3f26e EvilDomainProgression.patch > Component > LearnSpellList
+3e682715-9173-4b8c-b639-d6c393c5c98f FireDomainProgression.patch > Component > LearnSpellList
+e722bdf6-41e2-43d1-9e43-d858a6c8bb3b GloryDomainProgression.patch > Component > LearnSpellList
+be860099-1134-4c5c-97e4-7738aa1581cc GoodDomainProgression.patch > Component > LearnSpellList
+f4290e13-7854-4f1d-a046-cb6987c1b32c HealingDomainProgression.patch > Component > LearnSpellList
+9f605eed-804d-40f0-a2e8-b3c31ad16619 KnowledgeDomainProgression.patch > Component > LearnSpellList
+394de005-ad7a-4ff0-b75a-cf8cd151277d LawDomainProgression.patch > Component > LearnSpellList
+17c66129-d3f3-4c75-b602-b1f3cdaa035c LiberationDomainProgression.patch > Component > LearnSpellList
+f71b1785-4c30-452a-861e-c0f17c495687 LuckDomainProgression.patch > Component > LearnSpellList
+ec0885ea-a5de-49b6-b155-49c93750f9b5 MadnessDomainProgression.patch > Component > LearnSpellList
+807f226a-24f2-4137-9f38-f46a228a2c17 MagicDomainProgression.patch > Component > LearnSpellList
+5befbaec-58e9-4eae-8b4c-2bff674be32f NobilityDomainProgression.patch > Component > LearnSpellList
+5825a3bd-f06d-4c15-80ac-ff01559076aa PlantDomainProgression.patch > Component > LearnSpellList
+3429a959-34b4-448a-82f5-988ffd635614 ProtectionDomainProgression.patch > Component > LearnSpellList
+480ee551-6501-4be3-96b0-d6ce530d3bdc ReposeDomainProgression.patch > Component > LearnSpellList
+c06fcacb-c400-4095-8b74-433bba76cb00 RuneDomainProgression.patch > Component > LearnSpellList
+d885b36e-136a-4307-bd04-4cbc38160209 StrengthDomainProgression.patch > Component > LearnSpellList
+74bb6212-fbb7-4b5a-8878-1a987f19ac07 SunDomainProgression.patch > Component > LearnSpellList
+7a1645ad-5b18-4de4-9b10-3e60acc8d0fe TravelDomainProgression.patch > Component > LearnSpellList
 1d681ce1-454e-43cd-83c7-d068d9f8c830 TrickeryDomainProgession.patch > Component > LearnSpellList
+882a7dfc-c55b-4c4d-ad2e-8352935ca367 WarDomainProgression.patch > Component > LearnSpellList
+8d5c6ef9-6957-44cf-bf1a-3a2d48c82e07 WaterDomainProgression.patch > Component > LearnSpellList
+f2aafdfb-27c3-4ea0-aa7e-1321909c3f63 WeatherDomainProgression.patch > Component > LearnSpellList
 
 
 4c936de4249b61e419a3fb775b9f2581 // Average BaseAttackBonus
@@ -58,3 +90,71 @@ d87e2f6a9278ac04caeb0f93eff95fcb // TeamworkFeat
 dbb6b3bffe6db3547b31c3711653838e // Trapfinding
 3c08d842e802c3e4eb19d15496145709 // UncannyDodge
 90e54424d682d104ab36436bd527af09 // WeaponFinesse
+
+9678d121f669f864d9da5dabf1ca1ce0 // AirDomainSpellList
+d0ccda70fddc0e346a227068502771c1 // AnimalDomainSpellList
+5ef652f325d21414d8565fcfb19d8177 // ArtificeDomainSpellList
+2ff9831eb262758449287f820108428d // ChaosDomainSpellList
+31c742d02fc33204cad4e02dddf028dd // CharmDomainSpellList
+75576ed8cab010644a11f9ecd512a7f9 // CommunityDomainSpellList
+fa79e8d1fe20b0e43bf3ebca4cef93b9 // DarknessDomainSpellList
+436986e90d1e81b45a1accb6fa7261f0 // DeathDomainSpellList
+6f9fe425726026d4f9c28c32d5d03481 // DestructionDomainSpellList
+df3bc5bda7deb9d46b0f177db3bb7876 // EarthDomainSpellList
+81bff1165d9468a44b2f815f7c26a373 // EvilDomainSpellList
+d8f30625d1b1f9d41a24446cbf7ac52e // FireDomainSpellList
+7b3506924ed8354419b7829736ab2c7e // GloryDomainSpellList
+dc242eb60eed94a4eb0640d773780090 // GoodDomainSpellList
+033b2b6a8899be844ae8aa91d4dab477 // HealingDomainSpellList
+384627980c2a60a43800f14029fbb8a7 // KnowledgeDomainSpellList
+57b0bbdc1114ee846945f1808b13cff7 // LawDomainSpellList
+73406d3b9f6290e499c5fa3951a24234 // LiberationDomainSpellList
+9e756552e9b05ce459feac658dd2d8fb // LuckDomainSpellList
+1d1638d47e7f8404baeed23bc35ec2f2 // MadnessDomainSpellList
+f997258a28a9e5f4192d973433edec5f // MagicDomainSpellList
+3de1e283971828f4896a4140acd3c84c // NobilityDomainSpellList
+bd7b088a54b79434f90ed53551ca2189 // PlantDomainSpellList
+93228f4df23d2d448a0db59141af8aed // ProtectionDomainSpellList
+5376474a39713514ca2135d6f9584563 // ReposeDomainSpellList
+30076fe3d5f4ef845a7bafb0be57fe44 // RuneDomainSpellList
+03db76fd27428004482f9314c334d1ab // StrengthDomainSpellList
+600ffed45d0c3ec43a75dc76bb9377b6 // SunDomainSpellList
+ab90308db82342f47bf0d636fe941434 // TravelDomainSpellList
+2c09ae283ea3e41408665c46fcf0303f // TrickeryDomainSpellList
+e3c54da90a2b54b4a975a80b5d39c361 // WarDomainSpellList
+35e15cd1b353e2d47b507c445d2f8c6f // WaterDomainSpellList
+eba577470b8ee8443bb4552433451990 // WeatherDomainSpellList
+
+750bfcd133cd52f42acbd4f7bc9cc365 // AirDomainProgression
+23d2f87aa54c89f418e68e790dba11e0 // AnimalDomainProgression
+6454b37f50e10ae41bca83aaaa81ffc2 // ArtificeDomainProgression
+5a5d19c246961484a97e1e5dded98ab2 // ChaosDomainProgression
+b5c056787d1bf544588ec3a150ed0b3b // CharmDomainProgression
+b8bbe42616d61ac419971b7910d79fc8 // CommunityDomainProgression
+1e1b4128290b11a41ba55280ede90d7d // DarknessDomainProgression
+710d8c959e7036448b473ffa613cdeba // DeathDomainProgression
+269ff0bf4596f5248864bc2653a2f0e0 // DestructionDomainProgression
+08bbcbfe5eb84604481f384c517ac800 // EarthDomainProgression
+a8936d29b6051a1418682da1878b644e // EvilDomainProgression
+881b2137a1779294c8956fe5b497cc35 // FireDomainProgression
+f0a61a043bcdf0f4c8efc59962afafb8 // GloryDomainProgression
+243ab3e7a86d30243bdfe79c83e6adb4 // GoodDomainProgression
+b0a26ee984b6b6945b884467aa2f1baa // HealingDomainProgression
+28edbdbefca579b4ab4992e98af71981 // KnowledgeDomainProgression
+a723d11a5ae5df0488775e31fac9117d // LawDomainProgression
+df2f14ced8710664ba7db914880c4a02 // LiberationDomainProgression
+8bd8cfad69085654b9118534e4aa215e // LuckDomainProgression
+9ebe166b9b901c746b1858029f13a2c5 // MadnessDomainProgression
+8f90e7129b0f3b742921c2c9c9bd64fc // MagicDomainProgression
+8480f2d1ca764774895ee6fd610a568e // NobilityDomainProgression
+467d2a1d2107da64395b591393baad17 // PlantDomainProgression
+b750650400d9d554b880dbf4c8347b24 // ProtectionDomainProgression
+a2ab5a696d0dd134d94b2631151a15ee // ReposeDomainProgression
+6d4dac497c182754d8b1f49071cca3fd // RuneDomainProgression
+07854f99c8d029b4cbfdf6ae6c7bc452 // StrengthDomainProgression
+c85c8791ee13d4c4ea10d93c97a19afc // SunDomainProgression
+d169dd2de3630b749a2363c028bb6e7b // TravelDomainProgression
+cc2d330bb0200e840aeb79140e770198 // TrickeryDomainProgression
+8d454cbb7f25070419a1c8eaf89b5be5 // WarDomainProgression
+e63d9133cebf2cf4788e61432a939084 // WaterDomainProgression
+c18a821ee662db0439fb873165da25be // WeatherDomainProgression
