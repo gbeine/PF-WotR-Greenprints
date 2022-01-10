@@ -52,7 +52,7 @@ namespace OwlcatModification.Editor.Setup
 			const string targetAssembliesDirectory = "Assets/PathfinderAssemblies";
 			Directory.CreateDirectory(targetAssembliesDirectory);
 
-			string assembliesDirectory = Path.Combine(wotrDirectory, "Wrath_Data/Managed");
+			string assembliesDirectory = Path.Combine(wotrDirectory, "Contents/Resources/Data/Managed");
 			foreach (string assemblyPath in Directory.GetFiles(assembliesDirectory, "*.dll"))
 			{
 				if (skipAssemblies.Any(assemblyPath.EndsWith))
