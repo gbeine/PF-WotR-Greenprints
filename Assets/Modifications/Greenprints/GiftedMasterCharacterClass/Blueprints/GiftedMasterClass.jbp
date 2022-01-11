@@ -92,7 +92,10 @@
     ],
     "StartingGold": 411,
     "m_StartingItems": [
-      "!bp_afbe88d27a0eb544583e00fa78ffb2c7"
+      "!bp_afbe88d27a0eb544583e00fa78ffb2c7",
+      "!bp_08c7987d7320d1645a4a1f005ab2dfcb",
+      "!bp_d52566ae8cbe8dc4dae977ef51c27d91",
+      "!bp_d52566ae8cbe8dc4dae977ef51c27d91"
     ],
     "PrimaryColor": 68,
     "SecondaryColor": 61,

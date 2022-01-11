@@ -233,7 +233,10 @@
     "ReplaceStartingEquipment": true,
     "StartingGold": 0,
     "m_StartingItems": [
-      "!bp_d7963e1fcf260c148877afd3252dbc91"
+      "!bp_d7963e1fcf260c148877afd3252dbc91",
+      "!bp_08c7987d7320d1645a4a1f005ab2dfcb",
+      "!bp_d52566ae8cbe8dc4dae977ef51c27d91",
+      "!bp_d52566ae8cbe8dc4dae977ef51c27d91"
     ],
     "ReplaceClassSkills": false,
     "ClassSkills": [],

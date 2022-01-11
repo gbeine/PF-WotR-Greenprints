@@ -51,6 +51,9 @@ ff4662bde9e75f145853417313842751 // High Save
 
 d7963e1fcf260c148877afd3252dbc91 // ScalemailStandard (Schuppenpanzer)
 afbe88d27a0eb544583e00fa78ffb2c7 // StuddedStandard (Studded Leather Armor)
+08c7987d7320d1645a4a1f005ab2dfcb // ColdIronShortsword
+d52566ae8cbe8dc4dae977ef51c27d91 // PotionOfCureLightWounds
+511c97c1ea111444aa186b1a58496664 // StandardLightCrossbow
 
 8a229ebb7b294cbb9bd984e0d1342423 // Inquisitor's Hat (Equipment)
 
