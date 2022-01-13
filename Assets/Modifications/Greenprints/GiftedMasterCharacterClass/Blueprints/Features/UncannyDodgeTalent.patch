@@ -1,0 +1,20 @@
+{
+  "_#ArrayMergeSettings": "Union",
+  "Components": [
+    {
+      "$type": "fb876f3084f01754db3a4acbbb328a89, PrerequisiteClassLevel",
+      "m_Flags": 0,
+      "name": "$PrerequisiteClassLevel$f268d5ef-9938-404d-b0d6-14bc9f04c515",
+      "PrototypeLink": {
+        "guid": "",
+        "name": ""
+      },
+      "m_Overrides": [],
+      "Group": "Any",
+      "CheckInProgression": false,
+      "HideInUI": false,
+      "m_CharacterClass": "!bp_9e1943315e9f4c649cd2fa86e202972c",
+      "Level": 4
+    }
+  ]
+}

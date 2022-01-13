@@ -1,0 +1,67 @@
+{
+  "AssetId": "25f2487dfa4944bea2c3dd3548faad0b",
+  "Data": {
+    "$type": "ea44b1ffb0675104cb178df6459f3a21, BlueprintFeatureSelection",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": {
+        "assetguid": "07b4754d5ea835d4795f8b7b359d817b",
+        "stringkey": "a5c23f13-5373-4748-84e8-2fe2f9bb4bd4"
+      }
+    },
+    "m_Description": {
+      "m_Key": "GiftedMasterTeamworkFeat_Description",
+      "m_OwnerString": "25f2487dfa4944bea2c3dd3548faad0b",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "8dd271d8a75a63e4dbdee2f5c396dfbe",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": [],
+    "IgnorePrerequisites": false,
+    "Obligatory": false,
+    "Mode": "Default",
+    "Group": "TeamworkFeat",
+    "Group2": "None",
+    "m_Features": [],
+    "m_AllFeatures": [
+      "!bp_9093ceeefe9b84746a5993d619d7c86f",
+      "!bp_c920f2cd2244d284aa69a146aeefcb2c",
+      "!bp_992fd59da1783de49b135ad89142c6d7",
+      "!bp_b186cea78dce3a04aacff0a81786008c",
+      "!bp_422dab7309e1ad343935f33a4d6e9f11",
+      "!bp_5662d1b793db90c4b9ba68037fd2a768",
+      "!bp_6337b37f2a7c11b4ab0831d6780bce2a",
+      "!bp_0b707584fc2ea724aa72c396c2230dc7",
+      "!bp_8976de442862f82488a4b138a0a89907",
+      "!bp_1191ef3065e6f8e4f9fbe1b7e3c0f760",
+      "!bp_d26eb8ab2aabd0e45a4d7eec0340bbce"
+    ]
+  }
+}

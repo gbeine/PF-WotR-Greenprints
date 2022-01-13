@@ -1,0 +1,29 @@
+{
+  "_#ArrayMergeSettings": "Union",
+  "m_Overrides": [
+    "$LearnSpellList$9f605eed-804d-40f0-a2e8-b3c31ad16619"
+  ],
+  "Components": [
+    {
+      "$type": "ac2215a9c7722d24982e74626ceebbbd, LearnSpellList",
+      "name": "$LearnSpellList$9f605eed-804d-40f0-a2e8-b3c31ad16619",
+      "m_Overrides": [],
+      "m_CharacterClass": "!bp_9e1943315e9f4c649cd2fa86e202972c",
+      "m_SpellList": "!bp_384627980c2a60a43800f14029fbb8a7",
+      "m_Archetype": "!bp_3929ef95af69497eaf11615b16bd1882"
+    }
+  ],
+  "m_Classes": [
+    {
+      "m_Class": "!bp_9e1943315e9f4c649cd2fa86e202972c",
+      "AdditionalLevel": 0
+    }
+  ],
+  "m_Archetypes": [
+    {
+      "m_Archetype": "!bp_3929ef95af69497eaf11615b16bd1882",
+      "AdditionalLevel": 0
+    }
+  ]
+}
+

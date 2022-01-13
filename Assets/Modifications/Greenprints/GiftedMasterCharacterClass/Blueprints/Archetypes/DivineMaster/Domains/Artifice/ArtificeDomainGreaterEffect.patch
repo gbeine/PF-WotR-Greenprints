@@ -1,0 +1,39 @@
+{
+  "_#ArrayMergeSettings": "Union",
+  "Components": [
+    {
+      "$type": "a15673bd9e3879442825226335fd8fe2, ContextRankConfig",
+      "name": "$ContextRankConfig$54b2e42f-cca9-4b3e-98aa-772a8b6d93b7",
+      "m_Flags": 0,
+      "PrototypeLink": {
+        "guid": "",
+        "name": ""
+      },
+      "m_Overrides": [],
+      "m_Type": "Default",
+      "m_BaseValueType": "SummClassLevelWithArchetype",
+      "m_Feature": null,
+      "m_FeatureList": [],
+      "m_Stat": "Wisdom",
+      "m_SpecificModifier": "None",
+      "m_Buff": null,
+      "m_Progression": "DivStep",
+      "m_CustomProgression": [],
+      "m_StartLevel": 0,
+      "m_StepLevel": 3,
+      "m_UseMin": true,
+      "m_Min": 1,
+      "m_UseMax": false,
+      "m_Max": 20,
+      "m_ExceptClasses": false,
+      "Archetype": "!bp_3929ef95af69497eaf11615b16bd1882",
+      "m_AdditionalArchetypes": [],
+      "m_Class": [
+        "!bp_9e1943315e9f4c649cd2fa86e202972c"
+      ],
+      "m_CustomProperty": null,
+      "m_CustomPropertyList": []
+    }
+  ]
+}
+

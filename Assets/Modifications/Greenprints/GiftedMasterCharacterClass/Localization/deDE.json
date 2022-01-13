@@ -13,6 +13,53 @@
             "Value": "Begabte Meister sind Hans Dampf in allen Gassen."
         },
         {
+            "Key": "GiftedMasterProficiencies_Name",
+            "Value": "Begabte-Meister-Kenntnisse"
+        },
+        {
+            "Key": "GiftedMasterProficiencies_Description",
+            "Value": "Begabte Meister wissen mit allen {g|Encyclopedia:Weapon_Proficiency}einfachen Waffen{/g} sowie nahezu allen Klingenwaffen umzugehen. Sie sind mit leichten Rüstungen, nicht aber mit Schilden, vertraut."
+        },
+        {
+            "Key": "GiftedMasterBladeProficiencies_Name",
+            "Value": "Begabte Meister Klingenwaffen"
+        },
+        {
+            "Key": "GiftedMasterBladeProficiencies_Description",
+            "Value": "Begabte Meister sind mit Klingenwaffen wie Rapieren, Kurzschwertern, Langschwertern, Duellschwertern, Krummschwerter, Krummsäbeln, Falcatas, Kukris und Estocs vertraut."
+        },
+        {
+            "Key": "GiftedMasterSkillFocus_Name",
+            "Value": "Fertigkeitsfokus"
+        },
+        {
+            "Key": "GiftedMasterSkillFocus_Description",
+            "Value": "Auf Stufe 4 und nach jeweils 4 weiteren Stufen erhält ein Begabter Meister das {g|Encyclopedia:Feat}Talent{/g} {g|Encyclopedia:Skills}Fertigkeitsfokus{/g}."
+        },
+        {
+            "Key": "GiftedMasterTalentSelection_Name",
+            "Value": "Talente der Begabten Meister"
+        },
+        {
+            "Key": "GiftedMasterTalentSelection_Description",
+            "Value": "Sammelt ein Begabter Meister {g|Encyclopedia:XP}Erfahrung{/g}, erlernt er eine Reihe neuer Fähigkeiten. Der begabte Meister erhält auf Stufe 1, Stufe 2 und nach jeweils vier weiteren Stufen eine neue Fähigkeit. Eine Fähigkeit kann nicht mehrmals ausgewählt werden."
+        },
+        {
+            "Key": "GiftedMasterFinesseTrainingSelection_Name",
+            "Value": "Waffenfinesse"
+        },
+        {
+            "Key": "GiftedMasterFinesseTrainingSelection_Description",
+            "Value": "Auf Stufe 1 erhält ein Begabter Meister Waffenfinesse als {g|Encyclopedia:Feat}Bonustalent{/g}. Ab Stufe 3 kann er außerdem einen beliebigen Waffentyp wählen, der mit Waffenfinesse benutzbar ist (wie beispielsweise Rapiere oder Dolche). Diese Wahl ist unumkehrbar. Führt der Begabte Meister einen erfolgreichen {g|Encyclopedia:MeleeAttack}Nahkampfangriff{/g} mit der gewählten Waffe aus, fügt er dem {g|Encyclopedia:Damage}Schadenswurf{/g} seinen {g|Encyclopedia:Dexterity}Geschicklichkeits-{/g} statt {g|Encyclopedia:Strength}Stärkemodifikator{/g} hinzu. Verhindert ein Effekt, dass der Begabte Meister dem Schadenswurf {g|Encyclopedia:Dice}{/g}seinen Stärkemodifikator hinzufügen kann, wird auch der Geschicklichkeitsmodifikator nicht hinzugefügt. Der Begabte Meister kann auf Stufe 7 eine zweite Waffe und auf Stufe 11 eine dritte Waffe wählen."
+        },
+        {
+            "Key": "GiftedMasterTeamworkFeat_Description",
+            "Value": "Auf Stufe 3 und nach jeweils drei weiteren Stufen erhält der Begabte Meister zusätzlich zu den durch normale Fortschritte erworbenen {g|Encyclopedia:Feat}Talenten{/g} ein Bonustalent. Diese Bonustalente müssen aus der Liste der Gemeinschaftstalente ausgewählt werden. Der Begabte Meister muss außerdem die Voraussetzungen für das gewählte Bonustalent erfüllen."
+        },
+
+
+
+        {
             "Key": "GiftedMaster_DivineMaster_Name",
             "Value": "Gefallener Meister"
         },

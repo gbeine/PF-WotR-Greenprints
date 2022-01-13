@@ -1,0 +1,14 @@
+{
+  "_#ArrayMergeSettings": "Union",
+  "Components": [
+    {
+      "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+      "name": "$PrerequisiteFeature$a30093eb-8035-42f1-9380-a93ed4bf069b",
+      "m_Overrides": [],
+      "Group": "All",
+      "CheckInProgression": false,
+      "HideInUI": false,
+      "m_Feature": "!bp_a33b99f95322d6741af83e9381b2391c"
+    }
+  ]
+}

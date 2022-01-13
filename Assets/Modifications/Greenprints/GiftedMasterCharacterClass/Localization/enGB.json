@@ -13,6 +13,52 @@
             "Value": "Gifted masters are a jack of all trades."
         },
         {
+            "Key": "GiftedMasterProficiencies_Name",
+            "Value": "Gifted master proficiencies"
+        },
+        {
+            "Key": "GiftedMasterProficiencies_Description",
+            "Value": "Gifted masters are proficient with all {g|Encyclopedia:Weapon_Proficiency}simple weapons{/g}, plus almost all bladed weapons. They are proficient with light armor, but not with shields."
+        },
+        {
+            "Key": "GiftedMasterBladeProficiencies_Name",
+            "Value": "Gifted master bladed weapons"
+        },
+        {
+            "Key": "GiftedMasterBladeProficiencies_Description",
+            "Value": "Gifted masters are familiar with bladed weapons such as rapiers, short swords, long swords, dueling swords, scimitars, falcatas, kukris, and estocs."
+        },
+        {
+            "Key": "GiftedMasterSkillFocus_Name",
+            "Value": "Skill Focus"
+        },
+        {
+            "Key": "GiftedMasterSkillFocus_Description",
+            "Value": "At 4th level, and every 4 levels after, a Gifted Master gains the {g|Encyclopedia:Skills}Skill{/g} Focus {g|Encyclopedia:Feat}feat{/g}."
+        },
+        {
+            "Key": "GiftedMasterTalentSelection_Name",
+            "Value": "Gifted masters' talents"
+        },
+        {
+            "Key": "GiftedMasterTalentSelection_Description",
+            "Value": "When a gifted master gains {g|Encyclopedia:XP}experience{/g}, he learns a number of new abilities. The gifted master gains a new ability at level 1, level 2, and after every four additional levels. An ability cannot be selected more than once."
+        },
+        {
+            "Key": "GiftedMasterFinesseTrainingSelection_Name",
+            "Value": "Weapon Finesse"
+        },
+        {
+            "Key": "GiftedMasterFinesseTrainingSelection_Description",
+            "Value": "At 1st level, a gifted master gains Weapon Finesse as a bonus {g|Encyclopedia:Feat}feat{/g}. In addition, starting at 3rd level, she can select any one type of weapon that can be used with Weapon Finesse (such as rapiers or daggers). Once this choice is made, it cannot be changed. Whenever she makes a successful {g|Encyclopedia:MeleeAttack}melee attack{/g} with the selected weapon, she adds her {g|Encyclopedia:Dexterity}Dexterity{/g} modifier instead of her {g|Encyclopedia:Strength}Strength{/g} modifier to the {g|Encyclopedia:Damage}damage roll{/g}. If any effect would prevent the gifted master from adding her Strength modifier to the damage {g|Encyclopedia:Dice}roll{/g}, she does not add her Dexterity modifier. The gifted master can select a second weapon at 7th level and a third at 11th level."
+        },
+        {
+            "Key": "GiftedMasterTeamworkFeat_Description",
+            "Value": "At 3rd level, and every three levels thereafter, the gifted master gains a bonus {g|Encyclopedia:Feat}feat{/g} in addition to those gained from normal advancement. These bonus feats must be selected from those listed as teamwork feats. The gifted master must meet the prerequisites of the selected bonus feat."
+        },
+
+
+        {
             "Key": "GiftedMaster_DivineMaster_Name",
             "Value": "Divine Meister"
         },

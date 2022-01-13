@@ -1,0 +1,66 @@
+{
+  "AssetId": "3df9280dbe3345e0b8449087f0c4fa08",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": null,
+    "m_Overrides": [
+      "$AddProficiencies$6c88eddc-9cce-4612-a6ad-93bdd444a70c"
+    ],
+    "Components": [
+      {
+        "$type": "5fa95b92f4e484742ad84c926183372c, AddProficiencies",
+        "name": "$AddProficiencies$6c88eddc-9cce-4612-a6ad-93bdd444a70c",
+        "m_Overrides": [],
+        "m_RaceRestriction": null,
+        "ArmorProficiencies": [],
+        "WeaponProficiencies": [
+          "Rapier",
+          "Kukri",
+          "Shortsword",
+          "Longsword",
+          "Scimitar",
+          "Falchion",
+          "DuelingSword",
+          "Estoc",
+          "Falcata"
+        ]
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "GiftedMasterBladeProficiencies_Name",
+      "m_OwnerString": "3df9280dbe3345e0b8449087f0c4fa08",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "GiftedMasterBladeProficiencies_Description",
+      "m_OwnerString": "3df9280dbe3345e0b8449087f0c4fa08",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "f0d44c2c81c53ef448bfc17cc071f60d",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "DlcType": "None",
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}

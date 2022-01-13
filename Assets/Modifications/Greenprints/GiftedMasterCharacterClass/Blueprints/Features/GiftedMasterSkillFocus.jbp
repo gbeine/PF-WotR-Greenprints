@@ -1,0 +1,52 @@
+{
+  "AssetId": "57b78b49e52941b69df6bcf930344f3f",
+  "Data": {
+    "$type": "ea44b1ffb0675104cb178df6459f3a21, BlueprintFeatureSelection",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "GiftedMasterSkillFocus_Name",
+      "m_OwnerString": "57b78b49e52941b69df6bcf930344f3f",
+      "m_OwnerPropertyPath": "LocalizedName",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "GiftedMasterSkillFocus_Description",
+      "m_OwnerString": "57b78b49e52941b69df6bcf930344f3f",
+      "m_OwnerPropertyPath": "LocalizedDescription",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": null,
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": false,
+    "IsPrerequisiteFor": null,
+    "IgnorePrerequisites": false,
+    "Obligatory": false,
+    "Mode": "Default",
+    "Group": "None",
+    "Group2": "None",
+    "m_Features": [
+      "!bp_c9629ef9eebb88b479b2fbc5e836656a"
+    ],
+    "m_AllFeatures": [
+      "!bp_c9629ef9eebb88b479b2fbc5e836656a"
+    ]
+  }
+}

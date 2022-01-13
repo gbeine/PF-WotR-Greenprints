@@ -1,0 +1,59 @@
+{
+  "AssetId": "3457f08b22f04681865f65f54644cee7",
+  "Data": {
+    "$type": "ea44b1ffb0675104cb178df6459f3a21, BlueprintFeatureSelection",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "GiftedMasterFinesseTrainingSelection_Name",
+      "m_OwnerString": "3457f08b22f04681865f65f54644cee7",
+      "m_OwnerPropertyPath": "LocalizedName",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "GiftedMasterFinesseTrainingSelection_Description",
+      "m_OwnerString": "3457f08b22f04681865f65f54644cee7",
+      "m_OwnerPropertyPath": "LocalizedDescription",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": null,
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null,
+    "IgnorePrerequisites": false,
+    "Obligatory": false,
+    "Mode": "Default",
+    "Group": "FinesseTraining",
+    "Group2": "None",
+    "m_Features": [],
+    "m_AllFeatures": [
+      "!bp_50c7baae70624e24089d32d090e9cdb6",
+      "!bp_2dd8ca4a7c061b14c95f04b7adda1cd6",
+      "!bp_04f3b956e5a5cf649bce83774e0bfe4a",
+      "!bp_964fc3337a0bc2747a37810c4655d979",
+      "!bp_80bca19f64a359146ba8e26ebf615190",
+      "!bp_a591ea5d2af6a9c4eac84ddeac0e204e",
+      "!bp_c14d36ec2c807ef418ce77b8d93fa3c5",
+      "!bp_72724581b38799a42904f6a6db745dd6",
+      "!bp_71fb4704ad838ad4d91ed429b8936313",
+      "!bp_5dc60a449311b3544be118bf89b1f446"
+    ]
+  }
+}

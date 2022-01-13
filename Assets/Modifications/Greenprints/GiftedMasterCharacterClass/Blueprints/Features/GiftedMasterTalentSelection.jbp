@@ -1,0 +1,70 @@
+{
+  "AssetId": "cca35632d349402287141ac5429b992f",
+  "Data": {
+    "$type": "ea44b1ffb0675104cb178df6459f3a21, BlueprintFeatureSelection",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "GiftedMasterTalentSelection_Name",
+      "m_OwnerString": "cca35632d349402287141ac5429b992f",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "GiftedMasterTalentSelection_Description",
+      "m_OwnerString": "cca35632d349402287141ac5429b992f",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "ddf30d3e62eb1b94a9e3c1f1901f0102",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": [],
+    "IgnorePrerequisites": false,
+    "Obligatory": false,
+    "Mode": "Default",
+    "Group": "RogueTalent",
+    "Group2": "None",
+    "m_Features": [],
+    "m_AllFeatures": [
+      "!bp_68a23a419b330de45b4c3789649b5b41",
+      "!bp_576933720c440aa4d8d42b0c54b77e80",
+      "!bp_97a6aa2b64dd21a4fac67658a91067d7",
+      "!bp_6087e0c9801b5eb48bf48d6e75116aad",
+      "!bp_9f2d35be63f68614b89c901db84dd750",
+      "!bp_a14e8c1801911334f96d410f10eab7bf",
+      "!bp_5a5ad5a6ca394bf46a70a68902cf3fd7",
+      "!bp_ca5274d057152fa45b7527cad0927840",
+      "!bp_4cd06a915daa74f4094952f2b3314b3b",
+      "!bp_c38720e9140d5b34f8f22b25c23168a9",
+
+      "!bp_0d35d6c4d5eef8d4790d09bd9a874e57",
+      "!bp_e821c61b2711cea4cb993725b910e7e8",
+      "!bp_4b104a7319393494ca8d449a3b38a45f",
+      "!bp_31b5f3e5093c8244abb32f6c7c775de1",
+      "!bp_84ba86c9cc1ef9e489dab1ad03e3ba17",
+      "!bp_fd374a48fd0f5e94a841cc3bf408c432",
+      "!bp_bed2f82519a10214ca023c5961e0c436"
+    ]
+  }
+}
