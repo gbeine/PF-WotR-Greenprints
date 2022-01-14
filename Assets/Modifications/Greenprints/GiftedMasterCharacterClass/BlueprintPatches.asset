@@ -15,7 +15,6 @@ MonoBehaviour:
   Entries:
   - Guid: 2d77316c72b9ed44f888ceefc2a131f6
     Filename: BlueprintRoot.patch
-
   - Guid: a33b99f95322d6741af83e9381b2391c
     Filename: Features/AdvanceTalents.patch
   - Guid: ca5274d057152fa45b7527cad0927840
@@ -24,21 +23,26 @@ MonoBehaviour:
     Filename: Features/ImprovedUncannyDodgeTalent.patch
   - Guid: bed2f82519a10214ca023c5961e0c436
     Filename: Features/StygianSlayerShadowyMistForm.patch
-
-  - Guid: 3a4214e3c2eab3c40bc491d7abea70450
+  - Guid: 3a4214e3c2eab3c40bc491d7abea7045
     Filename: Archetypes/GrandWitcher/WitchPatrons/PatronDeception/WitchDeceptionPatronProgression.patch
-
-  - Guid: 30a5b8cf728bd4a4d8d90fc4953e322e
-    Filename: Archetypes/KineticDuelist/ElementalFocus/KineticBlastProgression.patch
-  - Guid: 93bd14dd916cfd1429c11ad66adf5e2b
-    Filename: Archetypes/KineticDuelist/KineticKnight/KineticKnightElementalFocusAir.patch
-  - Guid: d2a93ab18fcff8c419b03a2c3d573606
-    Filename: Archetypes/KineticDuelist/KineticKnight/KineticKnightElementalFocusEarth.patch
-  - Guid: d4a2a75d01d1e77489ff692636a538bf
-    Filename: Archetypes/KineticDuelist/KineticKnight/KineticKnightElementalFocusFire.patch
-  - Guid: 5e839c743c6da6649a43cdeb70b6018f
-    Filename: Archetypes/KineticDuelist/KineticKnight/KineticKnightElementalFocusWater.patch
-
+  - Guid: ad7f803d19c18fc4f9c5ee65fc12a237
+    Filename: Archetypes/GrandWitcher/WitchPatrons/PatronDeception/WitchPatronSpellLevel1.patch
+  - Guid: d46fd148c1c4f9c42a7734d8476878f8
+    Filename: Archetypes/GrandWitcher/WitchPatrons/PatronDeception/WitchPatronSpellLevel2.patch
+  - Guid: 53f733d1f1704a64cb896b984b1c06d5
+    Filename: Archetypes/GrandWitcher/WitchPatrons/PatronDeception/WitchPatronSpellLevel3.patch
+  - Guid: fa7eafc737f43df4db9e896b0cb7a14b
+    Filename: Archetypes/GrandWitcher/WitchPatrons/PatronDeception/WitchPatronSpellLevel4.patch
+  - Guid: 57f0558877e728b409b9d11b8a3abb83
+    Filename: Archetypes/GrandWitcher/WitchPatrons/PatronDeception/WitchPatronSpellLevel5.patch
+  - Guid: 429a261686c7c5742a610a92b41601d1
+    Filename: Archetypes/GrandWitcher/WitchPatrons/PatronDeception/WitchPatronSpellLevel6.patch
+  - Guid: 16fff96e05cd1a24db1e0254894d74e3
+    Filename: Archetypes/GrandWitcher/WitchPatrons/PatronDeception/WitchPatronSpellLevel7.patch
+  - Guid: 82f76f119c9bf4045a49ebe981cfe0d0
+    Filename: Archetypes/GrandWitcher/WitchPatrons/PatronDeception/WitchPatronSpellLevel8.patch
+  - Guid: c586b9b7c4b48054bbfb7f67a28b18ad
+    Filename: Archetypes/GrandWitcher/WitchPatrons/PatronDeception/WitchPatronSpellLevel9.patch
   - Guid: 750bfcd133cd52f42acbd4f7bc9cc365
     Filename: Archetypes/DivineMaster/Domains/Air/AirDomainProgression.patch
   - Guid: 23d2f87aa54c89f418e68e790dba11e0
@@ -105,7 +109,6 @@ MonoBehaviour:
     Filename: Archetypes/DivineMaster/Domains/Water/WaterDomainProgression.patch
   - Guid: c18a821ee662db0439fb873165da25be
     Filename: Archetypes/DivineMaster/Domains/Weather/WeatherDomainProgression.patch
-
   - Guid: d7169e8978d9e9d418398eab946c49e5
     Filename: Archetypes/DivineMaster/Domains/Air/AirDomainProgressionSecondary.patch
   - Guid: f13eb6be93dd5234c8126e5384040009
@@ -172,7 +175,6 @@ MonoBehaviour:
     Filename: Archetypes/DivineMaster/Domains/Water/WaterDomainProgressionSecondary.patch
   - Guid: d124d29c7c96fc345943dd17e24990e8
     Filename: Archetypes/DivineMaster/Domains/Weather/WeatherDomainProgressionSecondary.patch
-
   - Guid: b3494639791901e4db3eda6117ad878f
     Filename: Archetypes/DivineMaster/Domains/Air/AirDomainBaseAbility.patch
   - Guid: d577aba79b5727a4ab74627c4c6ba23c
@@ -325,3 +327,18 @@ MonoBehaviour:
     Filename: Archetypes/DivineMaster/Domains/Weather/WeatherDomainBaseAbility.patch
   - Guid: 5c88b557e79eaee41a4190712b178970
     Filename: Archetypes/DivineMaster/Domains/Weather/WeatherDomainGreaterResource.patch
+
+
+
+#  - Guid: 30a5b8cf728bd4a4d8d90fc4953e322e
+#    Filename: Archetypes/KineticDuelist/ElementalFocus/KineticBlastProgression.patch
+#  - Guid: 93bd14dd916cfd1429c11ad66adf5e2b
+#    Filename: Archetypes/KineticDuelist/KineticKnight/KineticKnightElementalFocusAir.patch
+#  - Guid: d2a93ab18fcff8c419b03a2c3d573606
+#    Filename: Archetypes/KineticDuelist/KineticKnight/KineticKnightElementalFocusEarth.patch
+#  - Guid: d4a2a75d01d1e77489ff692636a538bf
+#    Filename: Archetypes/KineticDuelist/KineticKnight/KineticKnightElementalFocusFire.patch
+#  - Guid: 5e839c743c6da6649a43cdeb70b6018f
+#    Filename: Archetypes/KineticDuelist/KineticKnight/KineticKnightElementalFocusWater.patch
+
+

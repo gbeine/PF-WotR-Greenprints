@@ -86,11 +86,15 @@
     "IsDivineCaster": false,
     "IsArcaneCaster": false,
     "m_Archetypes": [
+      "!bp_ba1a9ad7691f423e81fa7f3defe677f6",
+      "!bp_2f81dcfd95f64216899e2c701d155af0",
+      "!bp_3929ef95af69497eaf11615b16bd1882"
     ],
     "StartingGold": 411,
     "m_StartingItems": [
       "!bp_afbe88d27a0eb544583e00fa78ffb2c7",
-      "!bp_08c7987d7320d1645a4a1f005ab2dfcb",
+      "!bp_83ca7c2bf68e56d478443cdb667dd077",
+      "!bp_e55e8179b23f16e40999320d6e7d1664",
       "!bp_d52566ae8cbe8dc4dae977ef51c27d91",
       "!bp_d52566ae8cbe8dc4dae977ef51c27d91"
     ],
@@ -117,11 +121,15 @@
     ],
     "m_Difficulty": 3,
     "RecommendedAttributes": [
+      "Dexterity",
       "Intelligence",
       "Charisma"
     ],
     "NotRecommendedAttributes": [],
-    "m_SignatureAbilities": [],
+    "m_SignatureAbilities": [
+      "!bp_0db78e724baf4cafbdaa738d6940848e",
+      "!bp_7925cd2101304f53b535d59fdb804ef0"
+    ],
     "m_DefaultBuild": null,
     "m_AdditionalVisualSettings": null,
     "VisualSettingsPriority": 0

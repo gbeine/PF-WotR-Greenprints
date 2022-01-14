@@ -1,0 +1,74 @@
+{
+  "AssetId": "8389bebc267c4bb18d23b0cf75003c51",
+  "Data": {
+    "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+    "PrototypeLink": "",
+    "m_Overrides": [
+      "$ShareFeaturesWithCompanion$de2d1049-c7b2-4b15-a762-ee68ca3116ad"
+    ],
+    "Components": [
+      {
+        "$type": "e558f13c3cbabcb4ebee62efe0677610, ShareFeaturesWithPet",
+        "m_Flags": 0,
+        "name": "$ShareFeaturesWithCompanion$de2d1049-c7b2-4b15-a762-ee68ca3116ad",
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Type": "AnimalCompanion",
+        "m_Features": [
+          "!bp_9093ceeefe9b84746a5993d619d7c86f",
+          "!bp_c920f2cd2244d284aa69a146aeefcb2c",
+          "!bp_992fd59da1783de49b135ad89142c6d7",
+          "!bp_b186cea78dce3a04aacff0a81786008c",
+          "!bp_422dab7309e1ad343935f33a4d6e9f11",
+          "!bp_5662d1b793db90c4b9ba68037fd2a768",
+          "!bp_6337b37f2a7c11b4ab0831d6780bce2a",
+          "!bp_8976de442862f82488a4b138a0a89907",
+          "!bp_0b707584fc2ea724aa72c396c2230dc7",
+          "!bp_1191ef3065e6f8e4f9fbe1b7e3c0f760",
+          "!bp_d26eb8ab2aabd0e45a4d7eec0340bbce"
+        ]
+      }
+    ],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "GiftedMasterTactics_Name",
+      "m_OwnerString": "8389bebc267c4bb18d23b0cf75003c51",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "GiftedMasterTactics_Description",
+      "m_OwnerString": "8389bebc267c4bb18d23b0cf75003c51",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "ddf30d3e62eb1b94a9e3c1f1901f0102",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": true,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": []
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

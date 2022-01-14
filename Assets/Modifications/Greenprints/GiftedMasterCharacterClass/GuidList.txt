@@ -4,20 +4,28 @@
 3457f08b22f04681865f65f54644cee7 GiftedMasterFinesseTrainingSelection
 61294830a8c342de98275cdd7a5e0c35 GiftedMasterProficiencies
 57b78b49e52941b69df6bcf930344f3f GiftedMasterSkillFocus
+8389bebc267c4bb18d23b0cf75003c51 GiftedMasterTactics
 cca35632d349402287141ac5429b992f GiftedMasterTalentSelection
 25f2487dfa4944bea2c3dd3548faad0b GiftedMasterTeamworkFeat
+0db78e724baf4cafbdaa738d6940848e GiftedMasterTalents (Signature)
+7925cd2101304f53b535d59fdb804ef0 GiftedMasterBladeTalents (Signature)
 
 3929ef95af69497eaf11615b16bd1882 DivineMasterArchetype
 2f81dcfd95f64216899e2c701d155af0 CharlatanArchetype
+92bf79b865aa4b5ba271478e2d57af5f CharlatanExploitSelection
 ba1a9ad7691f423e81fa7f3defe677f6 GrandWitcherArchetype
+172ad6eaa0604cff935d3094f138b47e GrandWitcherBetterHexProgression
 
 
 61cf9dd7a08f4927875d7bcd00d97c28 KineticDuelistArchetype
 
 6fc4158e-8a35-43f5-bf0f-1082f968b192 GiftedMasterClass > Component > PrerequisiteNoClassLevel
 ce7a7ef9-71ad-4575-af36-744293904735 GiftedMasterClass > Component > PrerequisiteIsPet
+a42c9934-f906-4a30-89fd-43a459b26b17 GiftedMasterClass > Component > PrerequisiteAlignment
 6c88eddc-9cce-4612-a6ad-93bdd444a70c GiftedMasterBladeProficiencies > Component > AddProficiencies
+6954f5cf-7851-4517-a05c-6edf2a94199c GiftedMasterBladeProficiencies > Component > AddFact
 5fe44368-3bba-45c1-a8a9-6269ccd56dc5 GiftedMasterProficiencies > Component > AddFact
+de2d1049-c7b2-4b15-a762-ee68ca3116ad GiftedMasterTactics > Components > ShareFeaturesWithCompanion
 
 733008e2-7d89-440d-bf6f-786d0bed62b1 Charlatan > Component > PrerequisiteAlignment
 4e10fe21-7559-4fa5-b46c-2de7aecb536f DivineMaster > Component > PrerequisiteNoFeature
@@ -29,6 +37,17 @@ ce7a7ef9-71ad-4575-af36-744293904735 GiftedMasterClass > Component > Prerequisit
 f268d5ef-9938-404d-b0d6-14bc9f04c515 UncannyDodgeTalent.patch > Component > PrerequisiteClassLevel
 e2eb10d3-cf5f-405e-a230-e7cde9ddf973 ImprovedUncannyDodgeTalent.patch > Component > PrerequisiteClassLevel
 a30093eb-8035-42f1-9380-a93ed4bf069b StygianSlayerShadowyMistForm.patch.patch > Component > PrerequisiteFeature
+
+ff991d6b-2c8f-483d-8b77-23a8680064e4 WitchPatronSpellLevel1.patch > Component > AddKnownSpell
+1591bab3-7eb4-4054-9e98-af398712a82e WitchPatronSpellLevel2.patch > Component > AddKnownSpell
+fb0395d6-62eb-4b70-a65a-c8fb29502a6a WitchPatronSpellLevel3.patch > Component > AddKnownSpell
+4e6a4a32-20de-49c7-bdae-a329a3d04c7f WitchPatronSpellLevel4.patch > Component > AddKnownSpell
+d44a6fe1-4f93-4d8f-8967-69fadd0af839 WitchPatronSpellLevel5.patch > Component > AddKnownSpell
+41a319a8-d1bb-48e5-8be6-61e92fdfca57 WitchPatronSpellLevel6.patch > Component > AddKnownSpell
+7aad8508-60d1-421f-b7f9-836075e9e0b1 WitchPatronSpellLevel7.patch > Component > AddKnownSpell
+1db2e782-692f-48b1-ac78-84833e3513d4 WitchPatronSpellLevel8.patch > Component > AddKnownSpell
+599cfea7-f6c5-4bb7-a66e-c1c65b104012 WitchPatronSpellLevel9.patch > Component > AddKnownSpell
+
 
 a3b6a6b2-89e7-4ac3-85d0-14df8f59f510 AirDomainBaseAbility.patch > Component > ContextRankConfig
 f0498861-696e-4602-a2d6-6699dc4ed63a AnimalDomainBaseFeature.patch > Component > ContextRankConfig
@@ -178,6 +197,18 @@ ff4662bde9e75f145853417313842751 // High Save
 d7963e1fcf260c148877afd3252dbc91 // ScalemailStandard (Schuppenpanzer)
 afbe88d27a0eb544583e00fa78ffb2c7 // StuddedStandard (Studded Leather Armor)
 08c7987d7320d1645a4a1f005ab2dfcb // ColdIronShortsword
+8a4c5904f60d2d44e8ba026a74bd3e7c // StandardColdIronLongsword
+4c863a47d69b63647b3b16bbb01d5ba8 // Estoc
+83ca7c2bf68e56d478443cdb667dd077 // ColdIronMasterworkEstoc
+638db1905268b3845825ffa194b7415f // ColdIronEstoc
+f7830407a11c35a4a8fb0f7c1c95eac4 // MasterworkEstoc
+b103b6468f2eff042903377b6ed940b2 // ColdIronDagger
+e55e8179b23f16e40999320d6e7d1664 // ColdIronMasterworkDagger
+dfc92affae244554e8745a9ee9b7c520 // MasterworkDagger
+3d168a6320ac93849b7b31c0c41f65c0 // ColdIronPunchingDagger
+12f1641de657b4647bad6193f4b79e54 // ColdIronMasterworkPunchingDagger
+4eadc3edae4500a4c972b61cad66add8 // MasterworkPunchingDagger
+ec731c55e657cf0408fd89c648ccc536 // Cold Iron Rapier
 d52566ae8cbe8dc4dae977ef51c27d91 // PotionOfCureLightWounds
 511c97c1ea111444aa186b1a58496664 // StandardLightCrossbow
 
@@ -237,8 +268,8 @@ e1f437048db80164792155102375b62c // SacredHuntsmasterTactics
 6d9d3fbc30564e64d966dba27cd6357a // SanctifiedSlayerStudyTargetFeature (DivineMaster)
 e70ecf1ed95ca2f40b754f1adb22bbdd // SimpleWeaponProficiency
 9b9eac6709e1c084cb18c3a366e0ec87 // SneakAttack (DivineMaster)
-09bdd9445ac38044389476689ae8d5a1 // SlayerStudyTargetFeature (DivineMaster)
-40d4f55a5ac0e4f469d67d36c0dfc40b // SlayerSwiftStudyTargetFeature (DivineMaster)
+09bdd9445ac38044389476689ae8d5a1 // SlayerStudyTargetFeature
+40d4f55a5ac0e4f469d67d36c0dfc40b // SlayerSwiftStudyTargetFeature
 5602845cd22683840a6f28ec46331051 // SoloTactics
 b3db3766a4b605040b366265e2af0e50 // SorcererSpellbook (Charlatan)
 ec9dbc9a5fa26e446a54fe5df6779088 // Stalwart
@@ -248,11 +279,13 @@ bed2f82519a10214ca023c5961e0c436 // StygianSlayerShadowyMistForm (DivineMaster)
 d87e2f6a9278ac04caeb0f93eff95fcb // TeamworkFeat
 62ef1cdb90f1d654d996556669caf7fa // TouchCalculateFeature (Charlatan)
 dbb6b3bffe6db3547b31c3711653838e // Trapfinding
+ac8aaf29054f5b74eb18f2af950e752d // Two Weapon Fighting
 3c08d842e802c3e4eb19d15496145709 // UncannyDodge
 90e54424d682d104ab36436bd527af09 // WeaponFinesse
 c213af60aba83ed4993948dce6b947b8 // WitchCantripsFeature (GrandWitcher)
 29a333b7ccad3214ea3a51943fa0d8e9 // WitchFamiliarSelection (GrandWitcher)
 d24c2467804ce0e4497d9978bafec1f9 // WitchGrandHex (GrandWitcher)
+38d01811fcb32444a8fe372c029fa0c6 // WitchBetterHexProgression (GrandWitcher)
 9846043cf51251a4897728ed6e24e76f // WitchHexSelection (GrandWitcher)
 8ac781b33e380c84aa578f1b006dd6c5 // WitchMajorHex (GrandWitcher)
 8c189560d7f94dd688f0dc29f6963610 // WitchOfTheVeilSecrecyFeature (Charlatan, GrandWitcher)

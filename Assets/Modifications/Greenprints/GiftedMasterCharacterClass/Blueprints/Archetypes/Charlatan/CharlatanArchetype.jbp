@@ -21,14 +21,14 @@
     ],
     "Comment": "",
     "LocalizedName": {
-      "m_Key": "GiftedMaster_Charlatan_Name",
+      "m_Key": "CharlatanArchetype_Name",
       "m_OwnerString": "2f81dcfd95f64216899e2c701d155af0",
       "m_OwnerPropertyPath": "LocalizedName",
       "m_JsonPath": "",
       "Shared": null
     },
     "LocalizedDescription": {
-      "m_Key": "GiftedMaster_Charlatan_Description",
+      "m_Key": "CharlatanArchetype_Description",
       "m_OwnerString": "2f81dcfd95f64216899e2c701d155af0",
       "m_OwnerPropertyPath": "LocalizedDescription",
       "m_JsonPath": "",
@@ -49,165 +49,105 @@
       {
         "Level": 1,
         "m_Features": [
+          "!bp_92bf79b865aa4b5ba271478e2d57af5f",
+          "!bp_9d1e2212594cf47438fff2fa3477b954",
+          "!bp_5ad7c9fb13ecb52489a89824f0e3db08",
           "!bp_d3e6275cfa6e7a04b9213b7b292a011c",
           "!bp_62ef1cdb90f1d654d996556669caf7fa",
-          "!bp_5ad7c9fb13ecb52489a89824f0e3db08",
-          "!bp_ee0b69e90bac14446a4cf9a050f87f2e",
-          "!bp_9d1e2212594cf47438fff2fa3477b954",
-          "!bp_8c189560d7f94dd688f0dc29f6963610",
-          "!bp_b8bf3d5023f2d8c428fdf6438cecaea7"
-        ]
-      },
-      {
-        "Level": 2,
-        "m_Features": [
-          "!bp_855a1e132cfa444eb8eed4c784ee8ec9",
-          "!bp_b8bf3d5023f2d8c428fdf6438cecaea7"
+          "!bp_ee0b69e90bac14446a4cf9a050f87f2e"
         ]
       },
       {
         "Level": 4,
         "m_Features": [
-          "!bp_b8bf3d5023f2d8c428fdf6438cecaea7"
+          "!bp_92bf79b865aa4b5ba271478e2d57af5f"
         ]
       },
       {
-        "Level": 6,
+        "Level": 7,
         "m_Features": [
-          "!bp_b8bf3d5023f2d8c428fdf6438cecaea7"
-        ]
-      },
-      {
-        "Level": 8,
-        "m_Features": [
-          "!bp_855a1e132cfa444eb8eed4c784ee8ec9",
-          "!bp_b8bf3d5023f2d8c428fdf6438cecaea7"
+          "!bp_92bf79b865aa4b5ba271478e2d57af5f"
         ]
       },
       {
         "Level": 10,
         "m_Features": [
           "!bp_c7536b93f17c70d4fa3a8cf9aa76bfb7",
-          "!bp_b8bf3d5023f2d8c428fdf6438cecaea7"
+          "!bp_92bf79b865aa4b5ba271478e2d57af5f"
         ]
       },
       {
-        "Level": 12,
+        "Level": 13,
         "m_Features": [
-          "!bp_b8bf3d5023f2d8c428fdf6438cecaea7"
-        ]
-      },
-      {
-        "Level": 14,
-        "m_Features": [
-          "!bp_b8bf3d5023f2d8c428fdf6438cecaea7"
+          "!bp_92bf79b865aa4b5ba271478e2d57af5f"
         ]
       },
       {
         "Level": 16,
         "m_Features": [
-          "!bp_855a1e132cfa444eb8eed4c784ee8ec9",
-          "!bp_3ff892a2eaa1462796ddc776bb49648d",
-          "!bp_b8bf3d5023f2d8c428fdf6438cecaea7"
+          "!bp_92bf79b865aa4b5ba271478e2d57af5f"
         ]
       },
       {
-        "Level": 18,
+        "Level": 19,
         "m_Features": [
-          "!bp_b8bf3d5023f2d8c428fdf6438cecaea7"
+          "!bp_92bf79b865aa4b5ba271478e2d57af5f"
         ]
       },
       {
         "Level": 20,
         "m_Features": [
-          "!bp_b8bf3d5023f2d8c428fdf6438cecaea7",
           "!bp_261270d064148224fb982590b7a65414"
         ]
       }
     ],
     "RemoveFeatures": [
       {
-        "Level": 2,
+        "Level": 1,
         "m_Features": [
-          "!bp_c074a5d615200494b8f2a9c845799d93"
-        ]
-      },
-      {
-        "Level": 3,
-        "m_Features": [
-          "!bp_f2d2c1702d8a4cc6adfcbd4ebff8eee4"
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
         ]
       },
       {
         "Level": 4,
         "m_Features": [
-          "!bp_c074a5d615200494b8f2a9c845799d93"
-        ]
-      },
-      {
-        "Level": 6,
-        "m_Features": [
-          "!bp_c074a5d615200494b8f2a9c845799d93"
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
         ]
       },
       {
         "Level": 7,
         "m_Features": [
-          "!bp_f2d2c1702d8a4cc6adfcbd4ebff8eee4"
-        ]
-      },
-      {
-        "Level": 8,
-        "m_Features": [
-          "!bp_c074a5d615200494b8f2a9c845799d93"
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
         ]
       },
       {
         "Level": 10,
         "m_Features": [
-          "!bp_c074a5d615200494b8f2a9c845799d93"
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
         ]
       },
       {
-        "Level": 11,
+        "Level": 13,
         "m_Features": [
-          "!bp_f2d2c1702d8a4cc6adfcbd4ebff8eee4"
-        ]
-      },
-      {
-        "Level": 12,
-        "m_Features": [
-          "!bp_c074a5d615200494b8f2a9c845799d93"
-        ]
-      },
-      {
-        "Level": 14,
-        "m_Features": [
-          "!bp_c074a5d615200494b8f2a9c845799d93"
-        ]
-      },
-      {
-        "Level": 15,
-        "m_Features": [
-          "!bp_f2d2c1702d8a4cc6adfcbd4ebff8eee4"
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
         ]
       },
       {
         "Level": 16,
         "m_Features": [
-          "!bp_c074a5d615200494b8f2a9c845799d93"
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
         ]
       },
       {
-        "Level": 18,
+        "Level": 19,
         "m_Features": [
-          "!bp_c074a5d615200494b8f2a9c845799d93"
+          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
         ]
       },
       {
         "Level": 20,
         "m_Features": [
-          "!bp_c074a5d615200494b8f2a9c845799d93"
+          "!bp_72dcf1fb106d5054a81fd804fdc168d3"
         ]
       }
     ],

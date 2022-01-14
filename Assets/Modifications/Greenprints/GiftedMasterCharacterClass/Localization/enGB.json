@@ -56,30 +56,65 @@
             "Key": "GiftedMasterTeamworkFeat_Description",
             "Value": "At 3rd level, and every three levels thereafter, the gifted master gains a bonus {g|Encyclopedia:Feat}feat{/g} in addition to those gained from normal advancement. These bonus feats must be selected from those listed as teamwork feats. The gifted master must meet the prerequisites of the selected bonus feat."
         },
+        {
+            "Key": "GiftedMasterTactics_Name",
+            "Value": "Companion Tactics"
+        },
+        {
+            "Key": "GiftedMasterTactics_Description",
+            "Value": "At 3rd level, the gifted master automatically grants her teamwork {g|Encyclopedia:Feat}feats{/g} to her animal companion. The companion doesn't need to meet the prerequisites of these teamwork feats."
+        },
+
+        {
+            "Key": "GiftedMasterTalents_Name",
+            "Value": "Gifted masters' talents"
+        },
+        {
+            "Key": "GiftedMasterTalents_Description",
+            "Value": "As a gifted master advances, they can choose unique {g|Encyclopedia:Special_Abilities}special abilities{/g} in addition to the regular {g|Encyclopedia:Feat}feats{/g}, empowering them in combat and making them more useful outside it."
+        },
+        {
+            "Key": "GiftedMasterBladeTalents_Name",
+            "Value": "Blade mastery"
+        },
+        {
+            "Key": "GiftedMasterBladeTalents_Description",
+            "Value": "Gifted masters are excellent with bladed weapons and are proficient in two-handed combat. They are familiar with almost all bladed weapons and usually wield a rapier and an estoc as second weapon."
+        },
 
 
         {
-            "Key": "GiftedMaster_DivineMaster_Name",
-            "Value": "Divine Meister"
+            "Key": "DivineMasterArchetype_Name",
+            "Value": "Fallen Master"
         },
         {
-            "Key": "GiftedMaster_DivineMaster_Description",
-            "Value": "Divine masters are inquisitors or assassins whose faith has been disappointed. They search for orientation in the world and not infrequently go astray."
+            "Key": "DivineMasterArchetype_Description",
+            "Value": "Fallen masters are inquisitors or clerics whose faith has been disappointed. They search for orientation in the world and not infrequently go astray. Due to their evil disposition, they take advantage of their domain bond so that they can obtain spells from two domains."
         },
+
         {
-            "Key": "GiftedMaster_Charlatan_Name",
+            "Key": "CharlatanArchetype_Name",
             "Value": "Charlatan"
         },
         {
-            "Key": "GiftedMaster_Charlatan_Description",
+            "Key": "CharlatanArchetype_Description",
             "Value": "The charlatan is a funny fellow who gets through life with a few tricks and a bit of magic. Only very rarely does a charlatan have to take up arms, in most cases he manages to wriggle out of trouble through illusion or persuasion."
         },
         {
-            "Key": "GiftedMaster_GrandWitcher_Name",
+            "Key": "CharlatanExploitSelection_Name",
+            "Value": "Charlatan Exploits"
+        },
+        {
+            "Key": "CharlatanExploitSelection_Description",
+            "Value": "By bending and sometimes even breaking the rules of magic, the charlatan learns to exploit gaps and exceptions in the laws of magic. Some of these exploits allow her to break down various forms of magic, adding their essence to her arcane reservoir. At 1st level and every 3 levels thereafter, the charlatan learns a new arcane exploit. A charlatan exploit cannot be selected more than once. Once a charlatan exploit has been selected, it cannot be changed. Most charlatan exploits require the charlatan to expend points from her arcane reservoir to function. Unless otherwise noted, the {g|Encyclopedia:Saving_Throw}saving throw{/g} {g|Encyclopedia:DC}DC{/g} for an charlatan exploit is equal to 10 + half the charlatan's level + the charlatan's {g|Encyclopedia:Charisma}Charisma{/g} modifier."
+        },
+
+        {
+            "Key": "GrandWitcherArchetype_Name",
             "Value": "Grand Mistress of Witchery"
         },
         {
-            "Key": "GiftedMaster_GrandWitcher_Description",
+            "Key": "GrandWitcherArchetype_Description",
             "Value": "A witch gifted beyond measure, who has devoted herself to deception, cunning and illusions to get through life."
         }
     ]

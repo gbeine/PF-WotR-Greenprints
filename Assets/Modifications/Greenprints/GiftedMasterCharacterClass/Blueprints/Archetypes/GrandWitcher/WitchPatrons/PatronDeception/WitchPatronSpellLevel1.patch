@@ -1,0 +1,17 @@
+{
+  "_#ArrayMergeSettings": "Union",
+  "m_Overrides": [
+    "$AddKnownSpell$ff991d6b-2c8f-483d-8b77-23a8680064e4"
+  ],
+  "Components": [
+    {
+      "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+      "name": "$AddKnownSpell$ff991d6b-2c8f-483d-8b77-23a8680064e4",
+      "m_Overrides": [],
+      "m_CharacterClass": "!bp_9e1943315e9f4c649cd2fa86e202972c",
+      "SpellLevel": 1,
+      "m_Spell": "!bp_f001c73999fb5a543a199f890108d936",
+      "m_Archetype": "!bp_ba1a9ad7691f423e81fa7f3defe677f6"
+    }
+  ],
+}

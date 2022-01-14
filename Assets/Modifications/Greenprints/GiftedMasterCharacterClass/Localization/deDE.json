@@ -42,7 +42,7 @@
         },
         {
             "Key": "GiftedMasterTalentSelection_Description",
-            "Value": "Sammelt ein Begabter Meister {g|Encyclopedia:XP}Erfahrung{/g}, erlernt er eine Reihe neuer Fähigkeiten. Der begabte Meister erhält auf Stufe 1, Stufe 2 und nach jeweils vier weiteren Stufen eine neue Fähigkeit. Eine Fähigkeit kann nicht mehrmals ausgewählt werden."
+            "Value": "Sammelt ein Begabter Meister {g|Encyclopedia:XP}Erfahrung{/g}, erlernt er eine Reihe neuer Talente. Der begabte Meister erhält auf Stufe 1, Stufe 2 und nach jeweils vier weiteren Stufen ein neues Talent. Ein Talente kann nicht mehrmals ausgewählt werden."
         },
         {
             "Key": "GiftedMasterFinesseTrainingSelection_Name",
@@ -56,31 +56,66 @@
             "Key": "GiftedMasterTeamworkFeat_Description",
             "Value": "Auf Stufe 3 und nach jeweils drei weiteren Stufen erhält der Begabte Meister zusätzlich zu den durch normale Fortschritte erworbenen {g|Encyclopedia:Feat}Talenten{/g} ein Bonustalent. Diese Bonustalente müssen aus der Liste der Gemeinschaftstalente ausgewählt werden. Der Begabte Meister muss außerdem die Voraussetzungen für das gewählte Bonustalent erfüllen."
         },
-
-
+        {
+            "Key": "GiftedMasterTactics_Name",
+            "Value": "Gefährtentaktiken"
+        },
+        {
+            "Key": "GiftedMasterTactics_Description",
+            "Value": "Auf Stufe 3 gewährt ein Begabter Meister seinem Tiergefährten automatisch seine {g|Encyclopedia:Feat}Gemeinschaftstalente{/g}. Der Gefährte muss die Voraussetzungen für diese Gemeinschaftstalente nicht erfüllen."
+        },
 
         {
-            "Key": "GiftedMaster_DivineMaster_Name",
+            "Key": "GiftedMasterTalents_Name",
+            "Value": "Talente der Begabten Meister"
+        },
+        {
+            "Key": "GiftedMasterTalents_Description",
+            "Value": "Im Laufe der Zeit kann ein Begabter Meister einzigartige zusätzliche zu seinen regulären {g|Encyclopedia:Feat}Talenten{/g} noch {g|Encyclopedia:Special_Abilities}besondere Fähigkeiten{/g} einsetzen, die ihn im Kampf stärken und außerhalb des Kampfes nützlicher machen."
+        },
+
+        {
+            "Key": "GiftedMasterBladeTalents_Name",
+            "Value": "Klingenmeisterschaft"
+        },
+        {
+            "Key": "GiftedMasterBladeTalents_Description",
+            "Value": "Begabte Meister können hervorragend mit Klingenwaffen umgehen und beherrschen den beidhändigen Kampf. Sie sind mit fast allen Klingenwaffen vertraut und führen zumeist ein Rapier und ein Estoc als zweite Waffe."
+        },
+
+        {
+            "Key": "DivineMasterArchetype_Name",
             "Value": "Gefallener Meister"
         },
         {
-            "Key": "GiftedMaster_DivineMaster_Description",
-            "Value": "Gefallene Meister sind Inquisitoren oder Attentäter, deren Glaube enttäuscht wurde. Sie suchen nach Orientierung in der Welt und gelangen dabei nicht selten auf Abwege."
+            "Key": "DivineMasterArchetype_Description",
+            "Value": "Gefallene Meister sind Inquisitoren oder Kleriker, deren Glaube enttäuscht wurde. Sie suchen nach Orientierung in der Welt und gelangen dabei nicht selten auf Abwege. Durch ihre böse Gesinnung nutzen sie ihre Domänenbindung aus, so dass sie aus zwei Domänen Zauber erhalten können."
         },
+
         {
-            "Key": "GiftedMaster_Charlatan_Name",
+            "Key": "CharlatanArchetype_Name",
             "Value": "Scharlatan"
         },
         {
-            "Key": "GiftedMaster_Charlatan_Description",
+            "Key": "CharlatanArchetype_Description",
             "Value": "Der Scharlatan ist ein lustiger Geselle, der sich mit ein paar Tricks und ein bisschen Magie durchs Leben schlägt. Nur sehr selten muss ein Scharlatan zu den Waffen greifen, in den meisten Fällen schafft er es, sich durch Illusion oder Überredung aus Schwierigkeiten herauszuwinden."
         },
         {
-            "Key": "GiftedMaster_GrandWitcher_Name",
+            "Key": "CharlatanExploitSelection_Name",
+            "Value": "Scharlatantricks"
+        },
+        {
+            "Key": "CharlatanExploitSelection_Description",
+            "Value": "Durch die Beugung und mitunter sogar den Bruch mit den Regeln der Magie lernt der Scharlatan, die Lücken und Ausnahmen der Gesetze der Zauberei für seine Zwecke zu nutzen. Auf diese Weise kann er verschiedene Formen der Magie aufspalten, um ihre Essenz seinem arkanen Reservoir hinzuzufügen. Auf Stufe 1 und nach jeweils 3 weiteren Stufen erlernt der Scharlatan einen neuen Scharlatantrick. Ein Scharlatantrick kann nur einmal ausgewählt werden. Nach der Wahl eines Scharlatantricks kann dieser nicht gewechselt werden. Viele Scharlatantricks erfordern den Einsatz von Punkten aus dem arkanen Reservoir des Scharlatans. Sofern nicht anders angegeben, entspricht der {g|Encyclopedia:Saving_Throw}Rettungswurf{/g}-{g|Encyclopedia:DC}SG{/g} gegen einen Scharlatantrick 10 + halbe Stufe des Scharlatans + {g|Encyclopedia:Charisma}Charismamodifikator{/g} des Scharlatans."
+        },
+
+
+        {
+            "Key": "GrandWitcherArchetype_Name",
             "Value": "Großmeisterin der Hexerei"
         },
         {
-            "Key": "GiftedMaster_GrandWitcher_Description",
+            "Key": "GrandWitcherArchetype_Description",
             "Value": "Eine über alle Maßen begabte Hexe, die sich Täuschung, List und Illusionen verschrieben hat, um durch's Leben zu kommen."
         }
     ]

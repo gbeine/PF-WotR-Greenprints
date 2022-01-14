@@ -4,7 +4,8 @@
     "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
     "PrototypeLink": null,
     "m_Overrides": [
-      "$AddProficiencies$6c88eddc-9cce-4612-a6ad-93bdd444a70c"
+      "$AddProficiencies$6c88eddc-9cce-4612-a6ad-93bdd444a70c",
+      "$AddFacts$6954f5cf-7851-4517-a05c-6edf2a94199c"
     ],
     "Components": [
       {
@@ -24,6 +25,20 @@
           "Estoc",
           "Falcata"
         ]
+      },
+      {
+        "$type": "d79ad4ed064aa4f43ace0e9c238fb9b9, AddFacts",
+        "name": "$AddFacts$6954f5cf-7851-4517-a05c-6edf2a94199c",
+        "m_Overrides": [],
+        "m_Facts": [
+          "!bp_ac8aaf29054f5b74eb18f2af950e752d"
+        ],
+        "Dummy": null,
+        "CasterLevel": 0,
+        "DoNotRestoreMissingFacts": false,
+        "HasDifficultyRequirements": false,
+        "InvertDifficultyRequirements": false,
+        "MinDifficulty": "Story"
       }
     ],
     "Comment": "",

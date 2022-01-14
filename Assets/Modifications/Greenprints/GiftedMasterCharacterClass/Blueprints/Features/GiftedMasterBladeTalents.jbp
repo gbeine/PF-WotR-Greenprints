@@ -1,0 +1,44 @@
+{
+  "AssetId": "7925cd2101304f53b535d59fdb804ef0",
+  "Data": {
+    "$type": "ea44b1ffb0675104cb178df6459f3a21, BlueprintFeatureSelection",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "GiftedMasterBladeTalents_Name",
+      "m_OwnerString": "7925cd2101304f53b535d59fdb804ef0",
+      "m_OwnerPropertyPath": "m_DisplayName",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "GiftedMasterBladeTalents_Description",
+      "m_OwnerString": "7925cd2101304f53b535d59fdb804ef0",
+      "m_OwnerPropertyPath": "m_Description",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "GiftedMasterBladeTalents_Description",
+      "m_OwnerString": "7925cd2101304f53b535d59fdb804ef0",
+      "m_OwnerPropertyPath": "m_DescriptionShort",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "f0d44c2c81c53ef448bfc17cc071f60d",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": false,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null
+  }
+}
