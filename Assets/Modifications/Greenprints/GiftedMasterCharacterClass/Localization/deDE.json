@@ -111,12 +111,12 @@
 
 
         {
-            "Key": "GrandWitcherArchetype_Name",
-            "Value": "Großmeisterin der Hexerei"
+            "Key": "MagistraArchetype_Name",
+            "Value": "Magistra"
         },
         {
-            "Key": "GrandWitcherArchetype_Description",
-            "Value": "Eine über alle Maßen begabte Hexe, die sich Täuschung, List und Illusionen verschrieben hat, um durch's Leben zu kommen."
+            "Key": "MagistraArchetype_Description",
+            "Value": "Eine Magistra ist eine begabte Hexe, die zumeist in edlen Kreisen ausgewwachsen ist. Da Hexenmagie dort in aller Regel nicht gerne gesehen ist, musste sie sich auf Täuschung, List und Illusionen verschreiben, um durch's Leben zu kommen."
         }
     ]
 }

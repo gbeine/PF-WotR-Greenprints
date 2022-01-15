@@ -24,25 +24,81 @@ MonoBehaviour:
   - Guid: bed2f82519a10214ca023c5961e0c436
     Filename: Features/StygianSlayerShadowyMistForm.patch
   - Guid: 3a4214e3c2eab3c40bc491d7abea7045
-    Filename: Archetypes/GrandWitcher/WitchPatrons/PatronDeception/WitchDeceptionPatronProgression.patch
+    Filename: Archetypes/Magistra/WitchPatrons/PatronDeception/WitchDeceptionPatronProgression.patch
   - Guid: ad7f803d19c18fc4f9c5ee65fc12a237
-    Filename: Archetypes/GrandWitcher/WitchPatrons/PatronDeception/WitchPatronSpellLevel1.patch
+    Filename: Archetypes/Magistra/WitchPatrons/PatronDeception/WitchPatronSpellLevel1.patch
   - Guid: d46fd148c1c4f9c42a7734d8476878f8
-    Filename: Archetypes/GrandWitcher/WitchPatrons/PatronDeception/WitchPatronSpellLevel2.patch
+    Filename: Archetypes/Magistra/WitchPatrons/PatronDeception/WitchPatronSpellLevel2.patch
   - Guid: 53f733d1f1704a64cb896b984b1c06d5
-    Filename: Archetypes/GrandWitcher/WitchPatrons/PatronDeception/WitchPatronSpellLevel3.patch
+    Filename: Archetypes/Magistra/WitchPatrons/PatronDeception/WitchPatronSpellLevel3.patch
   - Guid: fa7eafc737f43df4db9e896b0cb7a14b
-    Filename: Archetypes/GrandWitcher/WitchPatrons/PatronDeception/WitchPatronSpellLevel4.patch
+    Filename: Archetypes/Magistra/WitchPatrons/PatronDeception/WitchPatronSpellLevel4.patch
   - Guid: 57f0558877e728b409b9d11b8a3abb83
-    Filename: Archetypes/GrandWitcher/WitchPatrons/PatronDeception/WitchPatronSpellLevel5.patch
+    Filename: Archetypes/Magistra/WitchPatrons/PatronDeception/WitchPatronSpellLevel5.patch
   - Guid: 429a261686c7c5742a610a92b41601d1
-    Filename: Archetypes/GrandWitcher/WitchPatrons/PatronDeception/WitchPatronSpellLevel6.patch
+    Filename: Archetypes/Magistra/WitchPatrons/PatronDeception/WitchPatronSpellLevel6.patch
   - Guid: 16fff96e05cd1a24db1e0254894d74e3
-    Filename: Archetypes/GrandWitcher/WitchPatrons/PatronDeception/WitchPatronSpellLevel7.patch
+    Filename: Archetypes/Magistra/WitchPatrons/PatronDeception/WitchPatronSpellLevel7.patch
   - Guid: 82f76f119c9bf4045a49ebe981cfe0d0
-    Filename: Archetypes/GrandWitcher/WitchPatrons/PatronDeception/WitchPatronSpellLevel8.patch
+    Filename: Archetypes/Magistra/WitchPatrons/PatronDeception/WitchPatronSpellLevel8.patch
   - Guid: c586b9b7c4b48054bbfb7f67a28b18ad
-    Filename: Archetypes/GrandWitcher/WitchPatrons/PatronDeception/WitchPatronSpellLevel9.patch
+    Filename: Archetypes/Magistra/WitchPatrons/PatronDeception/WitchPatronSpellLevel9.patch
+  - Guid: 4a511e1dfeec46c4b867bf61b15eae2b
+    Filename: Archetypes/Magistra/WitchHexes/WitchGrandHexes/WitchHexAnimalServantAbility.patch
+  - Guid: d560ab2a1b0613649833a0d92d6cfc6b
+    Filename: Archetypes/Magistra/WitchHexes/WitchGrandHexes/WitchHexDeathCurseAbility.patch
+  - Guid: 1bb5466b9bfcb5e47b9f667dad5784f9
+    Filename: Archetypes/Magistra/WitchHexes/WitchGrandHexes/WitchHexLayToRestAbility.patch
+  - Guid: 0d38e470e350ce34f869c20002d45763
+    Filename: Archetypes/Magistra/WitchHexes/WitchMajorHexes/WitchHexAgonyAbility.patch
+  - Guid: fcaaf1f25440a8f40ae424c7708e9a0f
+    Filename: Archetypes/Magistra/WitchHexes/WitchMajorHexes/WitchHexBeastsGiftBiteAbility.patch
+  - Guid: 3108e18055b46b84f8a57898ad5ad075
+    Filename: Archetypes/Magistra/WitchHexes/WitchMajorHexes/WitchHexBeastsGiftClawAbility.patch
+  - Guid: e7489733ac7ccca40917d9364b406adb
+    Filename: Archetypes/Magistra/WitchHexes/WitchMajorHexes/WitchHexDeliciousFrightAbility.patch
+  - Guid: 7244a24f0c186ce4b8a89fd26feded50
+    Filename: Archetypes/Magistra/WitchHexes/WitchMajorHexes/WitchHexHoarfrostAbility.patch
+  - Guid: e946e3fdc42ea65408daee0f029b4100
+    Filename: Archetypes/Magistra/WitchHexes/WitchMajorHexes/WitchHexMajorAmelioratingBlindedAbility.patch
+  - Guid: 0e8f3d24a2cea644e91273f6c551152d
+    Filename: Archetypes/Magistra/WitchHexes/WitchMajorHexes/WitchHexMajorAmelioratingCurseAbility.patch
+  - Guid: 05bba992bea833349a246fd47042748c
+    Filename: Archetypes/Magistra/WitchHexes/WitchMajorHexes/WitchHexMajorAmelioratingDiseaseAbility.patch
+  - Guid: 1411baa7c0e58f547b76b6b13e5443f3
+    Filename: Archetypes/Magistra/WitchHexes/WitchMajorHexes/WitchHexMajorAmelioratingPoisonAbility.patch
+  - Guid: 3408c351753aa9049af25af31ebef624
+    Filename: Archetypes/Magistra/WitchHexes/WitchMajorHexes/WitchHexMajorHealingAbility.patch
+  - Guid: b5c4c51cc9993b14b9dc0f0c54199d09
+    Filename: Archetypes/Magistra/WitchHexes/WitchMajorHexes/WitchHexRegenerativeSinewFastHealingAbility.patch
+  - Guid: 0a6effb356101cc46aa0bed8c3ab6fd4
+    Filename: Archetypes/Magistra/WitchHexes/WitchMajorHexes/WitchHexRegenerativeSinewRestorationAbility.patch
+  - Guid: a69fb167bb41c6f45a19c81ed4e3c0d9
+    Filename: Archetypes/Magistra/WitchHexes/WitchMajorHexes/WitchHexRestlessSlumberAbility.patch
+  - Guid: c9097a1d0685f2f468ab63c1138815ad
+    Filename: Archetypes/Magistra/WitchHexes/WitchHexAmelioratingDazzleAbility.patch
+  - Guid: b1505c6512a0f2c4581dfa6af14e9d5c
+    Filename: Archetypes/Magistra/WitchHexes/WitchHexAmelioratingFatuguedAbility.patch
+  - Guid: 43738e1ea3c328549bcdd81883841e05
+    Filename: Archetypes/Magistra/WitchHexes/WitchHexAmelioratingShakenAbility.patch
+  - Guid: e98cf086294d6134bb76d35e090cb059
+    Filename: Archetypes/Magistra/WitchHexes/WitchHexAmelioratingSickenedAbility.patch
+  - Guid: d7b6b2797253a5c478c957ba30bede47
+    Filename: Archetypes/Magistra/WitchHexes/WitchHexAuraOfPurityResource.patch
+  - Guid: eaf7077a8ff35644883df6d4f7b2084c
+    Filename: Archetypes/Magistra/WitchHexes/WitchHexFortuneAbility.patch
+  - Guid: ed4fbfcdb0f5dcb41b76d27ed00701af
+    Filename: Archetypes/Magistra/WitchHexes/WitchHexHealingAbility.patch
+  - Guid: 46cf5c995494e784c8d9a1696f9c61a7
+    Filename: Archetypes/Magistra/WitchHexes/WitchHexMisfortuneAbility.patch
+  - Guid: e7ecd11651b4df34897f33271a8d1cfc
+    Filename: Archetypes/Magistra/WitchHexes/WitchHexProtectiveLuckAbility.patch
+  - Guid: 630ea63a63457ff4f9de059c578c930a
+    Filename: Archetypes/Magistra/WitchHexes/WitchHexSlumberAbility.patch
+  - Guid: 8f0eb58c2d6aeab4e8523ec85b4b2bc7
+    Filename: Archetypes/Magistra/WitchHexes/WitchHexVulnerabilityCurseAbility.patch
+  - Guid: da49e3ca7424a4741953ecc4f2fe11bb
+    Filename: Archetypes/Magistra/WitchHexes/WitchHexWardBuff.patch
   - Guid: 750bfcd133cd52f42acbd4f7bc9cc365
     Filename: Archetypes/DivineMaster/Domains/Air/AirDomainProgression.patch
   - Guid: 23d2f87aa54c89f418e68e790dba11e0

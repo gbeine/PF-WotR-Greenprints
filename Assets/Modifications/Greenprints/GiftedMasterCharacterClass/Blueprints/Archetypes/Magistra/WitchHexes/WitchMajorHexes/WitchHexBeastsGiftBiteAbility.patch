@@ -1,0 +1,74 @@
+{
+  "_#ArrayMergeSettings": "Union",
+    "m_Overrides": [
+      "$ContextRankConfig$e9f1da5e-bc6d-4c24-9d4c-135669abae7e"
+    ],
+    "Components": [
+      {
+        "$type": "a15673bd9e3879442825226335fd8fe2, ContextRankConfig",
+        "m_Flags": 0,
+        "name": "$ContextRankConfig$e9f1da5e-bc6d-4c24-9d4c-135669abae7e",
+        "PrototypeLink": {
+          "guid": null,
+          "name": null
+        },
+        "m_Overrides": [],
+        "m_Type": "Default",
+        "m_BaseValueType": "SummClassLevelWithArchetype",
+        "m_Feature": null,
+        "m_FeatureList": [],
+        "m_Stat": "Unknown",
+        "m_SpecificModifier": "None",
+        "m_Buff": null,
+        "m_Progression": "AsIs",
+        "m_CustomProgression": [],
+        "m_StartLevel": 0,
+        "m_StepLevel": 0,
+        "m_UseMin": false,
+        "m_Min": 0,
+        "m_UseMax": false,
+        "m_Max": 20,
+        "m_ExceptClasses": false,
+        "Archetype": "!bp_ba1a9ad7691f423e81fa7f3defe677f6",
+        "m_AdditionalArchetypes": [],
+        "m_Class": [
+          "!bp_9e1943315e9f4c649cd2fa86e202972c"
+        ],
+        "m_CustomProperty": null,
+        "m_CustomPropertyList": []
+      },
+      {
+        "$type": "a15673bd9e3879442825226335fd8fe2, ContextRankConfig",
+        "m_Flags": 0,
+        "name": "$ContextRankConfig$47b4b22a-6d4d-46fe-a560-c78495ebc18d",
+        "PrototypeLink": {
+          "guid": null,
+          "name": null
+        },
+        "m_Overrides": [],
+        "m_Type": "DamageDice",
+        "m_BaseValueType": "SummClassLevelWithArchetype",
+        "m_Feature": null,
+        "m_FeatureList": [],
+        "m_Stat": "Unknown",
+        "m_SpecificModifier": "None",
+        "m_Buff": null,
+        "m_Progression": "Div2",
+        "m_CustomProgression": [],
+        "m_StartLevel": 0,
+        "m_StepLevel": 0,
+        "m_UseMin": false,
+        "m_Min": 0,
+        "m_UseMax": false,
+        "m_Max": 20,
+        "m_ExceptClasses": false,
+        "Archetype": "!bp_ba1a9ad7691f423e81fa7f3defe677f6",
+        "m_AdditionalArchetypes": [],
+        "m_Class": [
+          "!bp_9e1943315e9f4c649cd2fa86e202972c"
+        ],
+        "m_CustomProperty": null,
+        "m_CustomPropertyList": []
+      }
+    ]
+}

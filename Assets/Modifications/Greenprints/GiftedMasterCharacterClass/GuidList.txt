@@ -13,8 +13,8 @@ cca35632d349402287141ac5429b992f GiftedMasterTalentSelection
 3929ef95af69497eaf11615b16bd1882 DivineMasterArchetype
 2f81dcfd95f64216899e2c701d155af0 CharlatanArchetype
 92bf79b865aa4b5ba271478e2d57af5f CharlatanExploitSelection
-ba1a9ad7691f423e81fa7f3defe677f6 GrandWitcherArchetype
-172ad6eaa0604cff935d3094f138b47e GrandWitcherBetterHexProgression
+ba1a9ad7691f423e81fa7f3defe677f6 MagistraArchetype
+172ad6eaa0604cff935d3094f138b47e MagistraBetterHexProgression
 
 
 61cf9dd7a08f4927875d7bcd00d97c28 KineticDuelistArchetype
@@ -47,6 +47,60 @@ d44a6fe1-4f93-4d8f-8967-69fadd0af839 WitchPatronSpellLevel5.patch > Component > 
 7aad8508-60d1-421f-b7f9-836075e9e0b1 WitchPatronSpellLevel7.patch > Component > AddKnownSpell
 1db2e782-692f-48b1-ac78-84833e3513d4 WitchPatronSpellLevel8.patch > Component > AddKnownSpell
 599cfea7-f6c5-4bb7-a66e-c1c65b104012 WitchPatronSpellLevel9.patch > Component > AddKnownSpell
+72233230-15c7-47eb-9c3c-9f849ce76a87 WitchHexAnimalServantAbility.patch > Component > ContextRankConfig
+a2e35397-ea0d-4861-95ef-a13d5a74f1d6 WitchHexAnimalServantAbility.patch > Component > ContextRankConfig
+87ca6132-6bfa-4ce9-bb03-376e2664b003 WitchHexDeathCurseAbility.patch > Component > ContextRankConfig
+fd592468-0a03-41b2-8989-07f3ac07569c WitchHexDeathCurseAbility.patch > Component > ContextRankConfig
+a382e5eb-a516-4791-bdfa-9a748696e234 WitchHexLayToRestAbility.patch > Component > ContextRankConfig
+795379af-78f0-40e5-8bc3-ec657cc31afd WitchHexLayToRestAbility.patch > Component > ContextRankConfig
+27065df0-f5dd-460c-aa30-2a9094e82dff WitchHexAgonyAbility.patch > Component > ContextRankConfig
+fbd30ddf-61af-4456-8750-648b0283acaa WitchHexAgonyAbility.patch > Component > ContextRankConfig
+e9f1da5e-bc6d-4c24-9d4c-135669abae7e WitchHexBeastsGiftBiteAbility.patch > Component > ContextRankConfig
+47b4b22a-6d4d-46fe-a560-c78495ebc18d WitchHexBeastsGiftBiteAbility.patch > Component > ContextRankConfig
+3fe12463-4626-4221-99a6-08202b7a6623 WitchHexBeastsGiftClawAbility.patch > Component > ContextRankConfig
+6535b3f6-4196-4b25-ad2b-a03e7d91fcaf WitchHexBeastsGiftClawAbility.patch > Component > ContextRankConfig
+3c5f0765-40f8-475f-9d95-96fd8a12762b WitchHexDeliciousFrightAbility.patch > Component > ContextRankConfig
+97701df1-ad08-4820-87b0-a443ecf5ee6c WitchHexDeliciousFrightAbility.patch > Component > ContextRankConfig
+4730aba8-331c-4b14-bfed-62e029b9df3e WitchHexHoarfrostAbility.patch > Component > ContextRankConfig
+6a9c0f0b-0d3c-41e7-9750-e8c7444ae343 WitchHexHoarfrostAbility.patch > Component > ContextRankConfig
+d3ea6a43-63ae-410c-b58f-b74c6f43d180 WitchHexMajorAmelioratingBlindedAbility.patch > Component > ContextRankConfig
+beb70cbc-b164-4299-a660-b3461fee05cd WitchHexMajorAmelioratingBlindedAbility.patch > Component > ContextRankConfig
+9e55ddad-b6ac-438b-83d9-4abd4207df99 WitchHexMajorAmelioratingCurseAbility.patch > Component > ContextRankConfig
+6d309e2d-b20d-42dd-99d0-812e8972df1e WitchHexMajorAmelioratingCurseAbility.patch > Component > ContextRankConfig
+f9ab0e8f-76ad-486e-83d4-efd01fada525 WitchHexMajorAmelioratingDiseaseAbility.patch > Component > ContextRankConfig
+377131e4-d15f-413a-a184-b0cd226a0832 WitchHexMajorAmelioratingDiseaseAbility.patch > Component > ContextRankConfig
+6c4a81fe-31d2-4bdd-bb67-932f30769c22 WitchHexMajorAmelioratingDiseaseAbility.patch > Component > ContextRankConfig
+ec950c18-e09f-4c96-939e-c087ce581c21 WitchHexMajorAmelioratingPoisonAbility.patch > Component > ContextRankConfig
+af21f5d2-6e38-4f32-adbe-0581f3df9b62 WitchHexMajorAmelioratingPoisonAbility.patch > Component > ContextRankConfig
+27beb6aa-21fa-4db5-b9b0-c730401cb1c9 WitchHexMajorHealingAbility.patch > Component > ContextRankConfig
+25fa50b7-64dc-4e64-aa0d-7aa02ead4442 WitchHexMajorHealingAbility.patch > Component > ContextRankConfig
+011d1ff9-8bbc-433f-8db0-527621f45be7 WitchHexMajorHealingAbility.patch > Component > ContextRankConfig
+6515eb12-b673-4b2f-b45a-de54780f6073 WitchHexRegenerativeSinewFastHealingAbility.patch > Component > ContextRankConfig
+333813a3-57a5-470e-8b59-5fdda48567af WitchHexRegenerativeSinewFastHealingAbility.patch > Component > ContextRankConfig
+323511d2-7949-4e1b-9756-9a5eeec12b74 WitchHexRegenerativeSinewRestorationAbility.patch > Component > ContextRankConfig
+3bdc6872-d6e7-4a67-8d74-9958f01e60d9 WitchHexRegenerativeSinewRestorationAbility.patch > Component > ContextRankConfig
+3214dead-a927-4f88-81d4-38842ccd0a4b WitchHexRestlessSlumberAbility.patch > Component > ContextRankConfig
+cd14ced4-0f33-478c-91e8-87f104b07b65 WitchHexRestlessSlumberAbility.patch > Component > ContextRankConfig
+0471c4d1-2d0a-411f-b29c-ac0cd5082c6a WitchHexAmelioratingDazzleAbility.patch > Component > ContextRankConfig
+42e9d604-09c9-439d-a5fb-6d13b532f2f2 WitchHexAmelioratingDazzleAbility.patch > Component > ContextRankConfig
+fca4e232-e3a7-4bfb-92bf-88a267cda125 WitchHexAmelioratingFatuguedAbility.patch > Component > ContextRankConfig
+cbc1a765-ab07-4c0f-98d7-ccba96d1a370 WitchHexAmelioratingFatuguedAbility.patch > Component > ContextRankConfig
+6efea582-2664-460b-826b-3ea506812b24 WitchHexAmelioratingShakenAbility.patch > Component > ContextRankConfig
+a1326aa6-027b-4781-a0c7-93e3a6f5be36 WitchHexAmelioratingShakenAbility.patch > Component > ContextRankConfig
+3976e2af-036a-43c1-b5db-09095dcd7ea8 WitchHexAmelioratingSickenedAbility.patch > Component > ContextRankConfig
+4c7e9837-35af-4bc8-b0ed-c6578d7d927b WitchHexAmelioratingSickenedAbility.patch > Component > ContextRankConfig
+4210319a-6b3a-4b39-9cd4-deaa9741c26d WitchHexFortuneAbility.patch > Component > ContextRankConfig
+f6c4dc8c-492f-4ba6-8c6a-c1711dafb78f WitchHexHealingAbility.patch > Component > ContextRankConfig
+f4a050a7-28cb-4537-92ff-510f53fa752b WitchHexHealingAbility.patch > Component > ContextRankConfig
+680078a8-7f1d-44ee-a79e-9873d9afdd85 WitchHexHealingAbility.patch > Component > ContextRankConfig
+d1792f01-0618-419e-af2a-6d75948ebed2 WitchHexMisfortuneAbility.patch > Component > ContextRankConfig
+0aa67083-0bc4-475d-a75f-c2fb1e93a0d0 WitchHexMisfortuneAbility.patch > Component > ContextRankConfig
+a435fd1c-ab3a-4cbf-b88c-dfe7067a5ef0 WitchHexProtectiveLuckAbility.patch > Component > ContextRankConfig
+d1123f6b-b51f-4594-b887-997d6b239990 WitchHexSlumberAbility.patch > Component > ContextRankConfig
+b318d24b-3ea2-46b9-bd84-a987bb18d8c6 WitchHexSlumberAbility.patch > Component > ContextRankConfig
+1c513f66-81ce-4d41-b2c7-9712aaccecda WitchHexVulnerabilityCurseAbility.patch > Component > ContextRankConfig
+30eabec6-8a48-43a1-82b6-e107cd57cdfc WitchHexVulnerabilityCurseAbility.patch > Component > ContextRankConfig
+5e7dd4d1-633d-4bf1-8699-1106acc5d78e WitchHexWardBuff.patch > Component > ContextRankConfig
 
 
 a3b6a6b2-89e7-4ac3-85d0-14df8f59f510 AirDomainBaseAbility.patch > Component > ContextRankConfig
@@ -236,7 +290,7 @@ d52566ae8cbe8dc4dae977ef51c27d91 // PotionOfCureLightWounds
       "!bp_fd374a48fd0f5e94a841cc3bf408c432", // SlayerCamouflage
 
 
-b897fe0947e4b804082b1a687c21e6e2 // AccursedWitchSpellbook (GrandWitcher)
+b897fe0947e4b804082b1a687c21e6e2 // AccursedWitchSpellbook (Magistra)
 a33b99f95322d6741af83e9381b2391c // AdvanceTalents
 f894e003d31461f48a02f5caec4e3359 // AnimalCompanionFeatureDog
 95973c6705753eb43a50d00c0e501bbc // AnimalInsight
@@ -262,7 +316,7 @@ e59db96fa83cefd4a9a8f211500d9522 // InquisitorProficiencies (DivineMasterArchety
 f2d2c1702d8a4cc6adfcbd4ebff8eee4 // MasterOfAllSkillFocus
 a26c0279a423fc94cabeea898f4d9f8a // MasterSlayerFeature (DivineMaster)
 72dcf1fb106d5054a81fd804fdc168d3 // MasterStrike (DivineMaster)
-d3e6275cfa6e7a04b9213b7b292a011c // RayCalculateFeature (Charlatan, GrandWitcher)
+d3e6275cfa6e7a04b9213b7b292a011c // RayCalculateFeature (Charlatan, Magistra)
 c074a5d615200494b8f2a9c845799d93 // RogueTalentSelection
 e1f437048db80164792155102375b62c // SacredHuntsmasterTactics
 6d9d3fbc30564e64d966dba27cd6357a // SanctifiedSlayerStudyTargetFeature (DivineMaster)
@@ -282,15 +336,15 @@ dbb6b3bffe6db3547b31c3711653838e // Trapfinding
 ac8aaf29054f5b74eb18f2af950e752d // Two Weapon Fighting
 3c08d842e802c3e4eb19d15496145709 // UncannyDodge
 90e54424d682d104ab36436bd527af09 // WeaponFinesse
-c213af60aba83ed4993948dce6b947b8 // WitchCantripsFeature (GrandWitcher)
-29a333b7ccad3214ea3a51943fa0d8e9 // WitchFamiliarSelection (GrandWitcher)
-d24c2467804ce0e4497d9978bafec1f9 // WitchGrandHex (GrandWitcher)
-38d01811fcb32444a8fe372c029fa0c6 // WitchBetterHexProgression (GrandWitcher)
-9846043cf51251a4897728ed6e24e76f // WitchHexSelection (GrandWitcher)
-8ac781b33e380c84aa578f1b006dd6c5 // WitchMajorHex (GrandWitcher)
-8c189560d7f94dd688f0dc29f6963610 // WitchOfTheVeilSecrecyFeature (Charlatan, GrandWitcher)
-855a1e132cfa444eb8eed4c784ee8ec9 // WitchOfTheVeilShroudedStepFeature (Charlatan, GrandWitcher)
-3ff892a2eaa1462796ddc776bb49648d // WitchOfTheVeilShroudedStep16 (Charlatan, GrandWitcher)
+c213af60aba83ed4993948dce6b947b8 // WitchCantripsFeature (Magistra)
+29a333b7ccad3214ea3a51943fa0d8e9 // WitchFamiliarSelection (Magistra)
+d24c2467804ce0e4497d9978bafec1f9 // WitchGrandHex (Magistra)
+38d01811fcb32444a8fe372c029fa0c6 // WitchBetterHexProgression (Magistra)
+9846043cf51251a4897728ed6e24e76f // WitchHexSelection (Magistra)
+8ac781b33e380c84aa578f1b006dd6c5 // WitchMajorHex (Magistra)
+8c189560d7f94dd688f0dc29f6963610 // WitchOfTheVeilSecrecyFeature (Magistra)
+855a1e132cfa444eb8eed4c784ee8ec9 // WitchOfTheVeilShroudedStepFeature (Magistra)
+3ff892a2eaa1462796ddc776bb49648d // WitchOfTheVeilShroudedStep16 (Magistra)
 
 9678d121f669f864d9da5dabf1ca1ce0 // AirDomainSpellList
 d0ccda70fddc0e346a227068502771c1 // AnimalDomainSpellList
@@ -330,7 +384,7 @@ eba577470b8ee8443bb4552433451990 // WeatherDomainSpellList
 
 5d8c4161d21f63e4a99b47d1e99e654e // ChaosDomainGreaterAbility
 
-3a4214e3c2eab3c40bc491d7abea7045 // WitchDeceptionPatronProgression (GrandWitcher)
+3a4214e3c2eab3c40bc491d7abea7045 // WitchDeceptionPatronProgression (Magistra)
 
 750bfcd133cd52f42acbd4f7bc9cc365 // AirDomainProgression
 23d2f87aa54c89f418e68e790dba11e0 // AnimalDomainProgression

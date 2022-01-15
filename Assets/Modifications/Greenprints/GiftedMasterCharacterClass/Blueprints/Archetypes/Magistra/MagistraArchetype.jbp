@@ -7,14 +7,14 @@
     "Components": [],
     "Comment": "",
     "LocalizedName": {
-      "m_Key": "GrandWitcherArchetype_Name",
+      "m_Key": "MagistraArchetype_Name",
       "m_OwnerString": "2f81dcfd95f64216899e2c701d155af0",
       "m_OwnerPropertyPath": "LocalizedName",
       "m_JsonPath": "",
       "Shared": null
     },
     "LocalizedDescription": {
-      "m_Key": "GrandWitcherArchetype_Description",
+      "m_Key": "MagistraArchetype_Description",
       "m_OwnerString": "2f81dcfd95f64216899e2c701d155af0",
       "m_OwnerPropertyPath": "LocalizedDescription",
       "m_JsonPath": "",
