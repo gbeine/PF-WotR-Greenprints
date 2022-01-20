@@ -1,0 +1,91 @@
+{
+  "AssetId": "500489877a5c46b98f2c1cc3c7c15a1f",
+  "Data": {
+    "$type": "bec71e89a676a99458c9e2d0804f2a0c, BlueprintProgression",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "GiftedMasterWeaponFinesseProgression_Name",
+      "m_OwnerString": "500489877a5c46b98f2c1cc3c7c15a1f",
+      "m_OwnerPropertyPath": "LocalizedName",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "8caa05fdede890c47819c45ccfa0380a",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": true,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null,
+    "m_Classes": [
+      {
+        "m_Class": "!bp_9e1943315e9f4c649cd2fa86e202972c",
+        "AdditionalLevel": 0
+      }
+    ],
+    "ForAllOtherClasses": false,
+    "m_AlternateProgressionClasses": [],
+    "AlternateProgressionType": "Div2",
+    "LevelEntries": [
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_90e54424d682d104ab36436bd527af09"
+        ]
+      },
+      {
+        "Level": 3,
+        "m_Features": [
+          "!bp_3457f08b22f04681865f65f54644cee7"
+        ]
+      },
+      {
+        "Level": 7,
+        "m_Features": [
+          "!bp_3457f08b22f04681865f65f54644cee7"
+        ]
+      },
+      {
+        "Level": 11,
+        "m_Features": [
+          "!bp_3457f08b22f04681865f65f54644cee7"
+        ]
+      }
+    ],
+    "UIGroups": [
+      {
+        "m_Features": [
+          "!bp_90e54424d682d104ab36436bd527af09",
+          "!bp_3457f08b22f04681865f65f54644cee7"
+        ]
+      }
+    ],
+    "m_UIDeterminatorsGroup": [],
+    "m_ExclusiveProgression": null,
+    "GiveFeaturesForPreviousLevels": false,
+    "m_FeatureRankIncrease": null
+  }
+}

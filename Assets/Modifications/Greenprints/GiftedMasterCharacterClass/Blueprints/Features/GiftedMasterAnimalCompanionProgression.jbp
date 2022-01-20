@@ -1,0 +1,72 @@
+{
+  "AssetId": "5d3d2d6379134b969f8dfef67f128ba5",
+  "Data": {
+    "$type": "bec71e89a676a99458c9e2d0804f2a0c, BlueprintProgression",
+    "PrototypeLink": null,
+    "m_Overrides": [],
+    "Components": [],
+    "Comment": "",
+    "m_AllowNonContextActions": false,
+    "m_DisplayName": {
+      "m_Key": "GiftedMasterAnimalCompanionProgression_Name",
+      "m_OwnerString": "5d3d2d6379134b969f8dfef67f128ba5",
+      "m_OwnerPropertyPath": "LocalizedName",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_DescriptionShort": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "736cb7b0def6ff147b921c75c54a81a0",
+      "fileid": 21300000
+    },
+    "HideInUI": false,
+    "HideInCharacterSheetAndLevelUp": true,
+    "HideNotAvailibleInUI": false,
+    "Groups": [],
+    "Ranks": 1,
+    "ReapplyOnLevelUp": false,
+    "IsClassFeature": true,
+    "IsPrerequisiteFor": null,
+    "m_Classes": [
+      {
+        "m_Class": "!bp_9e1943315e9f4c649cd2fa86e202972c",
+        "AdditionalLevel": 0
+      }
+    ],
+    "ForAllOtherClasses": false,
+    "m_AlternateProgressionClasses": [],
+    "AlternateProgressionType": "Div2",
+    "LevelEntries": [
+      {
+        "Level": 1,
+        "m_Features": [
+          "!bp_2cbbde3dac044fffbeb32cc34a683606"
+        ]
+      },
+      {
+        "Level": 3,
+        "m_Features": [
+          "!bp_8389bebc267c4bb18d23b0cf75003c51"
+        ]
+      }
+    ],
+    "UIGroups": [],
+    "m_UIDeterminatorsGroup": [],
+    "m_ExclusiveProgression": null,
+    "GiveFeaturesForPreviousLevels": false,
+    "m_FeatureRankIncrease": null
+  }
+}

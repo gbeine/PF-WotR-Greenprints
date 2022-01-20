@@ -1,42 +1,283 @@
+
+# Gifted Master
+
+## Gifted Master Class
+
+### Class
+
 9e1943315e9f4c649cd2fa86e202972c GiftedMasterClass
-2416efa0a92c4d329de3d08ff34ad88b GiftedMasterProgession
-3df9280dbe3345e0b8449087f0c4fa08 GiftedMasterBladeProficiencies
-3457f08b22f04681865f65f54644cee7 GiftedMasterFinesseTrainingSelection
-61294830a8c342de98275cdd7a5e0c35 GiftedMasterProficiencies
-57b78b49e52941b69df6bcf930344f3f GiftedMasterSkillFocus
-8389bebc267c4bb18d23b0cf75003c51 GiftedMasterTactics
-cca35632d349402287141ac5429b992f GiftedMasterTalentSelection
-25f2487dfa4944bea2c3dd3548faad0b GiftedMasterTeamworkFeat
-0db78e724baf4cafbdaa738d6940848e GiftedMasterTalents (Signature)
-7925cd2101304f53b535d59fdb804ef0 GiftedMasterBladeTalents (Signature)
-
-3929ef95af69497eaf11615b16bd1882 DivineMasterArchetype
-2f81dcfd95f64216899e2c701d155af0 CharlatanArchetype
-92bf79b865aa4b5ba271478e2d57af5f CharlatanExploitSelection
-ba1a9ad7691f423e81fa7f3defe677f6 MagistraArchetype
-172ad6eaa0604cff935d3094f138b47e MagistraBetterHexProgression
-
-
-61cf9dd7a08f4927875d7bcd00d97c28 KineticDuelistArchetype
-
 6fc4158e-8a35-43f5-bf0f-1082f968b192 GiftedMasterClass > Component > PrerequisiteNoClassLevel
 ce7a7ef9-71ad-4575-af36-744293904735 GiftedMasterClass > Component > PrerequisiteIsPet
-a42c9934-f906-4a30-89fd-43a459b26b17 GiftedMasterClass > Component > PrerequisiteAlignment
-6c88eddc-9cce-4612-a6ad-93bdd444a70c GiftedMasterBladeProficiencies > Component > AddProficiencies
-6954f5cf-7851-4517-a05c-6edf2a94199c GiftedMasterBladeProficiencies > Component > AddFact
+
+#### Starting Items
+
+afbe88d27a0eb544583e00fa78ffb2c7 // StuddedStandard (Studded Leather Armor)
+83ca7c2bf68e56d478443cdb667dd077 // ColdIronMasterworkEstoc
+e55e8179b23f16e40999320d6e7d1664 // ColdIronMasterworkDagger
+d52566ae8cbe8dc4dae977ef51c27d91 // PotionOfCureLightWounds
+
+#### Equipment
+
+8a229ebb7b294cbb9bd984e0d1342423 // Inquisitor's Hat
+5470be096a195b0408115392fc742b41 // Arcanist & Wizard (Male)
+04244d527b8a1f14db79374bc802aaaa // Arcanist & Wizard (Male)
+1e4797f3425461946a0ae2986d16c85d // Arcanist & Wizard (Female)
+64abd9c4d6565de419f394f71a2d496f // Arcanist & Wizard (Female)
+
+#### Signature
+
+0db78e724baf4cafbdaa738d6940848e GiftedMasterTalents
+7925cd2101304f53b535d59fdb804ef0 GiftedMasterBladeTalents
+
+### Progression
+
+2416efa0a92c4d329de3d08ff34ad88b GiftedMasterProgession
+
+61294830a8c342de98275cdd7a5e0c35 GiftedMasterProficiencies (DET)
+500489877a5c46b98f2c1cc3c7c15a1f GiftedMasterWeaponFinesseProgression (DET)
+0299e3823b8742c7a963d311258b9de7 GiftedMasterSneakAttackProgression (DET)
+5d3d2d6379134b969f8dfef67f128ba5 GiftedMasterAnimalCompanionProgression (DET)
+
+cca35632d349402287141ac5429b992f GiftedMasterTalentSelection (UIG 1, L1, L2, L6, L10, L14, L18, L20)
+57b78b49e52941b69df6bcf930344f3f GiftedMasterSkillFocus (UIG 1, L4, L8, L12, L16)
+25f2487dfa4944bea2c3dd3548faad0b GiftedMasterTeamworkFeat (L3, L6, L9, L12, L15, L18)
+
+dbb6b3bffe6db3547b31c3711653838e // Trapfinding (DET)
+09bdd9445ac38044389476689ae8d5a1 // SlayerStudyTargetFeature (UIG 4, L1, L5, L10, L15, L20)
+40d4f55a5ac0e4f469d67d36c0dfc40b // SlayerSwiftStudyTargetFeature (UIG 4, L7)
+a33b99f95322d6741af83e9381b2391c // AdvanceTalents (L10)
+
+### Proficiencies
+
+61294830a8c342de98275cdd7a5e0c35 GiftedMasterProficiencies
+3df9280dbe3345e0b8449087f0c4fa08 GiftedMasterBladeProficiencies
 5fe44368-3bba-45c1-a8a9-6269ccd56dc5 GiftedMasterProficiencies > Component > AddFact
+
+6d3728d4e9c9898458fe5e9532951132 // LightArmorProficiency
+e70ecf1ed95ca2f40b754f1adb22bbdd // SimpleWeaponProficiency
+
+### BladeProficiencies
+
+3df9280dbe3345e0b8449087f0c4fa08 GiftedMasterBladeProficiencies
+6954f5cf-7851-4517-a05c-6edf2a94199c GiftedMasterBladeProficiencies > Component > AddFact
+6c88eddc-9cce-4612-a6ad-93bdd444a70c GiftedMasterBladeProficiencies > Component > AddProficiencies
+
+ac8aaf29054f5b74eb18f2af950e752d // Two Weapon Fighting
+
+Rapier, Kukri, Shortsword, Longsword, Scimitar, Falchion, DuelingSword, Estoc, Sai
+
+### GiftedMasterAnimalCompanionSelection
+
+2cbbde3dac044fffbeb32cc34a683606 GiftedMasterAnimalCompanionSelection
+3b468d00-86a5-4862-9199-1ef6ad5fedd9 GiftedMasterAnimalCompanionSelection > Components > AddFeatureOnApply
+ee27cdac-9aae-4f60-a548-900964ee71ed GiftedMasterAnimalCompanionSelection > Components > AddFeatureOnApply
+44252b75-1718-416a-8acd-5406a59aaa44 GiftedMasterAnimalCompanionSelection > Components > AddFeatureOnApply
+dfc58693-ff42-41a2-ae50-1c502f6dcd8f GiftedMasterAnimalCompanionSelection > Components > AddFeatureOnApply
+
+f894e003d31461f48a02f5caec4e3359 // AnimalCompanionFeatureDog
+67a9dc42b15d0954ca4689b13e8dedea // AnimalCompanionFeatureWolf
+65af7290b4efd5f418132141aaa36c1b // AnimalCompanionArchetypeSelection
+1670990255e4fe948a863bafd5dbda5d // AnimalCompanionRank
+446fe89490cab7d44957efebeb8cc2b1 // HunterAnimalCompanionProgression
+cb06f0e72ffb5c640a156bd9f8000c1d // MountTargetFeature
+
+### GiftedMasterTalentSelection
+
+cca35632d349402287141ac5429b992f GiftedMasterTalentSelection
+
+68a23a419b330de45b4c3789649b5b41 // CannyObserver
+576933720c440aa4d8d42b0c54b77e80 // Evasion
+97a6aa2b64dd21a4fac67658a91067d7 // FastStealth
+6087e0c9801b5eb48bf48d6e75116aad // IronGuts
+9f2d35be63f68614b89c901db84dd750 // JumpUp
+a14e8c1801911334f96d410f10eab7bf // SlipperyMind
+5a5ad5a6ca394bf46a70a68902cf3fd7 // Trailblazer
+ca5274d057152fa45b7527cad0927840 // UncannyDodgeTalent
+4cd06a915daa74f4094952f2b3314b3b // TerrainMastery
+c38720e9140d5b34f8f22b25c23168a9 // StygianSlayerInvisibilityFeature
+
+0d35d6c4d5eef8d4790d09bd9a874e57 // ImprovedEvasion (AdvanceTalents)
+e821c61b2711cea4cb993725b910e7e8 // ImprovedUncannyDodgeTalent (PATCH: AdvanceTalents)
+4b104a7319393494ca8d449a3b38a45f // RogueSkillMasteryKnowledge (AdvanceTalents)
+31b5f3e5093c8244abb32f6c7c775de1 // RogueSkillMasteryLore (AdvanceTalents)
+84ba86c9cc1ef9e489dab1ad03e3ba17 // RogueSkillMasteryStealth (AdvanceTalents)
+fd374a48fd0f5e94a841cc3bf408c432 // SlayerCamouflage (AdvanceTalents)
+bed2f82519a10214ca023c5961e0c436 // StygianSlayerShadowyMistForm (PATCH: AdvanceTalents)
+
+### GiftedMasterSkillFocus
+
+57b78b49e52941b69df6bcf930344f3f GiftedMasterSkillFocus
+
+c9629ef9eebb88b479b2fbc5e836656a // SkillFocusSelection
+
+### GiftedMasterFinesseTrainingSelection
+
+3457f08b22f04681865f65f54644cee7 GiftedMasterFinesseTrainingSelection
+
+50c7baae70624e24089d32d090e9cdb6 // FinesseTrainingDagger
+2dd8ca4a7c061b14c95f04b7adda1cd6 // FinesseTrainingDuelingSword
+04f3b956e5a5cf649bce83774e0bfe4a // FinesseTrainingElvenCurvedBlade
+964fc3337a0bc2747a37810c4655d979 // FinesseTrainingEstoc
+80bca19f64a359146ba8e26ebf615190 // FinesseTrainingKukri
+a591ea5d2af6a9c4eac84ddeac0e204e // FinesseTrainingPunchingDagger
+c14d36ec2c807ef418ce77b8d93fa3c5 // FinesseTrainingRapier
+72724581b38799a42904f6a6db745dd6 // FinesseTrainingSai
+71fb4704ad838ad4d91ed429b8936313 // FinesseTrainingShortsword
+5dc60a449311b3544be118bf89b1f446 // FinesseTrainingSickle
+
+### GiftedMasterTeamworkFeat
+
+25f2487dfa4944bea2c3dd3548faad0b GiftedMasterTeamworkFeat
+
+9093ceeefe9b84746a5993d619d7c86f // AlliedSpellcaster
+c920f2cd2244d284aa69a146aeefcb2c // BackToBack
+992fd59da1783de49b135ad89142c6d7 // CoordinatedDefense
+b186cea78dce3a04aacff0a81786008c // CoordinatedManeuvers
+422dab7309e1ad343935f33a4d6e9f11 // Outflank
+5662d1b793db90c4b9ba68037fd2a768 // PreciseStrike
+6337b37f2a7c11b4ab0831d6780bce2a // ShakeItOff
+0b707584fc2ea724aa72c396c2230dc7 // ShieldedCaster
+8976de442862f82488a4b138a0a89907 // ShieldWall
+1191ef3065e6f8e4f9fbe1b7e3c0f760 // SiezeTheMoment
+d26eb8ab2aabd0e45a4d7eec0340bbce // TandemTrip
+
+### GiftedMasterTactics
+
+8389bebc267c4bb18d23b0cf75003c51 GiftedMasterTactics
 de2d1049-c7b2-4b15-a762-ee68ca3116ad GiftedMasterTactics > Components > ShareFeaturesWithCompanion
 
-733008e2-7d89-440d-bf6f-786d0bed62b1 Charlatan > Component > PrerequisiteAlignment
-4e10fe21-7559-4fa5-b46c-2de7aecb536f DivineMaster > Component > PrerequisiteNoFeature
-467f587e-ecff-4451-8ff1-7f08d896cf7b DivineMaster > Component > DeityDependencyClass
-83df8c6a-cc3c-4cd6-b634-2927814788db DivineMaster > Component > PrerequisiteAlignment
+9093ceeefe9b84746a5993d619d7c86f // AlliedSpellcaster
+c920f2cd2244d284aa69a146aeefcb2c // BackToBack
+992fd59da1783de49b135ad89142c6d7 // CoordinatedDefense
+b186cea78dce3a04aacff0a81786008c // CoordinatedManeuvers
+422dab7309e1ad343935f33a4d6e9f11 // Outflank
+5662d1b793db90c4b9ba68037fd2a768 // PreciseStrike
+6337b37f2a7c11b4ab0831d6780bce2a // ShakeItOff
+0b707584fc2ea724aa72c396c2230dc7 // ShieldedCaster
+8976de442862f82488a4b138a0a89907 // ShieldWall
+1191ef3065e6f8e4f9fbe1b7e3c0f760 // SiezeTheMoment
+d26eb8ab2aabd0e45a4d7eec0340bbce // TandemTrip
 
-## Guids in Patches
+### GiftedMasterSneakAttackProgression
+
+0299e3823b8742c7a963d311258b9de7 GiftedMasterSneakAttackProgression
+
+9b9eac6709e1c084cb18c3a366e0ec87 // SneakAttack (L1, L4, L7, L10, L13, L16, L19)
+72dcf1fb106d5054a81fd804fdc168d3 // MasterStrike (L20)
+
+### GiftedMasterWeaponFinesseProgression
+
+500489877a5c46b98f2c1cc3c7c15a1f GiftedMasterWeaponFinesseProgression
+
+3457f08b22f04681865f65f54644cee7 GiftedMasterFinesseTrainingSelection (L3, L7, L11)
+90e54424d682d104ab36436bd527af09 // WeaponFinesse (L1)
+
+### GiftedMasterAnimalCompanionProgression
+
+5d3d2d6379134b969f8dfef67f128ba5 GiftedMasterAnimalCompanionProgression
+
+2cbbde3dac044fffbeb32cc34a683606 GiftedMasterAnimalCompanionSelection (L1)
+8389bebc267c4bb18d23b0cf75003c51 GiftedMasterTactics (L3)
+
+### Patches
 
 f268d5ef-9938-404d-b0d6-14bc9f04c515 UncannyDodgeTalent.patch > Component > PrerequisiteClassLevel
 e2eb10d3-cf5f-405e-a230-e7cde9ddf973 ImprovedUncannyDodgeTalent.patch > Component > PrerequisiteClassLevel
 a30093eb-8035-42f1-9380-a93ed4bf069b StygianSlayerShadowyMistForm.patch.patch > Component > PrerequisiteFeature
+
+## Charlatan
+
+### CharlatanArchetype
+
+2f81dcfd95f64216899e2c701d155af0 CharlatanArchetype
+87b68c68fe7647cfab0b2517038284fd CharlatanProgression
+733008e2-7d89-440d-bf6f-786d0bed62b1 Charlatan > Component > PrerequisiteAlignment
+
+b3db3766a4b605040b366265e2af0e50 // SorcererSpellbook
+5ad7c9fb13ecb52489a89824f0e3db08 // ArcanistCantripsFeature (DET, L1)
+d3e6275cfa6e7a04b9213b7b292a011c // RayCalculateFeature (L1)
+62ef1cdb90f1d654d996556669caf7fa // TouchCalculateFeature (L1)
+ee0b69e90bac14446a4cf9a050f87f2e // DetectMagic (L1)
+
+#### Remove
+
+0299e3823b8742c7a963d311258b9de7 GiftedMasterSneakAttackProgression (DET)
+
+### CharlatanExploitSelection
+
+92bf79b865aa4b5ba271478e2d57af5f CharlatanExploitSelection
+
+c3705e3054dcba44c93a5f8b603e8631 // ArcanistExploitAcidJetFeature
+0652d31817917cb46b1c6e0710dedda5 // ArcanistExploitArcaneBarrierFeature
+585f02be2202e1f4289e04e84cd787e5 // ArcanistExploitArmoredMaskFeature
+687f9c86f8afea34097d84569b5abd07 // ArcanistExploitDimensionalSlideFeature
+a652a4f9f77e9fc4fafe15fa2ef9dcfe // ArcanistExploitEnergyShieldFeature
+421a868f5c675764b9c1e919629e5fdb // ArcanistExploitFlameArcFeature
+0142c6fa966c7da4f9d061bf07974955 // ArcanistExploitForceStrikeFeature
+3ff84c64d01075d4cbc3dc274c48a4bf // ArcanistExploitHolyWaterJetFeature
+84a2204fa1a5c4d43979dc7dd0ea5f11 // ArcanistExploitIceMissileFeature
+0536c9db9535bdf4d81748dbb14dfc26 // ArcanistExploitLightningLanceFeature
+995110cc948d5164a820403a9e903151 // ArcanistExploitPotentMagicFeature
+65397f429b0a3024e9c94a106d0eea35 // ArcanistExploitShadowVeilFeature
+43b196f6cf6726648b9af5945ebaa765 // ArcanistExploitSonicBlastFeature
+72d6f0a1d508738419b90f90ad1258fb // ArcanistExploitSpellResistanceFeature
+eaec53cbf34042f4e9f0d5451f9529d1 // ArcanistExploitSwiftConsumeFeature
+d84be1e69b0870543a959d43151f16e3 // ArcanistExploitWoodenFleshFeature
+9677876c5dbb6074780c392e68f5929c // ArcanistExploitBurningFlameFeature (ArcanistGreaterExploitsFeature)
+72eb96355ef5d0549b9965657f336e1a // ArcanistExploitDancingElectricityFeature (ArcanistGreaterExploitsFeature)
+1eba9b432ef464349befcc7f5c428849 // ArcanistExploitGreaterSpellResistanceFeature (ArcanistGreaterExploitsFeature)
+7d56376148919f64e826bfc63fd2187d // ArcanistExploitHellfireRayFeature (ArcanistGreaterExploitsFeature)
+0e7d6f931f7649f46a10820c0d7b240f // ArcanistExploitIcyTombFeature (ArcanistGreaterExploitsFeature)
+479ab6000cc3e2041a46f6ab225ccb78 // ArcanistExploitLingeringAcidFeature (ArcanistGreaterExploitsFeature)
+
+### CharlatanProgression
+
+87b68c68fe7647cfab0b2517038284fd CharlatanProgression
+92bf79b865aa4b5ba271478e2d57af5f CharlatanExploitSelection (L1, L4, L7, L10, L13, L16, L19)
+
+9d1e2212594cf47438fff2fa3477b954 // ArcaneEnforcerArcaneReservoirFeature (L1)
+c7536b93f17c70d4fa3a8cf9aa76bfb7 // ArcanistGreaterExploitsFeature (L10)
+261270d064148224fb982590b7a65414 // ArcanistMagicalSupremacy (L20)
+
+## Magistra
+
+### MagistraArchetype
+
+ba1a9ad7691f423e81fa7f3defe677f6 MagistraArchetype
+a82d549e87da4b86a2533b98eda5a212 MagistraProgression (L1)
+860a58e359a141c4a149045e15a6561c MagistraSecrecyProgression (L1)
+
+b897fe0947e4b804082b1a687c21e6e2 // AccursedWitchSpellbook (Magistra)
+c213af60aba83ed4993948dce6b947b8 // WitchCantripsFeature (DET)
+29a333b7ccad3214ea3a51943fa0d8e9 // WitchFamiliarSelection (DET)
+3a4214e3c2eab3c40bc491d7abea7045 // WitchDeceptionPatronProgression (L1)
+d3e6275cfa6e7a04b9213b7b292a011c // RayCalculateFeature (L1)
+62ef1cdb90f1d654d996556669caf7fa // TouchCalculateFeature (L1)
+ee0b69e90bac14446a4cf9a050f87f2e // DetectMagic (L1)
+
+#### Remove
+
+500489877a5c46b98f2c1cc3c7c15a1f GiftedMasterWeaponFinesseProgression (DET)
+0299e3823b8742c7a963d311258b9de7 GiftedMasterSneakAttackProgression (DET)
+5d3d2d6379134b969f8dfef67f128ba5 GiftedMasterAnimalCompanionProgression (DET)
+
+### MagistraProgression
+
+a82d549e87da4b86a2533b98eda5a212 MagistraProgression
+9846043cf51251a4897728ed6e24e76f // WitchHexSelection (L1, L4, L7, L10, L13, L16, L19)
+8ac781b33e380c84aa578f1b006dd6c5 // WitchMajorHex (L7)
+d24c2467804ce0e4497d9978bafec1f9 // WitchGrandHex (L13)
+
+### MagistraProgression
+
+860a58e359a141c4a149045e15a6561c MagistraSecrecyProgression
+
+8c189560d7f94dd688f0dc29f6963610 // WitchOfTheVeilSecrecyFeature (UIG 8, L1)
+855a1e132cfa444eb8eed4c784ee8ec9 // WitchOfTheVeilShroudedStepFeature (UIG 8, L2, L8, L16)
+3ff892a2eaa1462796ddc776bb49648d // WitchOfTheVeilShroudedStep16 (L16)
+
+
+### Patches
 
 ff991d6b-2c8f-483d-8b77-23a8680064e4 WitchPatronSpellLevel1.patch > Component > AddKnownSpell
 1591bab3-7eb4-4054-9e98-af398712a82e WitchPatronSpellLevel2.patch > Component > AddKnownSpell
@@ -102,6 +343,58 @@ b318d24b-3ea2-46b9-bd84-a987bb18d8c6 WitchHexSlumberAbility.patch > Component > 
 30eabec6-8a48-43a1-82b6-e107cd57cdfc WitchHexVulnerabilityCurseAbility.patch > Component > ContextRankConfig
 5e7dd4d1-633d-4bf1-8699-1106acc5d78e WitchHexWardBuff.patch > Component > ContextRankConfig
 
+## Fallen Master
+
+### DivineMasterArchetype
+
+3929ef95af69497eaf11615b16bd1882 DivineMasterArchetype
+d2ac67d28ba94461b615f4e4b42abe39 DivineMasterProgression (L1)
+3df9280dbe3345e0b8449087f0c4fa08 GiftedMasterBladeProficiencies (L1)
+83df8c6a-cc3c-4cd6-b634-2927814788db DivineMaster > Component > PrerequisiteAlignment
+4e10fe21-7559-4fa5-b46c-2de7aecb536f DivineMaster > Component > PrerequisiteNoFeature
+467f587e-ecff-4451-8ff1-7f08d896cf7b DivineMaster > Component > DeityDependencyClass
+
+57fab75111f377248810ece84193a5a5 // InquisitorSpellbook
+4f898e6a004b2a84686c1fbd0ffe950e // InquisitorOrisonsFeature (DET)
+e59db96fa83cefd4a9a8f211500d9522 // InquisitorProficiencies (DET)
+d3e6275cfa6e7a04b9213b7b292a011c // RayCalculateFeature (L1)
+62ef1cdb90f1d654d996556669caf7fa // TouchCalculateFeature (L1)
+ee0b69e90bac14446a4cf9a050f87f2e // DetectMagic (L1)
+48525e5da45c9c243a343fc6545dbdb9 // DomainsSelection (L1)
+43281c3d7fe18cc4d91928395837cd1e // SecondDomainsSelection (L1)
+
+#### Starting Items
+
+d7963e1fcf260c148877afd3252dbc91 // ScalemailStandard (Schuppenpanzer)
+83ca7c2bf68e56d478443cdb667dd077 // ColdIronMasterworkEstoc
+e55e8179b23f16e40999320d6e7d1664 // ColdIronMasterworkDagger
+d52566ae8cbe8dc4dae977ef51c27d91 // PotionOfCureLightWounds
+
+#### Remove
+
+61294830a8c342de98275cdd7a5e0c35 GiftedMasterProficiencies (DET)
+500489877a5c46b98f2c1cc3c7c15a1f GiftedMasterWeaponFinesseProgression (DET)
+0299e3823b8742c7a963d311258b9de7 GiftedMasterSneakAttackProgression (DET)
+
+## DivineMasterProgression
+
+d2ac67d28ba94461b615f4e4b42abe39 DivineMasterProgression (L1)
+
+a6d917fd5c9bee0449bd01c92e3b0308 // SternGaze (L1)
+6be8b4031d8b9fc4f879b72b5428f1e0 // CunningInitiative (L2)
+5602845cd22683840a6f28ec46331051 // SoloTactics (L3)
+7ddf7fbeecbe78342b83171d888028cf // InquisitorBaneNormalFeatureAdd (L5)
+ec9dbc9a5fa26e446a54fe5df6779088 // Stalwart (L11)
+6e694114b2f9e0e40a6da5d13736ff33 // InquisitorBaneGreaterFeature (L12)
+
+981def910b98200499c0c8f85a78bde8 // JudgementFeature (L1)
+ee50875819478774b8968701893b52f5 // JudgmentAdditionalUse (L4, L7, L10, L13, L16, L19)
+33bf0404b70d65f42acac989ec5295b2 // SecondJudgment (L8)
+374a73288a36e2d4f9e54c75d2e6e573 // ExploitWeakness (L14)
+490c7e92b22cc8a4bb4885a027b355db // ThirdJudgment (L17)
+f069b6557a2013544ac3636219186632 // TrueJudgmentFeature (L20)
+
+### Patches
 
 a3b6a6b2-89e7-4ac3-85d0-14df8f59f510 AirDomainBaseAbility.patch > Component > ContextRankConfig
 f0498861-696e-4602-a2d6-6699dc4ed63a AnimalDomainBaseFeature.patch > Component > ContextRankConfig
@@ -242,109 +535,151 @@ d885b36e-136a-4307-bd04-4cbc38160209 StrengthDomainProgressionSecondary.patch > 
 8d5c6ef9-6957-44cf-bf1a-3a2d48c82e07 WaterDomainProgressionSecondary.patch > Component > LearnSpellList
 f2aafdfb-27c3-4ea0-aa7e-1321909c3f63 WeatherDomainProgressionSecondary.patch > Component > LearnSpellList
 
+## Archery Master
+
+### ArcheryMasterArchetype
+
+295ce782c8e04baf8bd49fa674913536 ArcheryMasterArchetype
+8ffd46c8f4924df18525db3194dae20b ArcheryMasterProficiencies (DET)
+aa21d0f95cb34f2ca049b82384f7b76f ArcheryMasterProgression
+79f4ba9141d84dea9992653a2bf6cc8c ArcheryMasterAnimalProgression
+7bad3864-2004-4d40-8b0e-c2f2e831a0ed ArcheryMasterProficiencies > Component > AddProficiencies
+a899dd77-f142-4ce3-9097-0f836499cbae ArcheryMasterProficiencies > Component > AddFacts
+
+#### Starting Items
+
+afbe88d27a0eb544583e00fa78ffb2c7 // StuddedStandard (Studded Leather Armor)
+4de4658c0e9b0d146b9a08ed6f030f8a // MasterworkCompositeLongbow
+e55e8179b23f16e40999320d6e7d1664 // ColdIronMasterworkDagger
+d52566ae8cbe8dc4dae977ef51c27d91 // PotionOfCureLightWounds
+
+#### Remove
+
+61294830a8c342de98275cdd7a5e0c35 GiftedMasterProficiencies (DET)
+500489877a5c46b98f2c1cc3c7c15a1f GiftedMasterWeaponFinesseProgression (DET)
+0299e3823b8742c7a963d311258b9de7 GiftedMasterSneakAttackProgression (DET)
+
+### ArcheryMasterProficiencies
+
+6d3728d4e9c9898458fe5e9532951132 // LightArmorProficiency
+e70ecf1ed95ca2f40b754f1adb22bbdd // SimpleWeaponProficiency
+
+Rapier, Shortsword, Longsword, Estoc, Shortbow, Longbow
+
+### ArcheryMasterProgression
+
+aa21d0f95cb34f2ca049b82384f7b76f ArcheryMasterProgression
+
+69255e0ec330ee94b9593dfabf8f7c09 // ZenArcherBonusFeatSelectionLevel1 (UIG 9, L1, L3)
+53420038fdc76944695bf927f7bcd51c // ZenArcherWayOfTheBowSelection (UIG 9, L2)
+50e6aa55653bc014aafe556aad79e5c0 // ZenArcherPointBlankMasterSelection (UIG 9, L4)
+2a1eec5b782182f4cafbd20fcd069692 // ZenArcherBonusFeatSelectionLevel6 (UIG 9, L7)
+7115a6c08bd101247b70d72a4ff99453 // SnapShot (UIG 9, L9)
+15e623d9dba4e314aa0649e4f61e132b // ZenArcherBonusFeatSelectionLevel10 (UIG 9, L11, L15, L19)
+
+### ArcheryMasterAnimalProgression
+
+79f4ba9141d84dea9992653a2bf6cc8c ArcheryMasterAnimalProgression
+
+443365823b7d6d14b8d12f4e7bce1077 // HunterAnimalFocusFeature (L1)
+d4300e18cb39a0845934a36ea8366c5f // PlannedDistractionFeature (L3)
+95973c6705753eb43a50d00c0e501bbc // AnimalInsight (L5)
+2eab2580ece085241b093270b2b789b7 // SelfRelianceFeature (L7)
+5f2bed4914be7bc409123ae821cfdb6d // EmergencySwapFeature (L9)
+27ad1316abbbbb34b8ffb9a87f38c10e // HunterRaiseCompanion (L11)
+cbc90fcdb60809744989d386a98cd21c // HunterExtraAnimalFocus (L13)
+4f1f15ca28cb2fb4dbaec9a793ff6c2d // ImminentAttackFeature (L15)
+c1e0f4ada7c673e4f8e5c57d1eea13d0 // HunterOneWithTheWildFeature (L17)
+d8a126a3ed3b62943a597c937a4bf840 // MasterHunter (L20)
+
+## Blade Master
+
+### BladeMasterArchetype
+
+de6b8e64b2c143ab843d921a24db705d BladeMasterArchetype
+f4ed075611c940148b36b34121b73c0d BladeMasterProficiencies (DET)
+49cb14edd60b454fa924dd94de74e762 BladeMasterProgression
+d604f053b1f04abd905b8a5b389d55ae BladeMasterFighterProgression
+
+#### Remove
+
+0299e3823b8742c7a963d311258b9de7 GiftedMasterSneakAttackProgression (DET)
+5d3d2d6379134b969f8dfef67f128ba5 GiftedMasterAnimalCompanionProgression (DET)
+
+### BladeMasterProficiencies
+
+f4ed075611c940148b36b34121b73c0d BladeMasterProficiencies
+2f5798d1-9ecc-4ca6-8f0c-00fa5bebce1f BladeMasterProficiencies > Component > AddFact
+556848da-3b7d-4c2a-95a5-679aaefa7e12 BladeMasterProficiencies > Component > AddProficiencies
+
+e70ecf1ed95ca2f40b754f1adb22bbdd // SimpleWeaponProficiency
+203992ef5b35c864390b4e4a1e200629 // MartialWeaponProficiency
+6d3728d4e9c9898458fe5e9532951132 // LightArmorProficiency
+46f4fb320f35704488ba3d513397789d // MediumArmorProficiency
+ac8aaf29054f5b74eb18f2af950e752d // Two Weapon Fighting
+
+Rapier, Kukri, Greatsword, BastardSword, Shortsword, Longsword, Scimitar, Falchion, DuelingSword, Estoc, Sai
+
+### BladeMasterProgression
+
+49cb14edd60b454fa924dd94de74e762 BladeMasterProgression (L1)
+
+b8cecf4e5e464ad41b79d5b42b76b399 // WeaponTrainingSelection (L1)
+c7ea46f5e1822994ba069c11819844ae // SwordlordDisarmingStrike (L4)
+b4202533d1748f84484658491d2ff766 // SwordlordSteelNetFeature (L7)
+ff125ecc8b2c1894b879b7bcf34e1b17 // SwordlordCounterattack (L10)
+eee7abd42ef7bac4ea117b2f41f85ec3 // SavingSlash (L13)
+e01152417a8ac2248b4f69711b819441 // AdaptiveTactics  (L16)
+732ad7ec6b1cd1f4885370924d492e87 // SavingSlashGreater (L19)
+55f516d7d1fc5294aba352a5a1c92786 // WeaponMasterySelection (L20)
+
+### BladeMasterFighterProgression
+
+d604f053b1f04abd905b8a5b389d55ae BladeMasterFighterProgression (L1)
+
+41c8486641f7d6d4283ca9dae4147a9f // FighterFeatSelection (L1, L2, L4, L6, L8, L10, L12, L14, L16, L18, L20)
+
+
+## Other
+############################################################################
+
+61cf9dd7a08f4927875d7bcd00d97c28 KineticDuelistArchetype
+
 ## Guids from blueprints
 
 4c936de4249b61e419a3fb775b9f2581 // Average BaseAttackBonus
 dc0c7c1aba755c54f96c089cdf7d14a3 // Low Save
 ff4662bde9e75f145853417313842751 // High Save
 
-d7963e1fcf260c148877afd3252dbc91 // ScalemailStandard (Schuppenpanzer)
-afbe88d27a0eb544583e00fa78ffb2c7 // StuddedStandard (Studded Leather Armor)
 08c7987d7320d1645a4a1f005ab2dfcb // ColdIronShortsword
 8a4c5904f60d2d44e8ba026a74bd3e7c // StandardColdIronLongsword
 4c863a47d69b63647b3b16bbb01d5ba8 // Estoc
-83ca7c2bf68e56d478443cdb667dd077 // ColdIronMasterworkEstoc
 638db1905268b3845825ffa194b7415f // ColdIronEstoc
 f7830407a11c35a4a8fb0f7c1c95eac4 // MasterworkEstoc
 b103b6468f2eff042903377b6ed940b2 // ColdIronDagger
-e55e8179b23f16e40999320d6e7d1664 // ColdIronMasterworkDagger
 dfc92affae244554e8745a9ee9b7c520 // MasterworkDagger
 3d168a6320ac93849b7b31c0c41f65c0 // ColdIronPunchingDagger
 12f1641de657b4647bad6193f4b79e54 // ColdIronMasterworkPunchingDagger
 4eadc3edae4500a4c972b61cad66add8 // MasterworkPunchingDagger
 ec731c55e657cf0408fd89c648ccc536 // Cold Iron Rapier
-d52566ae8cbe8dc4dae977ef51c27d91 // PotionOfCureLightWounds
 511c97c1ea111444aa186b1a58496664 // StandardLightCrossbow
 
-8a229ebb7b294cbb9bd984e0d1342423 // Inquisitor's Hat (Equipment)
 
-5470be096a195b0408115392fc742b41 // Arcanist & Wizard (Male) (Equipment)
-04244d527b8a1f14db79374bc802aaaa // Arcanist & Wizard (Male) (Equipment)
-1e4797f3425461946a0ae2986d16c85d // Arcanist & Wizard (Female) (Equipment)
-64abd9c4d6565de419f394f71a2d496f // Arcanist & Wizard (Female) (Equipment)
-
-      "!bp_68a23a419b330de45b4c3789649b5b41", // CannyObserver
-      "!bp_97a6aa2b64dd21a4fac67658a91067d7", // FastStealth
-      "!bp_6087e0c9801b5eb48bf48d6e75116aad", // IronGuts
-      "!bp_9f2d35be63f68614b89c901db84dd750", // JumpUp
-      "!bp_a14e8c1801911334f96d410f10eab7bf", // SlipperyMind
-      "!bp_4cd06a915daa74f4094952f2b3314b3b", // TerrainMastery
-      "!bp_5a5ad5a6ca394bf46a70a68902cf3fd7", // Trailblazer
-      "!bp_ca5274d057152fa45b7527cad0927840", // UncannyDodgeTalent
-
-      "!bp_0d35d6c4d5eef8d4790d09bd9a874e57", // ImprovedEvasion
-      "!bp_e821c61b2711cea4cb993725b910e7e8", // ImprovedUncannyDodgeTalent
-      "!bp_4b104a7319393494ca8d449a3b38a45f", // RogueSkillMasteryKnowledge
-      "!bp_31b5f3e5093c8244abb32f6c7c775de1", // RogueSkillMasteryLore
-      "!bp_84ba86c9cc1ef9e489dab1ad03e3ba17", // RogueSkillMasteryStealth
-      "!bp_fd374a48fd0f5e94a841cc3bf408c432", // SlayerCamouflage
-
-
-b897fe0947e4b804082b1a687c21e6e2 // AccursedWitchSpellbook (Magistra)
-a33b99f95322d6741af83e9381b2391c // AdvanceTalents
-f894e003d31461f48a02f5caec4e3359 // AnimalCompanionFeatureDog
-95973c6705753eb43a50d00c0e501bbc // AnimalInsight
-9d1e2212594cf47438fff2fa3477b954 // ArcaneEnforcerArcaneReservoirFeature (Charlatan)
-5ad7c9fb13ecb52489a89824f0e3db08 // ArcanistCantripsFeature (Charlatan)
-c7536b93f17c70d4fa3a8cf9aa76bfb7 // ArcanistGreaterExploitsFeature (Charlatan)
-261270d064148224fb982590b7a65414 // ArcanistMagicalSupremacy (Charlatan)
 92c0d2da0a836ce418a267093c09ca54 // AtheismFeature
 65cff8410a336654486c98fd3bacd8c5 // BardicKnowledge
 fa3d3b2211a51994785d85e753f612d3 // BardProficiencies
-6be8b4031d8b9fc4f879b72b5428f1e0 // CunningInitiative
-ee0b69e90bac14446a4cf9a050f87f2e // DetectMagic
-48525e5da45c9c243a343fc6545dbdb9 // DomainsSelection
-576933720c440aa4d8d42b0c54b77e80 // Evasion
 b78d146cea711a84598f0acef69462ea // FinesseTrainingSelection
 485a18c05792521459c7d06c63128c79 // ImprovedUncannyDodge
-6e694114b2f9e0e40a6da5d13736ff33 // InquisitorBaneGreaterFeature (DivineMaster)
-7ddf7fbeecbe78342b83171d888028cf // InquisitorBaneNormalFeatureAdd (DivineMaster)
-4f898e6a004b2a84686c1fbd0ffe950e // InquisitorOrisonsFeature (DivineMasterArchetype)
-e59db96fa83cefd4a9a8f211500d9522 // InquisitorProficiencies (DivineMasterArchetype)
-57fab75111f377248810ece84193a5a5 // InquisitorSpellbook (DivineMasterArchetype)
-6d3728d4e9c9898458fe5e9532951132 // LightArmorProficiency
 f2d2c1702d8a4cc6adfcbd4ebff8eee4 // MasterOfAllSkillFocus
 a26c0279a423fc94cabeea898f4d9f8a // MasterSlayerFeature (DivineMaster)
-72dcf1fb106d5054a81fd804fdc168d3 // MasterStrike (DivineMaster)
-d3e6275cfa6e7a04b9213b7b292a011c // RayCalculateFeature (Charlatan, Magistra)
 c074a5d615200494b8f2a9c845799d93 // RogueTalentSelection
 e1f437048db80164792155102375b62c // SacredHuntsmasterTactics
 6d9d3fbc30564e64d966dba27cd6357a // SanctifiedSlayerStudyTargetFeature (DivineMaster)
-e70ecf1ed95ca2f40b754f1adb22bbdd // SimpleWeaponProficiency
-9b9eac6709e1c084cb18c3a366e0ec87 // SneakAttack (DivineMaster)
-09bdd9445ac38044389476689ae8d5a1 // SlayerStudyTargetFeature
-40d4f55a5ac0e4f469d67d36c0dfc40b // SlayerSwiftStudyTargetFeature
-5602845cd22683840a6f28ec46331051 // SoloTactics
-b3db3766a4b605040b366265e2af0e50 // SorcererSpellbook (Charlatan)
-ec9dbc9a5fa26e446a54fe5df6779088 // Stalwart
-a6d917fd5c9bee0449bd01c92e3b0308 // SternGaze
 c38720e9140d5b34f8f22b25c23168a9 // StygianSlayerInvisibilityFeature (DivineMaster)
 bed2f82519a10214ca023c5961e0c436 // StygianSlayerShadowyMistForm (DivineMaster)
 d87e2f6a9278ac04caeb0f93eff95fcb // TeamworkFeat
-62ef1cdb90f1d654d996556669caf7fa // TouchCalculateFeature (Charlatan)
-dbb6b3bffe6db3547b31c3711653838e // Trapfinding
-ac8aaf29054f5b74eb18f2af950e752d // Two Weapon Fighting
 3c08d842e802c3e4eb19d15496145709 // UncannyDodge
-90e54424d682d104ab36436bd527af09 // WeaponFinesse
-c213af60aba83ed4993948dce6b947b8 // WitchCantripsFeature (Magistra)
-29a333b7ccad3214ea3a51943fa0d8e9 // WitchFamiliarSelection (Magistra)
-d24c2467804ce0e4497d9978bafec1f9 // WitchGrandHex (Magistra)
 38d01811fcb32444a8fe372c029fa0c6 // WitchBetterHexProgression (Magistra)
-9846043cf51251a4897728ed6e24e76f // WitchHexSelection (Magistra)
-8ac781b33e380c84aa578f1b006dd6c5 // WitchMajorHex (Magistra)
-8c189560d7f94dd688f0dc29f6963610 // WitchOfTheVeilSecrecyFeature (Magistra)
-855a1e132cfa444eb8eed4c784ee8ec9 // WitchOfTheVeilShroudedStepFeature (Magistra)
-3ff892a2eaa1462796ddc776bb49648d // WitchOfTheVeilShroudedStep16 (Magistra)
 
 9678d121f669f864d9da5dabf1ca1ce0 // AirDomainSpellList
 d0ccda70fddc0e346a227068502771c1 // AnimalDomainSpellList
@@ -384,7 +719,6 @@ eba577470b8ee8443bb4552433451990 // WeatherDomainSpellList
 
 5d8c4161d21f63e4a99b47d1e99e654e // ChaosDomainGreaterAbility
 
-3a4214e3c2eab3c40bc491d7abea7045 // WitchDeceptionPatronProgression (Magistra)
 
 750bfcd133cd52f42acbd4f7bc9cc365 // AirDomainProgression
 23d2f87aa54c89f418e68e790dba11e0 // AnimalDomainProgression
@@ -522,3 +856,8 @@ GatherPowerAbilitiesFeature	71f526b1d4b50b94582b0b9cbe12b0e0
       "!bp_61f82ba786fe05643beb3cd3910233a8", // RangerStyleSelection6
       "!bp_8f800ed6ce8c42e8a01fd8f3e990c459", // UncannyDodgeChecker
       "!bp_78177315fc63b474ea3cbb8df38fafcd", // RangerStyleSelection10
+
+### MagistraBetterHexProgression
+
+172ad6eaa0604cff935d3094f138b47e MagistraBetterHexProgression
+

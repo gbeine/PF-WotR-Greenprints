@@ -17,12 +17,16 @@ MonoBehaviour:
     Filename: BlueprintRoot.patch
   - Guid: a33b99f95322d6741af83e9381b2391c
     Filename: Features/AdvanceTalents.patch
+  - Guid: 446fe89490cab7d44957efebeb8cc2b1
+    Filename: Features/HunterAnimalCompanionProgression.patch
   - Guid: ca5274d057152fa45b7527cad0927840
     Filename: Features/UncannyDodgeTalent.patch
   - Guid: e821c61b2711cea4cb993725b910e7e8
     Filename: Features/ImprovedUncannyDodgeTalent.patch
   - Guid: bed2f82519a10214ca023c5961e0c436
     Filename: Features/StygianSlayerShadowyMistForm.patch
+  - Guid: ce396210432d02343ba4f3b44bc02464
+    Filename: Features/StygianSlayerShadowyMistFormResource.patch
   - Guid: 3a4214e3c2eab3c40bc491d7abea7045
     Filename: Archetypes/Magistra/WitchPatrons/PatronDeception/WitchDeceptionPatronProgression.patch
   - Guid: ad7f803d19c18fc4f9c5ee65fc12a237

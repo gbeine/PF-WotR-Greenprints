@@ -49,55 +49,11 @@
       {
         "Level": 1,
         "m_Features": [
-          "!bp_92bf79b865aa4b5ba271478e2d57af5f",
-          "!bp_9d1e2212594cf47438fff2fa3477b954",
           "!bp_5ad7c9fb13ecb52489a89824f0e3db08",
+          "!bp_87b68c68fe7647cfab0b2517038284fd",
           "!bp_d3e6275cfa6e7a04b9213b7b292a011c",
           "!bp_62ef1cdb90f1d654d996556669caf7fa",
           "!bp_ee0b69e90bac14446a4cf9a050f87f2e"
-        ]
-      },
-      {
-        "Level": 4,
-        "m_Features": [
-          "!bp_92bf79b865aa4b5ba271478e2d57af5f"
-        ]
-      },
-      {
-        "Level": 7,
-        "m_Features": [
-          "!bp_92bf79b865aa4b5ba271478e2d57af5f"
-        ]
-      },
-      {
-        "Level": 10,
-        "m_Features": [
-          "!bp_c7536b93f17c70d4fa3a8cf9aa76bfb7",
-          "!bp_92bf79b865aa4b5ba271478e2d57af5f"
-        ]
-      },
-      {
-        "Level": 13,
-        "m_Features": [
-          "!bp_92bf79b865aa4b5ba271478e2d57af5f"
-        ]
-      },
-      {
-        "Level": 16,
-        "m_Features": [
-          "!bp_92bf79b865aa4b5ba271478e2d57af5f"
-        ]
-      },
-      {
-        "Level": 19,
-        "m_Features": [
-          "!bp_92bf79b865aa4b5ba271478e2d57af5f"
-        ]
-      },
-      {
-        "Level": 20,
-        "m_Features": [
-          "!bp_261270d064148224fb982590b7a65414"
         ]
       }
     ],
@@ -105,49 +61,7 @@
       {
         "Level": 1,
         "m_Features": [
-          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
-        ]
-      },
-      {
-        "Level": 4,
-        "m_Features": [
-          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
-        ]
-      },
-      {
-        "Level": 7,
-        "m_Features": [
-          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
-        ]
-      },
-      {
-        "Level": 10,
-        "m_Features": [
-          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
-        ]
-      },
-      {
-        "Level": 13,
-        "m_Features": [
-          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
-        ]
-      },
-      {
-        "Level": 16,
-        "m_Features": [
-          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
-        ]
-      },
-      {
-        "Level": 19,
-        "m_Features": [
-          "!bp_9b9eac6709e1c084cb18c3a366e0ec87"
-        ]
-      },
-      {
-        "Level": 20,
-        "m_Features": [
-          "!bp_72dcf1fb106d5054a81fd804fdc168d3"
+          "!bp_0299e3823b8742c7a963d311258b9de7"
         ]
       }
     ],

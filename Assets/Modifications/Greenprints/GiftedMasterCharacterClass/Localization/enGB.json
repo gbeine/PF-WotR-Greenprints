@@ -64,7 +64,6 @@
             "Key": "GiftedMasterTactics_Description",
             "Value": "At 3rd level, the gifted master automatically grants her teamwork {g|Encyclopedia:Feat}feats{/g} to her animal companion. The companion doesn't need to meet the prerequisites of these teamwork feats."
         },
-
         {
             "Key": "GiftedMasterTalents_Name",
             "Value": "Gifted masters' talents"
@@ -81,6 +80,18 @@
             "Key": "GiftedMasterBladeTalents_Description",
             "Value": "Gifted masters are excellent with bladed weapons and are proficient in two-handed combat. They are familiar with almost all bladed weapons and usually wield a rapier and an estoc as second weapon."
         },
+        {
+            "Key": "GiftedMasterAnimalCompanionProgression_Name",
+            "Value": "Animal Companion"
+        },
+        {
+            "Key": "GiftedMasterSneakAttackProgression_Name",
+            "Value": "Sneak Attack"
+        },
+        {
+            "Key": "GiftedMasterWeaponFinesseProgression_Name",
+            "Value": "Weapon Finesse"
+        },
 
 
         {
@@ -91,6 +102,11 @@
             "Key": "DivineMasterArchetype_Description",
             "Value": "Fallen masters are inquisitors or clerics whose faith has been disappointed. They search for orientation in the world and not infrequently go astray. Due to their evil disposition, they take advantage of their domain bond so that they can obtain spells from two domains."
         },
+        {
+            "Key": "DivineMasterProgression_Name",
+            "Value": "Fallen Master Feats"
+        },
+
 
         {
             "Key": "CharlatanArchetype_Name",
@@ -108,6 +124,11 @@
             "Key": "CharlatanExploitSelection_Description",
             "Value": "By bending and sometimes even breaking the rules of magic, the charlatan learns to exploit gaps and exceptions in the laws of magic. Some of these exploits allow her to break down various forms of magic, adding their essence to her arcane reservoir. At 1st level and every 3 levels thereafter, the charlatan learns a new arcane exploit. A charlatan exploit cannot be selected more than once. Once a charlatan exploit has been selected, it cannot be changed. Most charlatan exploits require the charlatan to expend points from her arcane reservoir to function. Unless otherwise noted, the {g|Encyclopedia:Saving_Throw}saving throw{/g} {g|Encyclopedia:DC}DC{/g} for an charlatan exploit is equal to 10 + half the charlatan's level + the charlatan's {g|Encyclopedia:Charisma}Charisma{/g} modifier."
         },
+        {
+            "Key": "CharlatanProgression_Name",
+            "Value": "Charlatan Feats"
+        },
+
 
         {
             "Key": "MagistraArchetype_Name",
@@ -115,7 +136,65 @@
         },
         {
             "Key": "MagistraArchetype_Description",
-            "Value": "Eine Magistra ist eine begabte Hexe, die zumeist in edlen Kreisen ausgewwachsen ist. Da Hexenmagie dort in aller Regel nicht gerne gesehen ist, musste sie sich auf Täuschung, List und Illusionen verschreiben, um durch's Leben zu kommen."
+            "Value": "A magistra is a gifted witch, who is mostly grown in noble circles. Since witchcraft is usually not welcome there, she had to devote herself to deception, cunning and illusions to get through life."
+        },
+        {
+            "Key": "MagistraProgression_Name",
+            "Value": "Magistra Feats"
+        },
+        {
+            "Key": "MagistraSecrecyProgression_Name",
+            "Value": "Magistra of the Veil Feats"
+        },
+
+
+        {
+            "Key": "ArcheryMasterArchetype_Name",
+            "Value": "Archery Master"
+        },
+        {
+            "Key": "ArcheryMasterArchetype_Description",
+            "Value": "Archery Master"
+        },        {
+            "Key": "ArcheryMasterProficiencies_Name",
+            "Value": "Archery Master Proficiencies"
+        },
+        {
+            "Key": "ArcheryMasterProficiencies_Description",
+            "Value": "Archery Masters know how to use all {g|Encyclopedia:Weapon_Proficiency}simple weapons{/g} as well as estoc, rapier, shortbow, and longbow. They are proficient with light armor, but not shields."
+        },
+        {
+            "Key": "ArcheryMasterProgression_Name",
+            "Value": "Archery Master Feats"
+        },
+        {
+            "Key": "ArcheryMasterAnimalProgression_Name",
+            "Value": "Animal Companion Feats"
+        },
+
+
+        {
+            "Key": "BladeMasterArchetype_Name",
+            "Value": "Blade Master"
+        },
+        {
+            "Key": "BladeMasterArchetype_Description",
+            "Value": "Blade Master"
+        },        {
+            "Key": "BladeMasterProficiencies_Name",
+            "Value": "Blade Master Proficiencies"
+        },
+        {
+            "Key": "BladeMasterProficiencies_Description",
+            "Value": "Blade masters are proficient with all {g|Encyclopedia:Weapon_Proficiency}simple weapons{/g}, plus almost all bladed weapons. They are proficient with light and medium armor, but not with shields."
+        },
+        {
+            "Key": "BladeMasterProgression_Name",
+            "Value": "Blade Master Feats"
+        },
+        {
+            "Key": "BladeMasterFighterProgression_Name",
+            "Value": "Blade Master Combat Feats"
         }
     ]
 }

@@ -1,22 +1,24 @@
 {
-  "AssetId": "3df9280dbe3345e0b8449087f0c4fa08",
+  "AssetId": "f4ed075611c940148b36b34121b73c0d",
   "Data": {
     "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
     "PrototypeLink": null,
     "m_Overrides": [
-      "$AddProficiencies$6c88eddc-9cce-4612-a6ad-93bdd444a70c",
-      "$AddFacts$6954f5cf-7851-4517-a05c-6edf2a94199c"
+      "$AddProficiencies$556848da-3b7d-4c2a-95a5-679aaefa7e12",
+      "$AddFacts$2f5798d1-9ecc-4ca6-8f0c-00fa5bebce1f"
     ],
     "Components": [
       {
         "$type": "5fa95b92f4e484742ad84c926183372c, AddProficiencies",
-        "name": "$AddProficiencies$6c88eddc-9cce-4612-a6ad-93bdd444a70c",
+        "name": "$AddProficiencies$556848da-3b7d-4c2a-95a5-679aaefa7e12",
         "m_Overrides": [],
         "m_RaceRestriction": null,
         "ArmorProficiencies": [],
         "WeaponProficiencies": [
           "Rapier",
           "Kukri",
+          "Greatsword",
+          "BastardSword",
           "Shortsword",
           "Longsword",
           "Scimitar",
@@ -28,9 +30,13 @@
       },
       {
         "$type": "d79ad4ed064aa4f43ace0e9c238fb9b9, AddFacts",
-        "name": "$AddFacts$6954f5cf-7851-4517-a05c-6edf2a94199c",
+        "name": "$AddFacts$2f5798d1-9ecc-4ca6-8f0c-00fa5bebce1f",
         "m_Overrides": [],
         "m_Facts": [
+          "!bp_6d3728d4e9c9898458fe5e9532951132",
+          "!bp_46f4fb320f35704488ba3d513397789d",
+          "!bp_e70ecf1ed95ca2f40b754f1adb22bbdd",
+          "!bp_203992ef5b35c864390b4e4a1e200629",
           "!bp_ac8aaf29054f5b74eb18f2af950e752d"
         ],
         "Dummy": null,
@@ -44,15 +50,15 @@
     "Comment": "",
     "m_AllowNonContextActions": false,
     "m_DisplayName": {
-      "m_Key": "GiftedMasterBladeProficiencies_Name",
-      "m_OwnerString": "3df9280dbe3345e0b8449087f0c4fa08",
+      "m_Key": "BladeMasterProficiencies_Name",
+      "m_OwnerString": "f4ed075611c940148b36b34121b73c0d",
       "m_OwnerPropertyPath": "m_DisplayName",
       "m_JsonPath": "",
       "Shared": null
     },
     "m_Description": {
-      "m_Key": "GiftedMasterBladeProficiencies_Description",
-      "m_OwnerString": "3df9280dbe3345e0b8449087f0c4fa08",
+      "m_Key": "BladeMasterProficiencies_Description",
+      "m_OwnerString": "f4ed075611c940148b36b34121b73c0d",
       "m_OwnerPropertyPath": "m_Description",
       "m_JsonPath": "",
       "Shared": null
@@ -65,7 +71,7 @@
       "Shared": null
     },
     "m_Icon": {
-      "guid": "f0d44c2c81c53ef448bfc17cc071f60d",
+      "guid": "3714ca959287da54cbf82164d3a8805b",
       "fileid": 21300000
     },
     "HideInUI": false,

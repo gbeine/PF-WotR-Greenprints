@@ -1,0 +1,11 @@
+{
+  "_#ArrayMergeSettings": "Union",
+  "m_MaxAmount": {
+    "m_Class": [
+      "!bp_9e1943315e9f4c649cd2fa86e202972c"
+    ],
+    "m_Archetypes": [
+      "!bp_de6b8e64b2c143ab843d921a24db705d"
+    ]
+  }
+}

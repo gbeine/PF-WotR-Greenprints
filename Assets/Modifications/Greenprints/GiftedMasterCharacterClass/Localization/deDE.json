@@ -64,7 +64,6 @@
             "Key": "GiftedMasterTactics_Description",
             "Value": "Auf Stufe 3 gewährt ein Begabter Meister seinem Tiergefährten automatisch seine {g|Encyclopedia:Feat}Gemeinschaftstalente{/g}. Der Gefährte muss die Voraussetzungen für diese Gemeinschaftstalente nicht erfüllen."
         },
-
         {
             "Key": "GiftedMasterTalents_Name",
             "Value": "Talente der Begabten Meister"
@@ -73,7 +72,6 @@
             "Key": "GiftedMasterTalents_Description",
             "Value": "Im Laufe der Zeit kann ein Begabter Meister einzigartige zusätzliche zu seinen regulären {g|Encyclopedia:Feat}Talenten{/g} noch {g|Encyclopedia:Special_Abilities}besondere Fähigkeiten{/g} einsetzen, die ihn im Kampf stärken und außerhalb des Kampfes nützlicher machen."
         },
-
         {
             "Key": "GiftedMasterBladeTalents_Name",
             "Value": "Klingenmeisterschaft"
@@ -82,6 +80,19 @@
             "Key": "GiftedMasterBladeTalents_Description",
             "Value": "Begabte Meister können hervorragend mit Klingenwaffen umgehen und beherrschen den beidhändigen Kampf. Sie sind mit fast allen Klingenwaffen vertraut und führen zumeist ein Rapier und ein Estoc als zweite Waffe."
         },
+        {
+            "Key": "GiftedMasterAnimalCompanionProgression_Name",
+            "Value": "Tiergefährte"
+        },
+        {
+            "Key": "GiftedMasterSneakAttackProgression_Name",
+            "Value": "Hinterhältiger Angriff"
+        },
+        {
+            "Key": "GiftedMasterWeaponFinesseProgression_Name",
+            "Value": "Waffenfinesse"
+        },
+
 
         {
             "Key": "DivineMasterArchetype_Name",
@@ -90,6 +101,10 @@
         {
             "Key": "DivineMasterArchetype_Description",
             "Value": "Gefallene Meister sind Inquisitoren oder Kleriker, deren Glaube enttäuscht wurde. Sie suchen nach Orientierung in der Welt und gelangen dabei nicht selten auf Abwege. Durch ihre böse Gesinnung nutzen sie ihre Domänenbindung aus, so dass sie aus zwei Domänen Zauber erhalten können."
+        },
+        {
+            "Key": "DivineMasterProgression_Name",
+            "Value": "Gefallene-Meister-Talente"
         },
 
         {
@@ -108,6 +123,10 @@
             "Key": "CharlatanExploitSelection_Description",
             "Value": "Durch die Beugung und mitunter sogar den Bruch mit den Regeln der Magie lernt der Scharlatan, die Lücken und Ausnahmen der Gesetze der Zauberei für seine Zwecke zu nutzen. Auf diese Weise kann er verschiedene Formen der Magie aufspalten, um ihre Essenz seinem arkanen Reservoir hinzuzufügen. Auf Stufe 1 und nach jeweils 3 weiteren Stufen erlernt der Scharlatan einen neuen Scharlatantrick. Ein Scharlatantrick kann nur einmal ausgewählt werden. Nach der Wahl eines Scharlatantricks kann dieser nicht gewechselt werden. Viele Scharlatantricks erfordern den Einsatz von Punkten aus dem arkanen Reservoir des Scharlatans. Sofern nicht anders angegeben, entspricht der {g|Encyclopedia:Saving_Throw}Rettungswurf{/g}-{g|Encyclopedia:DC}SG{/g} gegen einen Scharlatantrick 10 + halbe Stufe des Scharlatans + {g|Encyclopedia:Charisma}Charismamodifikator{/g} des Scharlatans."
         },
+        {
+            "Key": "CharlatanProgression_Name",
+            "Value": "Scharlatan-Talente"
+        },
 
 
         {
@@ -117,6 +136,62 @@
         {
             "Key": "MagistraArchetype_Description",
             "Value": "Eine Magistra ist eine begabte Hexe, die zumeist in edlen Kreisen ausgewwachsen ist. Da Hexenmagie dort in aller Regel nicht gerne gesehen ist, musste sie sich auf Täuschung, List und Illusionen verschreiben, um durch's Leben zu kommen."
+        },
+        {
+            "Key": "MagistraProgression_Name",
+            "Value": "Magistra-Talente"
+        },
+        {
+            "Key": "MagistraSecrecyProgression_Name",
+            "Value": "Schleierhexen-Talente"
+        },
+
+        {
+            "Key": "ArcheryMasterArchetype_Name",
+            "Value": "Bogenmeister"
+        },
+        {
+            "Key": "ArcheryMasterArchetype_Description",
+            "Value": "Bogenmeister"
+        },        {
+            "Key": "ArcheryMasterProficiencies_Name",
+            "Value": "Bogenmeister-Kenntnisse"
+        },
+        {
+            "Key": "ArcheryMasterProficiencies_Description",
+            "Value": "Bogenmeister wissen mit allen {g|Encyclopedia:Weapon_Proficiency}einfachen Waffen{/g} sowie Estoc, Rapier, Kurz- und Langbogen umzugehen. Sie sind mit leichten Rüstungen, nicht aber mit Schilden, vertraut."
+        },
+        {
+            "Key": "ArcheryMasterProgression_Name",
+            "Value": "Bogenmeister-Talente"
+        },
+        {
+            "Key": "ArcheryMasterAnimalProgression_Name",
+            "Value": "Tiergefährten-Talente"
+        },
+
+        {
+            "Key": "BladeMasterArchetype_Name",
+            "Value": "Klingenmeister"
+        },
+        {
+            "Key": "BladeMasterArchetype_Description",
+            "Value": "Klingenmeister"
+        },        {
+            "Key": "BladeMasterProficiencies_Name",
+            "Value": "Klingenmeister-Kenntnisse"
+        },
+        {
+            "Key": "BladeMasterProficiencies_Description",
+            "Value": "Klingenmeister wissen mit allen {g|Encyclopedia:Weapon_Proficiency}einfachen Waffen{/g} sowie nahezu allen Klingenwaffen umzugehen. Sie sind mit leichten und mittleren Rüstungen, nicht aber mit Schilden, vertraut."
+        },
+        {
+            "Key": "BladeMasterProgression_Name",
+            "Value": "Klingenmeister-Talente"
+        },
+        {
+            "Key": "BladeMasterFighterProgression_Name",
+            "Value": "Klingenmeister-Kampftalente"
         }
     ]
 }

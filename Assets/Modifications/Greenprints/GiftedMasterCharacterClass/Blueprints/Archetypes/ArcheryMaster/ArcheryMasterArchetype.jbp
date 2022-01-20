@@ -1,5 +1,5 @@
 {
-  "AssetId": "ba1a9ad7691f423e81fa7f3defe677f6",
+  "AssetId": "295ce782c8e04baf8bd49fa674913536",
   "Data": {
     "$type": "f04f17ea4eae4fb89afa5b4021444740, BlueprintArchetype",
     "PrototypeLink": null,
@@ -7,15 +7,15 @@
     "Components": [],
     "Comment": "",
     "LocalizedName": {
-      "m_Key": "MagistraArchetype_Name",
-      "m_OwnerString": "ba1a9ad7691f423e81fa7f3defe677f6",
+      "m_Key": "ArcheryMasterArchetype_Name",
+      "m_OwnerString": "295ce782c8e04baf8bd49fa674913536",
       "m_OwnerPropertyPath": "LocalizedName",
       "m_JsonPath": "",
       "Shared": null
     },
     "LocalizedDescription": {
-      "m_Key": "MagistraArchetype_Description",
-      "m_OwnerString": "ba1a9ad7691f423e81fa7f3defe677f6",
+      "m_Key": "ArcheryMasterArchetype_Description",
+      "m_OwnerString": "295ce782c8e04baf8bd49fa674913536",
       "m_OwnerPropertyPath": "LocalizedDescription",
       "m_JsonPath": "",
       "Shared": null
@@ -28,21 +28,16 @@
       "Shared": null
     },
     "m_Icon": null,
-    "m_ReplaceSpellbook": "!bp_b897fe0947e4b804082b1a687c21e6e2",
+    "m_ReplaceSpellbook": null,
     "RemoveSpellbook": false,
     "BuildChanging": true,
     "AddFeatures": [
       {
         "Level": 1,
         "m_Features": [
-          "!bp_a82d549e87da4b86a2533b98eda5a212",
-          "!bp_860a58e359a141c4a149045e15a6561c",
-          "!bp_c213af60aba83ed4993948dce6b947b8",
-          "!bp_29a333b7ccad3214ea3a51943fa0d8e9",
-          "!bp_d3e6275cfa6e7a04b9213b7b292a011c",
-          "!bp_62ef1cdb90f1d654d996556669caf7fa",
-          "!bp_ee0b69e90bac14446a4cf9a050f87f2e",
-          "!bp_3a4214e3c2eab3c40bc491d7abea7045"
+          "!bp_8ffd46c8f4924df18525db3194dae20b",
+          "!bp_aa21d0f95cb34f2ca049b82384f7b76f",
+          "!bp_79f4ba9141d84dea9992653a2bf6cc8c"
         ]
       }
     ],
@@ -50,7 +45,7 @@
       {
         "Level": 1,
         "m_Features": [
-          "!bp_5d3d2d6379134b969f8dfef67f128ba5",
+          "!bp_61294830a8c342de98275cdd7a5e0c35",
           "!bp_0299e3823b8742c7a963d311258b9de7",
           "!bp_500489877a5c46b98f2c1cc3c7c15a1f"
         ]

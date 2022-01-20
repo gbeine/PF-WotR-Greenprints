@@ -1,37 +1,35 @@
 {
-  "AssetId": "3df9280dbe3345e0b8449087f0c4fa08",
+  "AssetId": "8ffd46c8f4924df18525db3194dae20b",
   "Data": {
     "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
     "PrototypeLink": null,
     "m_Overrides": [
-      "$AddProficiencies$6c88eddc-9cce-4612-a6ad-93bdd444a70c",
-      "$AddFacts$6954f5cf-7851-4517-a05c-6edf2a94199c"
+      "$AddFacts$a899dd77-f142-4ce3-9097-0f836499cbae",
+      "$AddProficiencies$7bad3864-2004-4d40-8b0e-c2f2e831a0ed"
     ],
     "Components": [
       {
         "$type": "5fa95b92f4e484742ad84c926183372c, AddProficiencies",
-        "name": "$AddProficiencies$6c88eddc-9cce-4612-a6ad-93bdd444a70c",
+        "name": "$AddProficiencies$7bad3864-2004-4d40-8b0e-c2f2e831a0ed",
         "m_Overrides": [],
         "m_RaceRestriction": null,
         "ArmorProficiencies": [],
         "WeaponProficiencies": [
           "Rapier",
-          "Kukri",
+          "Estoc",
           "Shortsword",
           "Longsword",
-          "Scimitar",
-          "Falchion",
-          "DuelingSword",
-          "Estoc",
-          "Sai"
+          "Longbow",
+          "Shortbow"
         ]
       },
       {
         "$type": "d79ad4ed064aa4f43ace0e9c238fb9b9, AddFacts",
-        "name": "$AddFacts$6954f5cf-7851-4517-a05c-6edf2a94199c",
+        "name": "$AddFacts$a899dd77-f142-4ce3-9097-0f836499cbae",
         "m_Overrides": [],
         "m_Facts": [
-          "!bp_ac8aaf29054f5b74eb18f2af950e752d"
+          "!bp_6d3728d4e9c9898458fe5e9532951132",
+          "!bp_e70ecf1ed95ca2f40b754f1adb22bbdd"
         ],
         "Dummy": null,
         "CasterLevel": 0,
@@ -44,15 +42,15 @@
     "Comment": "",
     "m_AllowNonContextActions": false,
     "m_DisplayName": {
-      "m_Key": "GiftedMasterBladeProficiencies_Name",
-      "m_OwnerString": "3df9280dbe3345e0b8449087f0c4fa08",
+      "m_Key": "ArcheryMasterProficiencies_Name",
+      "m_OwnerString": "8ffd46c8f4924df18525db3194dae20b",
       "m_OwnerPropertyPath": "m_DisplayName",
       "m_JsonPath": "",
       "Shared": null
     },
     "m_Description": {
-      "m_Key": "GiftedMasterBladeProficiencies_Description",
-      "m_OwnerString": "3df9280dbe3345e0b8449087f0c4fa08",
+      "m_Key": "ArcheryMasterProficiencies_Description",
+      "m_OwnerString": "8ffd46c8f4924df18525db3194dae20b",
       "m_OwnerPropertyPath": "m_Description",
       "m_JsonPath": "",
       "Shared": null
@@ -65,7 +63,7 @@
       "Shared": null
     },
     "m_Icon": {
-      "guid": "f0d44c2c81c53ef448bfc17cc071f60d",
+      "guid": "3714ca959287da54cbf82164d3a8805b",
       "fileid": 21300000
     },
     "HideInUI": false,
